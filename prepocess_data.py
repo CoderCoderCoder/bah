@@ -1,0 +1,26 @@
+import json
+import uuid
+from base64 import urlsafe_b64encode
+
+processed_data = {
+    "blackCards": {},
+    "whiteCards": {}
+}
+
+def get_nice_id(prefix):
+    return prefix + urlsafe_b64encode(uuid.uuid4().bytes).decode()[:-2]
+
+with open('base_deck.json') as f:
+    data = json.load(f)
+    for c in data['blackCards']:
+        uid = get_nice_id('B')
+        if c['pick'] != 1:
+            continue
+        processed_data['blackCards'][uid] = c['text']
+    for c in data['whiteCards']:
+        uid = get_nice_id('W')
+        processed_data['whiteCards'][uid] = c
+
+
+with open('processed_deck.json', 'w') as f:
+    json.dump(processed_data, f, indent=2)
