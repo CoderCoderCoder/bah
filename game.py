@@ -5,6 +5,8 @@ from datetime import datetime
 
 NUM_CARDS = 5
 
+DISCARD_ALL = True
+
 play_data = {}
 
 
@@ -43,7 +45,7 @@ if not os.path.exists('data.csv'):
 
 while True:
 
-    if len(black_deck) == 0:
+    if len(black_deck) == 0 or len(white_deck) < NUM_CARDS:
         print('\n\nGAME OVER!\n\n')
         break
 
@@ -78,18 +80,21 @@ while True:
 
     print('You have selected: [{}]'.format(selection[1]['text']))
 
-    del hand[selection[0]]
-
     timestamp = datetime.now().isoformat(timespec='seconds')
 
     with open('data.csv', 'a') as f:
         for wid in hand:
+            if wid == selection[0]:
+                continue
             f.write("{0}, {1}, {2}, {3}, {4}\n".format(timestamp, player_name,
                                                        black_card_uid, selection[0],
                                                        wid))
-    wc, white_deck = pick(white_deck, 1)
-
-    hand.update(wc)
+    if DISCARD_ALL:
+        hand, white_deck = pick(white_deck, NUM_CARDS)
+    else:
+        del hand[selection[0]]
+        wc, white_deck = pick(white_deck, 1)
+        hand.update(wc)
 
 
 
