@@ -13,7 +13,7 @@ play_data = {}
 def pick(deck, k):
     """ Returns a random selection of `k` cards, and the deck without them"""
     ids = list(deck.keys())
-    choices = set(random.choices(ids, k=k))
+    choices = set(random.sample(ids, k=k))
     return {c: deck[c] for c in deck if c in choices}, {c: deck[c] for c in deck if c not in choices}
 
 
@@ -41,7 +41,7 @@ print("\n\nLET'S PLAY!\n\n")
 
 if not os.path.exists('data.csv'):
     with open('data.csv', 'w') as f:
-        f.write("Timestamp, Player, Black_Card, Selected_card, Ignored_card\n")
+        f.write("Timestamp,Player,Black_Card,Selected_card,Ignored_card\n")
 
 while True:
 
@@ -86,7 +86,7 @@ while True:
         for wid in hand:
             if wid == selection[0]:
                 continue
-            f.write("{0}, {1}, {2}, {3}, {4}\n".format(timestamp, player_name,
+            f.write("{0},{1},{2},{3},{4}\n".format(timestamp, player_name,
                                                        black_card_uid, selection[0],
                                                        wid))
     if DISCARD_ALL:
