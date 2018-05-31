@@ -22,18 +22,18 @@ print 'hypernym example: ' + str(wn.wordnet.synset('clitoris.n.01').hypernyms())
 
 
 for sen in whites:
-	doc = nlp(sen)
-	for token in doc:
-		if token.pos_ == 'NOUN' and len(wn.wordnet.synsets(token.lemma_, pos='n')) > 0:
-			hypernyms = wn.wordnet.synsets(token.lemma_, pos='n')[0].hypernym_paths()[0]
-			max_index = len(hypernyms) - 1
-			if len(hypernyms) > 3:
-				max_index = 3
-			if hypernyms[max_index] in dictionary:
-				dictionary[hypernyms[max_index]] +=1
-			else:
-				dictionary[hypernyms[max_index]] =1
-			#print 'LEMMA: ' + str(token.lemma_) + ' HYPERNYM: ' + str(wn.wordnet.synset(token.lemma_ + '.n.01').hypernyms())
+    doc = nlp(sen)
+    for token in doc:
+        if token.pos_ == 'NOUN' and len(wn.wordnet.synsets(token.lemma_, pos='n')) > 0:
+            hypernyms = wn.wordnet.synsets(token.lemma_, pos='n')[0].hypernym_paths()[0]
+            max_index = len(hypernyms) - 1
+            if len(hypernyms) > 3:
+                max_index = 3
+            if hypernyms[max_index] in dictionary:
+                dictionary[hypernyms[max_index]] +=1
+            else:
+                dictionary[hypernyms[max_index]] =1
+#print 'LEMMA: ' + str(token.lemma_) + ' HYPERNYM: ' + str(wn.wordnet.synset(token.lemma_ + '.n.01').hypernyms())
 
 
 pprint(dictionary)
