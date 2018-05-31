@@ -7,6 +7,8 @@ processed_data = {
     "whiteCards": {}
 }
 
+NUM_WHITE_CARDS = 200
+
 def get_nice_id(prefix):
     return prefix + urlsafe_b64encode(uuid.uuid4().bytes).decode()[:-2]
 
@@ -21,7 +23,7 @@ with open('base_deck.json') as f:
             "color": 'b',
             "features": {}
         }
-    for c in data['whiteCards']:
+    for c in data['whiteCards'][:NUM_WHITE_CARDS]:
         uid = get_nice_id('W')
         processed_data['whiteCards'][uid] = {
             "text": c,
