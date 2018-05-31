@@ -16,10 +16,18 @@ with open('base_deck.json') as f:
         uid = get_nice_id('B')
         if c['pick'] != 1:
             continue
-        processed_data['blackCards'][uid] = c['text']
+        processed_data['blackCards'][uid] = {
+            "text": c['text'],
+            "color": 'b',
+            "features": {}
+        }
     for c in data['whiteCards']:
         uid = get_nice_id('W')
-        processed_data['whiteCards'][uid] = c
+        processed_data['whiteCards'][uid] = {
+            "text": c,
+            "color": 'w',
+            "features": {}
+        }
 
 
 with open('processed_deck.json', 'w') as f:
