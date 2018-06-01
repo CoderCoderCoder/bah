@@ -1,6 +1,7 @@
 import json
 import spacy
 import string
+import random
 import nltk
 from nltk import wordnet as wn
 from pprint import pprint
@@ -124,7 +125,6 @@ def feature_most_freq_noun_hypernym(noun_hypernyms, doc):
             if len(hypernyms) > 3:
                 max_index = 3
             chosenHypernym = str(hypernyms[max_index]).split('.')[0].split('\'')[1]
-            print(chosenHypernym)
             if noun_hypernyms[chosenHypernym] > freqMostCommonHypernym:
                 freqMostCommonHypernym = noun_hypernyms[chosenHypernym]
                 mostCommonHypernym = chosenHypernym
@@ -132,7 +132,11 @@ def feature_most_freq_noun_hypernym(noun_hypernyms, doc):
     return hash(mostCommonHypernym)
 
 
-def feature_sentence_similarity(sentence1, sentence2):
+def feature_sentences_similarity(sentence1, sentence2):
+    doc = nlp(sentence1)
+    sentence1 = ' '.join([token.text for token in doc if not (token.is_stop or token.is_punct)])
+    doc = nlp(sentence2)
+    sentence2 = ' '.join([token.text for token in doc if not (token.is_stop or token.is_punct)])
     vec1 = compute_sentence_embedding(sentence1)
     vec2 = compute_sentence_embedding(sentence2)
     distance = cos_sim(vec1, vec2)
@@ -239,9 +243,9 @@ def compute_feature_for(sen, noun_hypernyms, card_type):
                 "best_hypernym": f4, "sexual_content": f5,
                 "black_card_type": f6, "text_len": f7}
 
-    print(sen)
-    print(features)
-    print()
+    #print(sen)
+    #print(features)
+    #print()
 
     return features
 
@@ -268,6 +272,5 @@ def compute_all_features():
 
 
 if __name__ == "__main__":
-    #bs, ws = compute_all_features()
-    print feature_sentence_similarity(u'pink is beautiful.', u'pink is beautiful.')
-    #save_json(bs, ws)
+    bs, ws = compute_all_features()
+    save_json(bs, ws)
