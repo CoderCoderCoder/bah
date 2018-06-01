@@ -28,8 +28,11 @@ For  each incorrect guess the bot team gets a point.
 
 The game contains a few components that work together 
 
-1. The Web Interface (Javascript )
-
+1. The Web Client (HTML + Javascript) - provides a player UI
+2. The Backend (Firebase) - manages the game state
+3. Machine Learning module (Preference Learning Toolbox) - learns how to play the game from the past data
+4. Playing Bots (Python) - use different strategies (including ML model) to play online against the humans
+5. NLP pipeline (Python) - extracts various features to feed to the ML module 
 
 ## Natural Language Processing
 
