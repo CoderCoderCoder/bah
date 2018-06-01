@@ -26,6 +26,26 @@ def load_texts(whites=False):
     return [all_c[key]["text"] for key in all_c]
 
 
+def load_jsons():
+    with open('processed_deck.json') as f:
+        deck = json.load(f)
+
+    blacks = deck['blackCards']
+    whites = deck['whiteCards']
+
+    print("imported number of white cards: " + str(len(whites)))
+    print("imported number of black cards: " + str(len(blacks)))
+
+    return blacks, whites
+
+
+def save_json(blacks, whites):
+    data = {'blackCards': blacks, 'whiteCards': whites}
+
+    with open('processed_deck_features.json', 'w') as outfile:
+        json.dump(data, outfile, indent=4)
+
+
 def check_wn_installed():
     print("Checking if wordnet is already installed, installl if not")
     try:
@@ -114,7 +134,6 @@ def feature_most_freq_noun_hypernym(noun_hypernyms, doc):
     return hash(mostCommonHypernym)
 
 
-
 def get_all_noun_hypernyms(sentences):
     """ Counts the frequencies of hypernyms of each noun form of a set of sentences
         return: dictionary
@@ -133,27 +152,45 @@ def get_all_noun_hypernyms(sentences):
                 chosenHypernym = str(hypernyms[max_index]).split('.')[0].split('\'')[1]
 
                 if chosenHypernym in dictionary:
-                    dictionary[chosenHypernym] +=1
+                    dictionary[chosenHypernym] += 1
                 else:
-                    dictionary[chosenHypernym] =1
+                    dictionary[chosenHypernym] = 1
     return dictionary
 
 
+def compute_feature_for(sen):
+    doc = nlp(sen)
+    f1 = feature_synset_num(doc)
+    f2 = feature_root_concept(doc)
+    f3 = feature_POS(doc)
+
+    features = [f1, f2, f3]
+
+    print(sen)
+    print(features)
+    print()
+
+    return features
+
+
 def compute_all_features():
-    texts = load_texts()
-    noun_hypernyms = get_all_noun_hypernyms(texts)
-    for sen in texts[:15]:
-        doc = nlp(sen)
-        f1 = feature_synset_num(doc)
-        f2 = feature_root_concept(doc)
-        f3 = feature_POS(doc)
-        f4 = feature_most_freq_noun_hypernym(noun_hypernyms, doc)
-        print(sen)
-        print(f1, f2, f3, f4)
-        print()
+    blacks, whites = load_jsons()
+
+    # compute black features
+    for key in list(blacks.keys()):
+        sen = blacks[key]["text"]
+        features = compute_feature_for(sen)
+        blacks[key]["features"] = features
+
+    # compute white features
+    for key in list(whites.keys()):
+        sen = whites[key]["text"]
+        features = compute_feature_for(sen)
+        whites[key]["features"] = features
+
+    return blacks, whites
 
 
 if __name__ == "__main__":
-    compute_all_features()
-
-
+    bs, ws = compute_all_features()
+    save_json(bs, ws)
