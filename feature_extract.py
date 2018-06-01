@@ -123,7 +123,7 @@ def feature_most_freq_noun_hypernym(noun_hypernyms, doc):
             if len(hypernyms) > 3:
                 max_index = 3
             chosenHypernym = str(hypernyms[max_index]).split('.')[0].split('\'')[1]
-            print chosenHypernym
+            print(chosenHypernym)
             if noun_hypernyms[chosenHypernym] > freqMostCommonHypernym:
                 freqMostCommonHypernym = noun_hypernyms[chosenHypernym]
                 mostCommonHypernym = chosenHypernym
@@ -156,6 +156,31 @@ def feature_sexual_content(doc):
         return 0
 
 
+def feature_black_card_type(doc, card_t):
+    """ Determines the whether the black card has a whitespace
+    or a question.
+        return: int (0:whitespace, 1:question, 2:non-black)
+    """
+    if card_t == "w":
+        return 2
+
+    question = False
+    white_space = False
+    for token in doc:
+        if token.text == "_":
+            white_space = True
+        if token.text == "?":
+            question = True
+
+    # make sure that a question in first sentence doesnt conceal a white space
+    # in the end
+    if white_space:
+        return 0
+    if question:
+        return 1
+    return 2
+
+
 def get_all_noun_hypernyms(sentences):
     """ Counts the frequencies of hypernyms of each noun form of a set of sentences
         return: dictionary
@@ -180,15 +205,16 @@ def get_all_noun_hypernyms(sentences):
     return dictionary
 
 
-def compute_feature_for(sen, noun_hypernyms):
+def compute_feature_for(sen, noun_hypernyms, card_type):
     doc = nlp(sen)
     f1 = feature_synset_num(doc)
     f2 = feature_root_concept(doc)
     f3 = feature_POS(doc)
     f4 = feature_most_freq_noun_hypernym(noun_hypernyms, doc)
     f5 = feature_sexual_content(doc)
+    f6 = feature_black_card_type(doc, card_type)
 
-    features = {"ambiguity": f1, "root_concept": f2, "POS": f3, "best_hypernym": f4, "sexual_content": f5}
+    features = {"ambiguity": f1, "root_concept": f2, "POS": f3, "best_hypernym": f4, "sexual_content": f5, "black_card_type": f6}
 
     print(sen)
     print(features)
@@ -206,13 +232,13 @@ def compute_all_features():
     # compute black features
     for key in list(blacks.keys()):
         sen = blacks[key]["text"]
-        features = compute_feature_for(sen, noun_hypernyms)
+        features = compute_feature_for(sen, noun_hypernyms, blacks[key]["color"])
         blacks[key]["features"] = features
 
     # compute white features
     for key in list(whites.keys()):
         sen = whites[key]["text"]
-        features = compute_feature_for(sen, noun_hypernyms)
+        features = compute_feature_for(sen, noun_hypernyms, whites[key]["color"])
         whites[key]["features"] = features
 
     return blacks, whites
