@@ -140,7 +140,7 @@ def feature_sentences_similarity(sentence1, sentence2):
     vec1 = compute_sentence_embedding(sentence1)
     vec2 = compute_sentence_embedding(sentence2)
     distance = cos_sim(vec1, vec2)
-    print distance
+    return distance
 
 
 def feature_sexual_content(doc):
@@ -201,8 +201,21 @@ def feature_text_length(doc):
         punctuation.
         return: int
     """
-    
+
     return len([token for token in doc if not (token.is_stop or token.is_punct)])
+
+
+def feature_ner_type(doc):
+    """
+        Indetifies the number and types of named entities in the doc,
+        returns both.
+        return: int
+    """
+    ents = []
+    for ent in doc.ents:
+        ents.append(ent.label_)
+
+    return len(ents), hash("".join(ents))
 
 
 def get_all_noun_hypernyms(sentences):
@@ -238,10 +251,12 @@ def compute_feature_for(sen, noun_hypernyms, card_type):
     f5 = feature_sexual_content(doc)
     f6 = feature_black_card_type(doc, card_type)
     f7 = feature_text_length(doc)
+    f8, f9 = feature_ner_type(doc)
 
     features = {"ambiguity": f1, "root_concept": f2, "POS": f3,
                 "best_hypernym": f4, "sexual_content": f5,
-                "black_card_type": f6, "text_len": f7}
+                "black_card_type": f6, "text_len": f7,
+                "num_ne": f8, "nes": f9}
 
     #print(sen)
     #print(features)
