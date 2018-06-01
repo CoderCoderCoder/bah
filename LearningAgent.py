@@ -1,26 +1,50 @@
 import csv
 import os
 import json
-import pprint
+import random
+from pprint import  pprint
 from Bot import Bot
+from importSVM import import_model
+import sys
 
 class LearningAgent(Bot):
 
+    def __init__(self):
+        self.combinations = dict()
+        self.preferences = list()
+        self.lookup_table = dict()
+        self.card_features = dict()
+        self.global_order = dict()
+
     #Processing DataSet
     def select_card(self, black_card, *white_cards):
-        print("Not implemented yet")
 
-    def judge_card(self, *white_cards):
-        print("Not implemented yet")
+        better_card = 0
+        better_position = -sys.maxsize - 1
+
+        for white_card in list(white_cards):
+            #Get the combo key  and look into the translation
+            combo_id = self.lookup_table[self.__generate_combo_key(black_card, white_card)]
+            combo_features = self.combinations[combo_id]
+            print(combo_features)
+            #TODO: Know what is in the keys in global order
+
+            combo_position = self.global_order[combo_features]
+            if(combo_position < better_position):
+                better_card = white_card
+                better_position = combo_position
+
+        return better_card
+
+    def __get_card_features(self, card_key):
+        return self.card_features[card_key]
 
     def learn_from_model(self, rank_svm_model):
-        #TODO: Import from Phil Lopes code
-        pass
+        #Import from Phil Lopes code
+        self.global_order = import_model(rank_svm_model,'all_data.csv') #this should be assigned to a variable
 
-    @staticmethod
-    def process_and_save_data(data_path, cards_path, combination_path, preference_path):
-        comb, pref, lookup = LearningAgent.__process_data(data_path, cards_path)
-        print(comb)
+    def process_and_save_data(self, data_path, cards_path, combination_path, preference_path):
+        comb, pref, lookup, card_features = self.__process_data(data_path, cards_path)
 
         # Print some info for testing
         print('number of combinations: ' + str(len(comb)))
@@ -29,6 +53,10 @@ class LearningAgent(Bot):
 
         # Create combinations file
         with open(combination_path, 'w') as f:
+            id, card = random.choice(list(card_features.items()))
+            black_features_name = ['b_{0}'.format(i) for i in card.keys()]
+            white_features_name = ['w_{0}'.format(i) for i in card.keys()]
+            f.write("{0},{1},{2}\n".format('ID', ','.join(black_features_name), ','.join(white_features_name)))
             for key, value in comb.items():
                 feature_string = ",".join(map(str, value))
                 f.write("{0},{1}\n".format(key, feature_string))
@@ -38,34 +66,38 @@ class LearningAgent(Bot):
             for pref in pref:
                 f.write("{0}\n".format(pref))
 
-    @staticmethod
-    def __generate_combo_key(black, white):
+    def __generate_combo_key(self, black, white):
         return black + ' ' + white
 
-    @staticmethod
-    def __extract_features(card_features, black, white):
-        black_features = card_features[black]
-        white_features = card_features[white]
-
-        #TODO: Discover how they are presenting the data. Adjust bellow accordingly
-        return {}
-
-    @staticmethod
-    def __process_data(data_path, cards_path):
-        combinations = dict()
-        preferences = list()
-        lookup_table = dict()
-        card_features = dict()
+    def __process_data(self, data_path, cards_path):
 
         #Get the cards features
         with open(cards_path, 'r') as card_file:
 
             card_data = json.load(card_file)
             for id, card in card_data['blackCards'].items():
-                card_features[id] = card["features"]
+                self.card_features[id] = card["features"]
 
             for id, card in card_data['whiteCards'].items():
-                card_features[id] = card["features"]
+                self.card_features[id] = card["features"]
+
+        #Create all possible combinations
+        with open(cards_path, 'r') as card_file:
+            card_data = json.load(card_file)
+
+            #Update lookup table and combination
+            lookup_table_id = 0
+            for b_id, b_card in card_data['blackCards'].items():
+                for w_id, w_card in card_data['whiteCards'].items():
+
+                    #Create lookup entry
+                    combined_card_name = self.__generate_combo_key(b_id, w_id)
+                    self.lookup_table[combined_card_name] = lookup_table_id
+                    lookup_table_id += 1
+
+                    #Create the combination feature
+                    combined_features = list(self.card_features[b_id].values()) + list(self.card_features[w_id].values())
+                    self.combinations[self.lookup_table[combined_card_name]] = combined_features
 
         #Process the playing hands
         with open(data_path, 'r') as csv_file:
@@ -82,32 +114,13 @@ class LearningAgent(Bot):
                     best_white_card = row[3]
                     worst_white_card = row[4]
 
-                    best_card_key = LearningAgent.__generate_combo_key(black_card, best_white_card)
-                    worst_card_key = LearningAgent.__generate_combo_key(black_card, worst_white_card)
+                    best_card_key = self.__generate_combo_key(black_card, best_white_card)
+                    worst_card_key = self.__generate_combo_key(black_card, worst_white_card)
 
-                    #Check if it was already used
-                    if best_card_key not in lookup_table.keys():
-                        #Create a new ID
-                        best_card_id = lookup_table[best_card_key] = len(lookup_table) + 1
-                        #Create a new Combination
-                        combinations[best_card_id] = LearningAgent. __extract_features(card_features, black_card, best_white_card)
-                    else:
-                        # Get the available ID
-                        best_card_id = lookup_table[best_card_key]
-
-                    if worst_card_key not in lookup_table.keys():
-                        #Create a new ID
-                        worst_card_id = lookup_table[worst_card_key] = len(lookup_table) + 1
-                        # Create a new Combination
-                        combinations[worst_card_id] = LearningAgent.__extract_features(card_features, black_card, worst_white_card)
-                    else:
-                        #Get the available ID
-                        worst_card_id = lookup_table[worst_card_key]
-
-                    #Add to preferences
-                    preferences.append(str(best_card_id) + ',' + str(worst_card_id))
+                    best_card_combo_id = self.lookup_table[best_card_key]
+                    worst_card_combo_id = self.lookup_table[worst_card_key]
+                    self.preferences.append(str(best_card_combo_id) + ',' + str(worst_card_combo_id))
 
                 n_row += 1
-                print(row)
 
-        return combinations, preferences, lookup_table
+        return self.combinations, self.preferences, self.lookup_table, self.card_features
