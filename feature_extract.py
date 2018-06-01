@@ -147,11 +147,14 @@ def feature_sexual_content(doc):
     'porn',
     'balls',
     'necrophilia',
-    'boner']
+    'boner',
+    'clitoris',
+    'viagra']
 
     for sw in sexual_words:
-        if str(doc).find(sw) != -1:
-            return 1
+        for token in doc:
+            if token.lemma_.find(sw) != -1:
+                return 1
     else:
         return 0
 

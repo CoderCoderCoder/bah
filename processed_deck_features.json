@@ -1040,7 +1040,7 @@
             "color": "w", 
             "text": "Necrophilia.", 
             "features": {
-                "sexual_content": 0, 
+                "sexual_content": 1, 
                 "best_hypernym": 0, 
                 "root_concept": -6004443473725257740, 
                 "ambiguity": 1, 
@@ -2547,7 +2547,7 @@
             "color": "w", 
             "text": "Sexting.", 
             "features": {
-                "sexual_content": 0, 
+                "sexual_content": 1, 
                 "best_hypernym": 0, 
                 "root_concept": 2082472651420346749, 
                 "ambiguity": 1, 
@@ -2591,7 +2591,7 @@
             "color": "w", 
             "text": "Sexy pillow fights.", 
             "features": {
-                "sexual_content": 0, 
+                "sexual_content": 1, 
                 "best_hypernym": -1197222403920456452, 
                 "root_concept": -3972240938986032671, 
                 "ambiguity": 4, 
@@ -2712,7 +2712,7 @@
             "color": "w", 
             "text": "The clitoris.", 
             "features": {
-                "sexual_content": 0, 
+                "sexual_content": 1, 
                 "best_hypernym": 4142549773839848275, 
                 "root_concept": 690067971680482353, 
                 "ambiguity": 0, 
@@ -2756,7 +2756,7 @@
             "color": "w", 
             "text": "Viagra&reg;.", 
             "features": {
-                "sexual_content": 0, 
+                "sexual_content": 1, 
                 "best_hypernym": 0, 
                 "root_concept": -765165075176041001, 
                 "ambiguity": 0, 
