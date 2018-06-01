@@ -181,6 +181,15 @@ def feature_black_card_type(doc, card_t):
     return 2
 
 
+def feature_text_length(doc):
+    """ Determines the length of a text ecluding stop words and
+        punctuation.
+        return: int
+    """
+    
+    return len([token for token in doc if not (token.is_stop or token.is_punct)])
+
+
 def get_all_noun_hypernyms(sentences):
     """ Counts the frequencies of hypernyms of each noun form of a set of sentences
         return: dictionary
@@ -213,8 +222,11 @@ def compute_feature_for(sen, noun_hypernyms, card_type):
     f4 = feature_most_freq_noun_hypernym(noun_hypernyms, doc)
     f5 = feature_sexual_content(doc)
     f6 = feature_black_card_type(doc, card_type)
+    f7 = feature_text_length(doc)
 
-    features = {"ambiguity": f1, "root_concept": f2, "POS": f3, "best_hypernym": f4, "sexual_content": f5, "black_card_type": f6}
+    features = {"ambiguity": f1, "root_concept": f2, "POS": f3,
+                "best_hypernym": f4, "sexual_content": f5,
+                "black_card_type": f6, "text_len": f7}
 
     print(sen)
     print(features)
