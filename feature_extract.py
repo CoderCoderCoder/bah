@@ -188,7 +188,7 @@ def compute_feature_for(sen, noun_hypernyms):
     f4 = feature_most_freq_noun_hypernym(noun_hypernyms, doc)
     f5 = feature_sexual_content(doc)
 
-    features = [f1, f2, f3, f4, f5]
+    features = {"ambiguity": f1, "root_concept": f2, "POS": f3, "best_hypernym": f4, "sexual_content": f5}
 
     print(sen)
     print(features)
