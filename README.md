@@ -24,6 +24,13 @@ Every player (human or player) get a point for the team if their response is sel
 For each correct guess about the players nature, the human team gets one point. 
 For  each incorrect guess the bot team gets a point.
 
+![Screenshot 1](img/screen1.png)
+![Screenshot 2](img/screen2.png)
+![Screenshot 3](img/screen3.png)
+![Screenshot 4](img/screen4.png)
+![Screenshot 5](img/screen5.png)
+
+
 ## Overall Architecture
 
 The game contains a few components that work together 
