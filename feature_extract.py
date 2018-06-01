@@ -1,6 +1,7 @@
 import json
 import random
 import spacy
+import string
 import nltk
 from nltk import wordnet as wn
 from pprint import pprint
@@ -21,6 +22,7 @@ dictionary = {}
 print 'hypernym example: ' + str(wn.wordnet.synset('clitoris.n.01').hypernyms())
 
 
+# counting the frequencies of hypernyms of each noun form
 for sen in whites:
     doc = nlp(sen)
     for token in doc:
@@ -29,11 +31,34 @@ for sen in whites:
             max_index = len(hypernyms) - 1
             if len(hypernyms) > 3:
                 max_index = 3
-            if hypernyms[max_index] in dictionary:
-                dictionary[hypernyms[max_index]] +=1
+            chosenHypernym = str(hypernyms[max_index]).split('.')[0].split('\'')[1]
+
+            if chosenHypernym in dictionary:
+                dictionary[chosenHypernym] +=1
             else:
-                dictionary[hypernyms[max_index]] =1
-#print 'LEMMA: ' + str(token.lemma_) + ' HYPERNYM: ' + str(wn.wordnet.synset(token.lemma_ + '.n.01').hypernyms())
+                dictionary[chosenHypernym] =1
+            #print 'LEMMA: ' + str(token.lemma_) + ' HYPERNYM: ' + str(chosenHypernym)
 
 
-pprint(dictionary)
+for sen in whites:
+    doc = nlp(sen)
+    mostCommonHypernym = ''
+    freqMostCommonHypernym = 0
+    print sen
+    for token in doc:
+        if token.pos_ == 'NOUN' and len(wn.wordnet.synsets(token.lemma_, pos='n')) > 0:
+            hypernyms = wn.wordnet.synsets(token.lemma_, pos='n')[0].hypernym_paths()[0]
+            max_index = len(hypernyms) - 1
+            if len(hypernyms) > 3:
+                max_index = 3
+            chosenHypernym = str(hypernyms[max_index]).split('.')[0].split('\'')[1]
+            print 'LEMMA: ' + str(token.lemma_) + ' HYPERNYM: ' + str(chosenHypernym)
+
+            if dictionary[chosenHypernym] > freqMostCommonHypernym:
+                freqMostCommonHypernym = dictionary[chosenHypernym]
+                mostCommonHypernym = chosenHypernym
+
+    print 'CHOSEN HYPERNYM: ' + chosenHypernym
+    print '------------------------------------------'
+
+
