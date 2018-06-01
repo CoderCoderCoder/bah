@@ -3,2488 +3,2488 @@
         "BYNOhEpIfQT6z958v43TLsA": {
             "text": "Why can't I sleep at night?",
             "color": "b",
-            "features": [
-                3.2,
-                1299772126298031980,
-                -4590824078775487790
-            ]
+            "features": {
+                "ambiguity": 3.2,
+                "root_concept": -8942795169509793030,
+                "POS": -9160819407879853605
+            }
         },
         "BkayO70BBRTOLZsTm7rPgTw": {
             "text": "I got 99 problems but _ ain't one.",
             "color": "b",
-            "features": [
-                9.333333333333334,
-                587083868731744185,
-                4532290686097412350
-            ]
+            "features": {
+                "ambiguity": 9.333333333333334,
+                "root_concept": -2992591719550554380,
+                "POS": -3479357167144100873
+            }
         },
         "B1ExcJ5u3R42IgUnK7s7Vkg": {
             "text": "What's a girl's best friend?",
             "color": "b",
-            "features": [
-                8.5,
-                6703033887182308858,
-                3191320879097018168
-            ]
+            "features": {
+                "ambiguity": 8.5,
+                "root_concept": -4176142933413891537,
+                "POS": -5481021893880978524
+            }
         },
         "B-bnLCB_pSM-VIFA0tX-P6g": {
             "text": "What's that smell?",
             "color": "b",
-            "features": [
-                8.0,
-                6703033887182308858,
-                -3231655526450944330
-            ]
+            "features": {
+                "ambiguity": 8.0,
+                "root_concept": -4176142933413891537,
+                "POS": -3945602108518319331
+            }
         },
         "ByJHXJJkgRTS8_C3tm18CbA": {
             "text": "This is the way the world ends / This is the way the world ends / Not with a bang but with _.",
             "color": "b",
-            "features": [
-                9.3,
-                1571393950078822458,
-                -1370340888167541060
-            ]
+            "features": {
+                "ambiguity": 9.3,
+                "root_concept": -7881763358902707149,
+                "POS": -6086070589234809528
+            }
         },
         "BokNI6UtEQLaIgP6-lgEPSQ": {
             "text": "What is Batman's guilty pleasure?",
             "color": "b",
-            "features": [
-                1.6,
-                6703033887182308858,
-                -939178643643310843
-            ]
+            "features": {
+                "ambiguity": 1.6,
+                "root_concept": -4176142933413891537,
+                "POS": 1471920050847934356
+            }
         },
         "Bxhqrj7qDTUeDPLRNTXd71w": {
             "text": "TSA guidelines now prohibit _ on airplanes.",
             "color": "b",
-            "features": [
-                1.5,
-                4410061567283027754,
-                420922075652423346
-            ]
+            "features": {
+                "ambiguity": 1.5,
+                "root_concept": -4287691371285063145,
+                "POS": -5387004451603377512
+            }
         },
         "Ba3awX1yiTkSIlV7ESWD6Tw": {
             "text": "What ended my last relationship?",
             "color": "b",
-            "features": [
-                7.333333333333333,
-                -5223318509540846307,
-                -3231655526450944330
-            ]
+            "features": {
+                "ambiguity": 7.333333333333333,
+                "root_concept": -2903262901052792707,
+                "POS": -3945602108518319331
+            }
         },
         "B6U4INycKSye2exBIQw6xQQ": {
             "text": "MTV's new reality show features eight washed-up celebrities living with _.",
             "color": "b",
-            "features": [
-                8.25,
-                5842491231503265277,
-                1425022677580839764
-            ]
+            "features": {
+                "ambiguity": 8.25,
+                "root_concept": -5565001626434425427,
+                "POS": 5122496980653176564
+            }
         },
         "BUXDmMkUPT-uzUjvY1-CYOg": {
             "text": "I drink to forget _.",
             "color": "b",
-            "features": [
-                4.666666666666667,
-                -6299627688217890478,
-                5473799189622489726
-            ]
+            "features": {
+                "ambiguity": 4.666666666666667,
+                "root_concept": -3143586772847651014,
+                "POS": 6292038438384605232
+            }
         },
         "BCq_W64wAQaqpS-QkH9TeDg": {
             "text": "I'm sorry, Professor, but I couldn't complete my homework because of _.",
             "color": "b",
-            "features": [
-                3.875,
-                6703033887182308858,
-                -6543503695372504914
-            ]
+            "features": {
+                "ambiguity": 3.875,
+                "root_concept": -4176142933413891537,
+                "POS": 784553649657845607
+            }
         },
         "Bqpa_f3U_QKGiBavIh-Xvbw": {
             "text": "Alternative medicine is now embracing the curative powers of _.",
             "color": "b",
-            "features": [
-                5.4,
-                587083868731744185,
-                -1504160689151980533
-            ]
+            "features": {
+                "ambiguity": 5.4,
+                "root_concept": -2992591719550554380,
+                "POS": 3543773886637128156
+            }
         },
         "Bu9DJGetnSoafZCpo6KEO4w": {
             "text": "What's that sound?",
             "color": "b",
-            "features": [
-                12.666666666666666,
-                6703033887182308858,
-                -3231655526450944330
-            ]
+            "features": {
+                "ambiguity": 12.666666666666666,
+                "root_concept": -4176142933413891537,
+                "POS": -3945602108518319331
+            }
         },
         "BAMzga-kASdiXxdGbUy7uXg": {
             "text": "What's the next Happy Meal&reg; toy?",
             "color": "b",
-            "features": [
-                5.2,
-                4275990721028609850,
-                3836982891347288507
-            ]
+            "features": {
+                "ambiguity": 5.2,
+                "root_concept": 2162733514060939916,
+                "POS": -2469081797890161584
+            }
         },
         "B430c42xcTiq_MbXEBqHA4g": {
             "text": "It's a pity that kids these days are all getting involved with _.",
             "color": "b",
-            "features": [
-                11.285714285714286,
-                6703033887182308858,
-                2606486871653330717
-            ]
+            "features": {
+                "ambiguity": 11.285714285714286,
+                "root_concept": -4176142933413891537,
+                "POS": 3104605985716390132
+            }
         },
         "BDi8agjuaTHicrGEEKY3pEQ": {
             "text": "In the new Disney Channel Original Movie, Hannah Montana struggles with _ for the first time.",
             "color": "b",
-            "features": [
-                6.1,
-                587083868731744185,
-                -2613630019115209445
-            ]
+            "features": {
+                "ambiguity": 6.1,
+                "root_concept": -2992591719550554380,
+                "POS": 7404192445674825076
+            }
         },
         "B3wutCm4TT4qtCgjohL94fA": {
             "text": "_. That's how I want to die.",
             "color": "b",
-            "features": [
-                7.4,
-                6703033887182308858,
-                -8029804239377979978
-            ]
+            "features": {
+                "ambiguity": 7.4,
+                "root_concept": -4176142933413891537,
+                "POS": 4999078106280015839
+            }
         },
         "BEdp3bKBHQhKzFcd6EJ4oWg": {
             "text": "What does Dick Cheney prefer?",
             "color": "b",
-            "features": [
-                1.5,
-                211710225142644948,
-                7936499333630518057
-            ]
+            "features": {
+                "ambiguity": 1.5,
+                "root_concept": 2974038027943182768,
+                "POS": -8960243885495290381
+            }
         },
         "BigcI0NozQFiNdXZC6AQEhA": {
             "text": "What's the most emo?",
             "color": "b",
-            "features": [
-                4.666666666666667,
-                6703033887182308858,
-                -3231655526450944330
-            ]
+            "features": {
+                "ambiguity": 4.666666666666667,
+                "root_concept": -4176142933413891537,
+                "POS": -3945602108518319331
+            }
         },
         "BmmndJqrbQSGa9X-rkeMBdQ": {
             "text": "Instead of coal, Santa now gives the bad children _.",
             "color": "b",
-            "features": [
-                12.333333333333334,
-                942240231012417562,
-                4468013285065004281
-            ]
+            "features": {
+                "ambiguity": 12.333333333333334,
+                "root_concept": 5507063764458718820,
+                "POS": 1457385677722555268
+            }
         },
         "BE8vX7eyLTGCAcGGuc9UPiw": {
             "text": "Next from J.K. Rowling: Harry Potter and the Chamber of _.",
             "color": "b",
-            "features": [
-                2.6666666666666665,
-                8989074046244079205,
-                272485241692107195
-            ]
+            "features": {
+                "ambiguity": 2.6666666666666665,
+                "root_concept": 1212029070283907906,
+                "POS": -464365566037221388
+            }
         },
         "BgFH3SjSoSlCy483AijP2zA": {
             "text": "A romantic, candlelit dinner would be incomplete without _.",
             "color": "b",
-            "features": [
-                3.2,
-                6703033887182308858,
-                -2622259708503826742
-            ]
+            "features": {
+                "ambiguity": 3.2,
+                "root_concept": -4176142933413891537,
+                "POS": 8778997034516442548
+            }
         },
         "BjTAYNF-wRE6Zb1ocLFismg": {
             "text": "White people like _.",
             "color": "b",
-            "features": [
-                14.0,
-                3019054236762622761,
-                2692167667646716286
-            ]
+            "features": {
+                "ambiguity": 14.0,
+                "root_concept": 2004547321670075133,
+                "POS": -8732156880970305218
+            }
         },
         "Bw1UdUySgTsyvs7QMJKZ7jw": {
             "text": "_. Betcha can't have just one!",
             "color": "b",
-            "features": [
-                0.5,
-                -3072264698064081896,
-                7315568073820482109
-            ]
+            "features": {
+                "ambiguity": 0.5,
+                "root_concept": -5944426767482669966,
+                "POS": -8687800879772039951
+            }
         },
         "B8D68BGNHRgmwDTcKV3JKeA": {
             "text": "War!<br><br>What is it good for?",
             "color": "b",
-            "features": [
-                6.75,
-                6703033887182308858,
-                -3879253781335616411
-            ]
+            "features": {
+                "ambiguity": 6.75,
+                "root_concept": -4176142933413891537,
+                "POS": 7821213835710840756
+            }
         },
         "BsltcbSWcR1i1S-JziJgr6A": {
             "text": "BILLY MAYS HERE FOR _.",
             "color": "b",
-            "features": [
-                3.0,
-                -3072264698064081896,
-                3114260056387181042
-            ]
+            "features": {
+                "ambiguity": 3.0,
+                "root_concept": -5944426767482669966,
+                "POS": -2927639919749271855
+            }
         },
         "B0QWdNa1DRbilxAbKSQtohg": {
             "text": "_. High five, bro.",
             "color": "b",
-            "features": [
-                9.0,
-                5082537471355937567,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 9.0,
+                "root_concept": -1377999524866251169,
+                "POS": -8089004510456603566
+            }
         },
         "BmoyAEYhlTXmWYb0xwo9ESA": {
             "text": "During sex, I like to think about _.",
             "color": "b",
-            "features": [
-                6.2,
-                5842491231503265277,
-                -4493482415327561085
-            ]
+            "features": {
+                "ambiguity": 6.2,
+                "root_concept": -5565001626434425427,
+                "POS": 4729062648514338578
+            }
         },
         "B-PT-avPKTtmtMNdpYuaI3g": {
             "text": "What did I bring back from Mexico?",
             "color": "b",
-            "features": [
-                3.0,
-                7253808327117838320,
-                8355547594931845341
-            ]
+            "features": {
+                "ambiguity": 3.0,
+                "root_concept": -7207333973344418419,
+                "POS": 7735348596597613038
+            }
         },
         "Bv6sqHnt8SUmzmcXiUr115A": {
             "text": "What are my parents hiding from me?",
             "color": "b",
-            "features": [
-                3.0,
-                6703033887182308858,
-                -1826509244447824752
-            ]
+            "features": {
+                "ambiguity": 3.0,
+                "root_concept": -4176142933413891537,
+                "POS": 1429167015479337846
+            }
         },
         "BMByfOKZWRLKtnvwPgLwAbw": {
             "text": "What will always get you laid?",
             "color": "b",
-            "features": [
-                8.0,
-                587083868731744185,
-                -8954817651643473225
-            ]
+            "features": {
+                "ambiguity": 8.0,
+                "root_concept": -2992591719550554380,
+                "POS": -2020475245982140594
+            }
         },
         "B_q0Sl4wHTSO5tEzWgv07hw": {
             "text": "What would grandma find disturbing, yet oddly charming?",
             "color": "b",
-            "features": [
-                5.5,
-                5842491231503265277,
-                -2693287207147759224
-            ]
+            "features": {
+                "ambiguity": 5.5,
+                "root_concept": -5565001626434425427,
+                "POS": 9022400366855647605
+            }
         },
         "BpB2WsrVQQQa6dZ2L-W6B7A": {
             "text": "What did the U.S. airdrop to the children of Afghanistan?",
             "color": "b",
-            "features": [
-                1.6,
-                587083868731744185,
-                -1952786441773767619
-            ]
+            "features": {
+                "ambiguity": 1.6,
+                "root_concept": -2992591719550554380,
+                "POS": 6471238631993930297
+            }
         },
         "BPyFJTR-OQ3aHR_8BK_nYkA": {
             "text": "What helps Obama unwind?",
             "color": "b",
-            "features": [
-                4.0,
-                587083868731744185,
-                8486510752494775086
-            ]
+            "features": {
+                "ambiguity": 4.0,
+                "root_concept": -2992591719550554380,
+                "POS": -2312757008054941167
+            }
         },
         "Bok8FUNkDRV2JFAOXnMVVnQ": {
             "text": "What's there a ton of in heaven?",
             "color": "b",
-            "features": [
-                4.5,
-                6703033887182308858,
-                -8239946511403483501
-            ]
+            "features": {
+                "ambiguity": 4.5,
+                "root_concept": -4176142933413891537,
+                "POS": 5362278248811681087
+            }
         },
         "BosvhTmOjTkeDFHt5jdSimQ": {
             "text": "Major League Baseball has banned _ for giving players an unfair advantage.",
             "color": "b",
-            "features": [
-                10.375,
-                -1352101376641816403,
-                6935622708581615050
-            ]
+            "features": {
+                "ambiguity": 10.375,
+                "root_concept": -1204668994517790356,
+                "POS": -725158630330530444
+            }
         },
         "BIvcf77BjQ0Kp2f7RKfY-gw": {
             "text": "When I am a billionaire, I shall erect a 50-foot statue to commemorate _.",
             "color": "b",
-            "features": [
-                1.0,
-                2669048059738878970,
-                -845125206398279969
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": -1442755210356867466,
+                "POS": -1023422484920527817
+            }
         },
         "BhuCuPY9qSEq-AQ3Zqd_IZQ": {
             "text": "What's the new fad diet?",
             "color": "b",
-            "features": [
-                6.6,
-                6703033887182308858,
-                -3930318799784456155
-            ]
+            "features": {
+                "ambiguity": 6.6,
+                "root_concept": -4176142933413891537,
+                "POS": 4666293662901092335
+            }
         },
         "BaKMRsOmGRYO2quQD4yz7Lg": {
             "text": "When I am the President of the United States, I will create the Department of _.",
             "color": "b",
-            "features": [
-                4.25,
-                58492558110061865,
-                -3027181246695050719
-            ]
+            "features": {
+                "ambiguity": 4.25,
+                "root_concept": 7712331235897753270,
+                "POS": -3032354749010966417
+            }
         },
         "BYecySopARYGO2nz-OlIglQ": {
             "text": "_. It's a trap!",
             "color": "b",
-            "features": [
-                8.666666666666666,
-                6703033887182308858,
-                -7991460988163332722
-            ]
+            "features": {
+                "ambiguity": 8.666666666666666,
+                "root_concept": -4176142933413891537,
+                "POS": -7538711998421134202
+            }
         },
         "B9MIo8sUYRhmpq2-nkSZf6A": {
             "text": "How am I maintaining my relationship status?",
             "color": "b",
-            "features": [
-                3.2,
-                -4864143878636158688,
-                -1561271649056266228
-            ]
+            "features": {
+                "ambiguity": 3.2,
+                "root_concept": 3999348259119410494,
+                "POS": 8861354448672615525
+            }
         },
         "B45wluancTFCFza2BKw5Sgw": {
             "text": "What will I bring back in time to convince people that I am a powerful wizard?",
             "color": "b",
-            "features": [
-                4.666666666666667,
-                7253808327117838320,
-                1203545484609781286
-            ]
+            "features": {
+                "ambiguity": 4.666666666666667,
+                "root_concept": -7207333973344418419,
+                "POS": -3371664872460932715
+            }
         },
         "Bnkoxc6poSeKsk8uaY0-s4A": {
             "text": "While the United States raced the Soviet Union to the moon, the Mexican government funneled millions of pesos into research on _.",
             "color": "b",
-            "features": [
-                6.076923076923077,
-                3705678190903654460,
-                708121669012818007
-            ]
+            "features": {
+                "ambiguity": 6.076923076923077,
+                "root_concept": -9020016068847737409,
+                "POS": -2650555474125985461
+            }
         },
         "BsC9fNn1rSjKPkkNkqnTb6Q": {
             "text": "Coming to Broadway this season, _: The Musical.",
             "color": "b",
-            "features": [
-                6.8,
-                4275990721028609850,
-                -105319482615356010
-            ]
+            "features": {
+                "ambiguity": 6.8,
+                "root_concept": 2162733514060939916,
+                "POS": -4359389913641912823
+            }
         },
         "BHecCny5AQPeHlHzfKgylrg": {
             "text": "What's my secret power?",
             "color": "b",
-            "features": [
-                9.5,
-                6703033887182308858,
-                1945180005490531748
-            ]
+            "features": {
+                "ambiguity": 9.5,
+                "root_concept": -4176142933413891537,
+                "POS": -2513659760573676942
+            }
         },
         "B2MWrvyt_T2uA269SWD-rqQ": {
             "text": "What gives me uncontrollable gas?",
             "color": "b",
-            "features": [
-                14.25,
-                942240231012417562,
-                1945180005490531748
-            ]
+            "features": {
+                "ambiguity": 14.25,
+                "root_concept": 5507063764458718820,
+                "POS": -2513659760573676942
+            }
         },
         "BlIPp2xBHSI-BH58uErCulw": {
             "text": "But before I kill you, Mr. Bond, I must show you _.",
             "color": "b",
-            "features": [
-                5.5,
-                587083868731744185,
-                1065417053811584415
-            ]
+            "features": {
+                "ambiguity": 5.5,
+                "root_concept": -2992591719550554380,
+                "POS": -3337062915366768010
+            }
         },
         "BXOTjGkXbTtKrK_mf3FQa-g": {
             "text": "What never fails to liven up the party?",
             "color": "b",
-            "features": [
-                4.5,
-                4916902911853370461,
-                -1267637574419489082
-            ]
+            "features": {
+                "ambiguity": 4.5,
+                "root_concept": 5485019691511965047,
+                "POS": 4067424593103426625
+            }
         },
         "Bm97gSReLQ62t16QIE7-erg": {
             "text": "What am I giving up for Lent?",
             "color": "b",
-            "features": [
-                12.25,
-                942240231012417562,
-                8355547594931845341
-            ]
+            "features": {
+                "ambiguity": 12.25,
+                "root_concept": 5507063764458718820,
+                "POS": 7735348596597613038
+            }
         },
         "B0l5OwTbPQnyW7LCI1rYZVg": {
             "text": "What do old people smell like? ",
             "color": "b",
-            "features": [
-                7.2,
-                5842491231503265277,
-                -837843257550253771
-            ]
+            "features": {
+                "ambiguity": 7.2,
+                "root_concept": -5565001626434425427,
+                "POS": -7626162778956672339
+            }
         },
         "BWLPFJTJ5TRG3KiW6bPwwiA": {
             "text": "The class field trip was completely ruined by _.",
             "color": "b",
-            "features": [
-                9.333333333333334,
-                1299772126298031980,
-                -6251873867816936460
-            ]
+            "features": {
+                "ambiguity": 9.333333333333334,
+                "root_concept": -8942795169509793030,
+                "POS": 2751387051331471850
+            }
         },
         "BWisiifizR7Wxk-j2-5jn5g": {
             "text": "When Pharaoh remained unmoved, Moses called down a plague of _.",
             "color": "b",
-            "features": [
-                8.142857142857142,
-                4275990721028609850,
-                -3875777626180248152
-            ]
+            "features": {
+                "ambiguity": 8.142857142857142,
+                "root_concept": 2162733514060939916,
+                "POS": 567571457051501066
+            }
         },
         "BDTPIo0g5Srq83-uHPWrZmA": {
             "text": "I do not know with which weapons World War III will be fought, but World War IV will be fought with _.",
             "color": "b",
-            "features": [
-                5.909090909090909,
-                5842491231503265277,
-                -5927203440273433205
-            ]
+            "features": {
+                "ambiguity": 5.909090909090909,
+                "root_concept": -5565001626434425427,
+                "POS": -1670780342828201961
+            }
         },
         "BpR1B6teMTNa_F_Gj_4iosg": {
             "text": "What's Teach for America using to inspire inner city students to succeed?",
             "color": "b",
-            "features": [
-                4.222222222222222,
-                587083868731744185,
-                -7897744536746312545
-            ]
+            "features": {
+                "ambiguity": 4.222222222222222,
+                "root_concept": -2992591719550554380,
+                "POS": 9185971448071548742
+            }
         },
         "BCE1m5dA8Q1-s2vhh1k0hUA": {
             "text": "In Michael Jackson's final moments, he thought about _.",
             "color": "b",
-            "features": [
-                6.285714285714286,
-                5842491231503265277,
-                6958150843733361284
-            ]
+            "features": {
+                "ambiguity": 6.285714285714286,
+                "root_concept": -5565001626434425427,
+                "POS": -632602317054964157
+            }
         },
         "BUPb36GRiSFqJuHb_RS7ntQ": {
             "text": "Why do I hurt all over?",
             "color": "b",
-            "features": [
-                5.0,
-                1299772126298031980,
-                -1791494274944494329
-            ]
+            "features": {
+                "ambiguity": 5.0,
+                "root_concept": -8942795169509793030,
+                "POS": -2016405278987743078
+            }
         },
         "BLdnJpIEUTjSRQceK36M13g": {
             "text": "Studies show that lab rats navigate mazes 50% faster after being exposed to _.",
             "color": "b",
-            "features": [
-                6.75,
-                587083868731744185,
-                2963694686099631909
-            ]
+            "features": {
+                "ambiguity": 6.75,
+                "root_concept": -2992591719550554380,
+                "POS": -3259709833595584758
+            }
         },
         "BHW4YDkkcSbGFrbJcjUtCrQ": {
             "text": "Why am I sticky?",
             "color": "b",
-            "features": [
-                2.0,
-                6703033887182308858,
-                -4188733157918465433
-            ]
+            "features": {
+                "ambiguity": 2.0,
+                "root_concept": -4176142933413891537,
+                "POS": -4328371601186823325
+            }
         },
         "BeTNnlQiDS0ux0THWhFBVUA": {
             "text": "What's my anti-drug?",
             "color": "b",
-            "features": [
-                4.75,
-                6703033887182308858,
-                -1748469058217918289
-            ]
+            "features": {
+                "ambiguity": 4.75,
+                "root_concept": -4176142933413891537,
+                "POS": 8249535118143547074
+            }
         },
         "BgEFZQEQzSKybDRWz-ibaJA": {
             "text": "_: Good to the last drop.",
             "color": "b",
-            "features": [
-                29.5,
-                -2476488334451620834,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 29.5,
+                "root_concept": -888981200843119971,
+                "POS": -8089004510456603566
+            }
         },
         "BqRYfhwj5SoK-jLrzxuUZnA": {
             "text": "What did Vin Diesel eat for dinner?",
             "color": "b",
-            "features": [
-                2.0,
-                2567370306540459353,
-                7782432388281291853
-            ]
+            "features": {
+                "ambiguity": 2.0,
+                "root_concept": -6389542314287383889,
+                "POS": 4296390030128602030
+            }
         },
         "BcofQNaGDShatmB0yLYEcqw": {
             "text": "_: kid-tested, mother-approved.",
             "color": "b",
-            "features": [
-                7.25,
-                1865306697848956868,
-                194781431823711736
-            ]
+            "features": {
+                "ambiguity": 7.25,
+                "root_concept": 8839404657715011395,
+                "POS": 2110674474358952518
+            }
         },
         "B--ffflrKTUabsk1GXp_EbA": {
             "text": "What gets better with age?",
             "color": "b",
-            "features": [
-                18.0,
-                587083868731744185,
-                1945180005490531748
-            ]
+            "features": {
+                "ambiguity": 18.0,
+                "root_concept": -2992591719550554380,
+                "POS": -2513659760573676942
+            }
         },
         "BvVbqDDmzSo6_sTekMALkUw": {
             "text": "Dear Abby,<br><br>I'm having some trouble with _ and would like your advice.",
             "color": "b",
-            "features": [
-                6.375,
-                -3072264698064081896,
-                -7359928733059830692
-            ]
+            "features": {
+                "ambiguity": 6.375,
+                "root_concept": -5944426767482669966,
+                "POS": -4781810627607918636
+            }
         },
         "Bx0efTX3tRti51vE7G7uYAQ": {
             "text": "After the earthquake, Sean Penn brought _ to the people of Haiti.",
             "color": "b",
-            "features": [
-                3.7142857142857144,
-                7253808327117838320,
-                -3873738004300298497
-            ]
+            "features": {
+                "ambiguity": 3.7142857142857144,
+                "root_concept": -7207333973344418419,
+                "POS": -6221898331859453652
+            }
         },
         "BjI_1aWoOStmPB7Mr-uZu_g": {
             "text": "In L.A. County Jail, word is you can trade 200 cigarettes for _.",
             "color": "b",
-            "features": [
-                4.5,
-                6703033887182308858,
-                5556217879353895292
-            ]
+            "features": {
+                "ambiguity": 4.5,
+                "root_concept": -4176142933413891537,
+                "POS": -1168287355888583678
+            }
         },
         "BXjpMKJm4R0yHvyLkxbOEXA": {
             "text": "Maybe she's born with it. Maybe it's _.",
             "color": "b",
-            "features": [
-                9.0,
-                6703033887182308858,
-                -313496814651256357
-            ]
+            "features": {
+                "ambiguity": 9.0,
+                "root_concept": -4176142933413891537,
+                "POS": 4587326031116005713
+            }
         },
         "B8ot6mY2CSGKfKyl0zSLg1w": {
             "text": "Life for American Indians was forever changed when the White Man introduced them to _.",
             "color": "b",
-            "features": [
-                11.625,
-                587083868731744185,
-                2503278373427909989
-            ]
+            "features": {
+                "ambiguity": 11.625,
+                "root_concept": -2992591719550554380,
+                "POS": 4531731720515491630
+            }
         },
         "BiBujBqxlTZCSBniBnE8h_g": {
             "text": "Next on ESPN2, the World Series of _.",
             "color": "b",
-            "features": [
-                5.0,
-                -12840632277605360,
-                -9054340435643225937
-            ]
+            "features": {
+                "ambiguity": 5.0,
+                "root_concept": 6080798537881540037,
+                "POS": 1789587722116991924
+            }
         },
         "BfmEXQ-_aSdixAslZM2fS3w": {
             "text": "Here is the church<br>Here is the steeple<br>Open the doors<br>And there is _.",
             "color": "b",
-            "features": [
-                4.1875,
-                6703033887182308858,
-                -1194252812521943335
-            ]
+            "features": {
+                "ambiguity": 4.1875,
+                "root_concept": -4176142933413891537,
+                "POS": -7361855642016345265
+            }
         },
         "BnI1BYstHQliwxC91qdBXCg": {
             "text": "How did I lose my virginity?",
             "color": "b",
-            "features": [
-                3.0,
-                -5585184986797929481,
-                5669019513483346145
-            ]
+            "features": {
+                "ambiguity": 3.0,
+                "root_concept": 602646528216393107,
+                "POS": 5005584747147157873
+            }
         },
         "BOBo0cs5yRkGr-vURTjA4ew": {
             "text": "During his childhood, Salvador Dal&iacute; produced hundreds of paintings of _.",
             "color": "b",
-            "features": [
-                3.0,
-                -229793082611253559,
-                8945171142249562007
-            ]
+            "features": {
+                "ambiguity": 3.0,
+                "root_concept": -5301530492436142962,
+                "POS": 1901660192588650014
+            }
         },
         "BSD-gw8msQIuMkABSJ-jHqQ": {
             "text": "In 1,000 years, when paper money is a distant memory, how will we pay for goods and services?",
             "color": "b",
-            "features": [
-                9.0,
-                6709172466524485586,
-                7014578805219511374
-            ]
+            "features": {
+                "ambiguity": 9.0,
+                "root_concept": -1909623177522000711,
+                "POS": -231495236919657408
+            }
         },
         "BHI3d-F6fTn-MI2MN3qqjUw": {
             "text": "What don't you want to find in your Kung Pao chicken?",
             "color": "b",
-            "features": [
-                4.714285714285714,
-                1299772126298031980,
-                4388982941582894176
-            ]
+            "features": {
+                "ambiguity": 4.714285714285714,
+                "root_concept": -8942795169509793030,
+                "POS": -2844290438518117963
+            }
         },
         "BpjhrHO8uRWOHPgPOmkl59g": {
             "text": "The Smithsonian Museum of Natural History has just opened an exhibit on _.",
             "color": "b",
-            "features": [
-                8.714285714285714,
-                -5223318509540846307,
-                1934480822610471649
-            ]
+            "features": {
+                "ambiguity": 8.714285714285714,
+                "root_concept": -2903262901052792707,
+                "POS": 5513325730971584328
+            }
         },
         "B1zOPUQ1LTgeOak9Ft4R91Q": {
             "text": "Daddy, why is Mommy crying?",
             "color": "b",
-            "features": [
-                4.666666666666667,
-                -3072264698064081896,
-                -3604467760304822480
-            ]
+            "features": {
+                "ambiguity": 4.666666666666667,
+                "root_concept": -5944426767482669966,
+                "POS": 5527550508019523920
+            }
         }
     },
     "whiteCards": {
         "WZJwakUA2R8ChnzlSJUycgw": {
             "text": "Coat hanger abortions.",
             "color": "w",
-            "features": [
-                3.3333333333333335,
-                587083868731744185,
-                -4223925504657029999
-            ]
+            "features": {
+                "ambiguity": 3.3333333333333335,
+                "root_concept": -2992591719550554380,
+                "POS": -9144736274686134143
+            }
         },
         "Wsy6EBV8GSWWbsMf3oVBJXA": {
             "text": "Man meat.",
             "color": "w",
-            "features": [
-                8.0,
-                5652259399908709243,
-                -7594910591948632193
-            ]
+            "features": {
+                "ambiguity": 8.0,
+                "root_concept": 765378590754860193,
+                "POS": 5696370046962191795
+            }
         },
         "W3_N2tO7IReW2Gh74TxdpQg": {
             "text": "Autocannibalism.",
             "color": "w",
-            "features": [
-                0.0,
-                4643861374002250223,
-                -366983355660244862
-            ]
+            "features": {
+                "ambiguity": 0.0,
+                "root_concept": 9158147204891014761,
+                "POS": 4651444598852411295
+            }
         },
         "Wji7GPxPbQMy4BZWn9YwuvA": {
             "text": "Vigorous jazz hands.",
             "color": "w",
-            "features": [
-                7.666666666666667,
-                5138326486488943377,
-                -4703974990757708857
-            ]
+            "features": {
+                "ambiguity": 7.666666666666667,
+                "root_concept": 7603997124900105854,
+                "POS": -8569583970957803189
+            }
         },
         "WdjgldW9rSsCDj72KwFX7Yw": {
             "text": "Flightless birds.",
             "color": "w",
-            "features": [
-                3.5,
-                4275990721028609850,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 3.5,
+                "root_concept": 2162733514060939916,
+                "POS": -8089004510456603566
+            }
         },
         "WAzJ5FX1NTmuy4z9UdDOL2w": {
             "text": "Pictures of boobs.",
             "color": "w",
-            "features": [
-                7.5,
-                4275990721028609850,
-                -7594910591948632193
-            ]
+            "features": {
+                "ambiguity": 7.5,
+                "root_concept": 2162733514060939916,
+                "POS": 5696370046962191795
+            }
         },
         "Wf-jOr0aDTzGjLO__X3yQ2g": {
             "text": "Doing the right thing.",
             "color": "w",
-            "features": [
-                21.333333333333332,
-                587083868731744185,
-                -366504823982969157
-            ]
+            "features": {
+                "ambiguity": 21.333333333333332,
+                "root_concept": -2992591719550554380,
+                "POS": 1269816503036746801
+            }
         },
         "WmavTY8jYQ_6dBJLgsOvBFg": {
             "text": "The violation of our most basic human rights.",
             "color": "w",
-            "features": [
-                10.2,
-                587083868731744185,
-                6058328679258484448
-            ]
+            "features": {
+                "ambiguity": 10.2,
+                "root_concept": -2992591719550554380,
+                "POS": 2910802507398555815
+            }
         },
         "WX4ilAiSVRb2VkDhvSFaWAg": {
             "text": "Viagra&reg;.",
             "color": "w",
-            "features": [
-                0.0,
-                -8339601119267042560,
-                -366983355660244862
-            ]
+            "features": {
+                "ambiguity": 0.0,
+                "root_concept": -8420624072022265697,
+                "POS": 4651444598852411295
+            }
         },
         "Wm4AQNhHgSEaosfyE0lVHng": {
             "text": "Self-loathing.",
             "color": "w",
-            "features": [
-                2.5,
-                1299772126298031980,
-                -7594910591948632193
-            ]
+            "features": {
+                "ambiguity": 2.5,
+                "root_concept": -8942795169509793030,
+                "POS": 5696370046962191795
+            }
         },
         "WVcVC5e19SfCx794c6nv9aQ": {
             "text": "Spectacular abs.",
             "color": "w",
-            "features": [
-                4.5,
-                5652259399908709243,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 4.5,
+                "root_concept": 765378590754860193,
+                "POS": -8089004510456603566
+            }
         },
         "W-bL7bN5PRhaFnGp_gSDZdA": {
             "text": "A balanced breakfast.",
             "color": "w",
-            "features": [
-                5.0,
-                2616755449381404500,
-                5563165421515423041
-            ]
+            "features": {
+                "ambiguity": 5.0,
+                "root_concept": -8980820574110230055,
+                "POS": -4107793689991777685
+            }
         },
         "Wk3JUcaYeRVabZ76hihGVKw": {
             "text": "Roofies.",
             "color": "w",
-            "features": [
-                1.0,
-                1906993950690592448,
-                490989600324490750
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": 3985994100061284627,
+                "POS": -6999315804647385967
+            }
         },
         "W_LrI3WPAQeO4URaVj-T5tw": {
             "text": "Concealing a boner.",
             "color": "w",
-            "features": [
-                1.5,
-                578887238425150646,
-                -5794963948182259202
-            ]
+            "features": {
+                "ambiguity": 1.5,
+                "root_concept": 4341096642327893339,
+                "POS": -7055617409965338843
+            }
         },
         "WXiONnXS3QoaVqOFu7qdt_A": {
             "text": "Amputees.",
             "color": "w",
-            "features": [
-                1.0,
-                -3072264698064081896,
-                490989600324490750
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": -5944426767482669966,
+                "POS": -6999315804647385967
+            }
         },
         "WhIOHXoCzS8-DfruvQjCkWA": {
             "text": "The Big Bang.",
             "color": "w",
-            "features": [
-                9.666666666666666,
-                587083868731744185,
-                1477314331833083283
-            ]
+            "features": {
+                "ambiguity": 9.666666666666666,
+                "root_concept": -2992591719550554380,
+                "POS": 6724544859149647652
+            }
         },
         "Wsx8ddGRCThCo5UijOvCbOg": {
             "text": "Former President George W. Bush.",
             "color": "w",
-            "features": [
-                5.4,
-                4275990721028609850,
-                -6152950137224705921
-            ]
+            "features": {
+                "ambiguity": 5.4,
+                "root_concept": 2162733514060939916,
+                "POS": 606017801147366609
+            }
         },
         "WDAmFmiThRomkXc3aHSfepA": {
             "text": "The Rev. Dr. Martin Luther King, Jr.",
             "color": "w",
-            "features": [
-                2.7142857142857144,
-                -3072264698064081896,
-                5277692794530357017
-            ]
+            "features": {
+                "ambiguity": 2.7142857142857144,
+                "root_concept": -5944426767482669966,
+                "POS": -4732875091407945919
+            }
         },
         "WYrLvNuh3SZ2ThDayXjHnNg": {
             "text": "Smegma.",
             "color": "w",
-            "features": [
-                1.0,
-                6703033887182308858,
-                -366983355660244862
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": -4176142933413891537,
+                "POS": 4651444598852411295
+            }
         },
         "Wi-PkjYtIQ8GTco0D_ce2eQ": {
             "text": "Being marginalized.",
             "color": "w",
-            "features": [
-                7.5,
-                3078247787488465408,
-                -2911545103360833807
-            ]
+            "features": {
+                "ambiguity": 7.5,
+                "root_concept": -8691840285437693024,
+                "POS": 4353876371559553088
+            }
         },
         "WHn3QyD3NRuCliGasyXRLOg": {
             "text": "Cuddling.",
             "color": "w",
-            "features": [
-                3.0,
-                587083868731744185,
-                -886571133522178426
-            ]
+            "features": {
+                "ambiguity": 3.0,
+                "root_concept": -2992591719550554380,
+                "POS": 5112902786622671948
+            }
         },
         "W-qXmmBD1QdGl0imTjAFz7A": {
             "text": "Laying an egg.",
             "color": "w",
-            "features": [
-                10.5,
-                -5519821689207636902,
-                -5794963948182259202
-            ]
+            "features": {
+                "ambiguity": 10.5,
+                "root_concept": 8546714487557454509,
+                "POS": -7055617409965338843
+            }
         },
         "WJMEQKXDMRG2uaJFqTnvE9A": {
             "text": "The Pope.",
             "color": "w",
-            "features": [
-                1.0,
-                -3072264698064081896,
-                -8934540420884698534
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": -5944426767482669966,
+                "POS": -3963973042129086724
+            }
         },
         "Wvfvtk_wdSVqq4XPHidWvpw": {
             "text": "Aaron Burr.",
             "color": "w",
-            "features": [
-                4.0,
-                4275990721028609850,
-                1861971913680694720
-            ]
+            "features": {
+                "ambiguity": 4.0,
+                "root_concept": 2162733514060939916,
+                "POS": -5673018782340692385
+            }
         },
         "WO3n2xwpuRlyr_H8Hl7JVFg": {
             "text": "Genital piercings.",
             "color": "w",
-            "features": [
-                4.0,
-                -9073215264608716775,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 4.0,
+                "root_concept": 4067380047126743996,
+                "POS": -8089004510456603566
+            }
         },
         "WU8RHtZf7T-mO4lZ3l9oVpA": {
             "text": "Fingering.",
             "color": "w",
-            "features": [
-                6.0,
-                587083868731744185,
-                490989600324490750
-            ]
+            "features": {
+                "ambiguity": 6.0,
+                "root_concept": -2992591719550554380,
+                "POS": -6999315804647385967
+            }
         },
         "W4UHesWY3RSuyIM3xXeG6UQ": {
             "text": "A bleached asshole.",
             "color": "w",
-            "features": [
-                4.333333333333333,
-                -3072264698064081896,
-                5563165421515423041
-            ]
+            "features": {
+                "ambiguity": 4.333333333333333,
+                "root_concept": -5944426767482669966,
+                "POS": -4107793689991777685
+            }
         },
         "WhIqBcBLtQqeEEEG-zkGkMw": {
             "text": "Horse meat.",
             "color": "w",
-            "features": [
-                4.5,
-                5652259399908709243,
-                -7594910591948632193
-            ]
+            "features": {
+                "ambiguity": 4.5,
+                "root_concept": 765378590754860193,
+                "POS": 5696370046962191795
+            }
         },
         "WtTamcLnWTUK8BGFX4rVQ5w": {
             "text": "Fear itself.",
             "color": "w",
-            "features": [
-                8.0,
-                1299772126298031980,
-                -886571133522178426
-            ]
+            "features": {
+                "ambiguity": 8.0,
+                "root_concept": -8942795169509793030,
+                "POS": 5112902786622671948
+            }
         },
         "WYUyADmjkTMOtMmmYc8sang": {
             "text": "Science.",
             "color": "w",
-            "features": [
-                2.0,
-                5842491231503265277,
-                490989600324490750
-            ]
+            "features": {
+                "ambiguity": 2.0,
+                "root_concept": -5565001626434425427,
+                "POS": -6999315804647385967
+            }
         },
         "Wkp1Fyqt6T_qTCwzL3kv0ZQ": {
             "text": "Elderly Japanese men.",
             "color": "w",
-            "features": [
-                6.0,
-                -3072264698064081896,
-                4013873739663168987
-            ]
+            "features": {
+                "ambiguity": 6.0,
+                "root_concept": -5944426767482669966,
+                "POS": -3716680447158831500
+            }
         },
         "WWiO4IeVhRoCbykwOfdJtyg": {
             "text": "Stranger danger.",
             "color": "w",
-            "features": [
-                4.5,
-                1299772126298031980,
-                -7594910591948632193
-            ]
+            "features": {
+                "ambiguity": 4.5,
+                "root_concept": -8942795169509793030,
+                "POS": 5696370046962191795
+            }
         },
         "WA_uhoMU6Swu95eO5NJIzRg": {
             "text": "The terrorists.",
             "color": "w",
-            "features": [
-                0.5,
-                -3072264698064081896,
-                1802624051153245869
-            ]
+            "features": {
+                "ambiguity": 0.5,
+                "root_concept": -5944426767482669966,
+                "POS": 8925610261423091791
+            }
         },
         "WPNjybFtiQQi7GlhefPH7FQ": {
             "text": "Praying the gay away.",
             "color": "w",
-            "features": [
-                7.666666666666667,
-                3847606116018241884,
-                -5033304821268188538
-            ]
+            "features": {
+                "ambiguity": 7.666666666666667,
+                "root_concept": 2420145209127389454,
+                "POS": -9038142925866848073
+            }
         },
         "WjFS4auTVSK-EGhqGMSKYCA": {
             "text": "Same-sex ice dancing.",
             "color": "w",
-            "features": [
-                6.75,
-                587083868731744185,
-                -8296431832813814262
-            ]
+            "features": {
+                "ambiguity": 6.75,
+                "root_concept": -2992591719550554380,
+                "POS": -7629212852198882751
+            }
         },
         "Wd2k-YGzQQw2kP6jpQAwu-g": {
             "text": "Ethnic cleansing.",
             "color": "w",
-            "features": [
-                4.0,
-                587083868731744185,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 4.0,
+                "root_concept": -2992591719550554380,
+                "POS": -8089004510456603566
+            }
         },
         "WfuDuT_x0RWuUD5Sw14w8ag": {
             "text": "Cheating in the Special Olympics.",
             "color": "w",
-            "features": [
-                6.666666666666667,
-                4275990721028609850,
-                7099258220978869387
-            ]
+            "features": {
+                "ambiguity": 6.666666666666667,
+                "root_concept": 2162733514060939916,
+                "POS": 5961603971209105347
+            }
         },
         "WlrhTrhtUS9u_wsUz5wdl_A": {
             "text": "German dungeon porn.",
             "color": "w",
-            "features": [
-                2.0,
-                587083868731744185,
-                -4703974990757708857
-            ]
+            "features": {
+                "ambiguity": 2.0,
+                "root_concept": -2992591719550554380,
+                "POS": -8569583970957803189
+            }
         },
         "WDZn_vSVpRViBt5cnP7h3Sw": {
             "text": "Bingeing and purging.",
             "color": "w",
-            "features": [
-                6.5,
-                587083868731744185,
-                -5794963948182259202
-            ]
+            "features": {
+                "ambiguity": 6.5,
+                "root_concept": -2992591719550554380,
+                "POS": -7055617409965338843
+            }
         },
         "W1gpicXAUSdGgO0L0EeeenA": {
             "text": "Making a pouty face.",
             "color": "w",
-            "features": [
-                24.333333333333332,
-                5842491231503265277,
-                4403066158130258492
-            ]
+            "features": {
+                "ambiguity": 24.333333333333332,
+                "root_concept": -5565001626434425427,
+                "POS": 4127058551313948108
+            }
         },
         "W9VMwfFtpTI-o_2eRbrtZdw": {
             "text": "William Shatner.",
             "color": "w",
-            "features": [
-                0.0,
-                -6568671305252733848,
-                1861971913680694720
-            ]
+            "features": {
+                "ambiguity": 0.0,
+                "root_concept": -3455052202086885965,
+                "POS": -5673018782340692385
+            }
         },
         "W1_rHVZtaQOKtlrNqYCDErA": {
             "text": "Heteronormativity.",
             "color": "w",
-            "features": [
-                0.0,
-                -2070477744813859291,
-                -366983355660244862
-            ]
+            "features": {
+                "ambiguity": 0.0,
+                "root_concept": -7750415368061611547,
+                "POS": 4651444598852411295
+            }
         },
         "WmNZdLIioQ6GFKUms4sa5vQ": {
             "text": "Nickelback.",
             "color": "w",
-            "features": [
-                0.0,
-                4515511776314020565,
-                490989600324490750
-            ]
+            "features": {
+                "ambiguity": 0.0,
+                "root_concept": 4885273277179166256,
+                "POS": -6999315804647385967
+            }
         },
         "WDldR6erRQuKtUiPdkKuJHQ": {
             "text": "Tom Cruise.",
             "color": "w",
-            "features": [
-                4.0,
-                587083868731744185,
-                1861971913680694720
-            ]
+            "features": {
+                "ambiguity": 4.0,
+                "root_concept": -2992591719550554380,
+                "POS": -5673018782340692385
+            }
         },
         "W_1n-AXKZQjuOvUWAnqyHsw": {
             "text": "The profoundly handicapped.",
             "color": "w",
-            "features": [
-                2.0,
-                3019054236762622761,
-                -781032651552905290
-            ]
+            "features": {
+                "ambiguity": 2.0,
+                "root_concept": 2004547321670075133,
+                "POS": 4590552562023040698
+            }
         },
         "WM5XDGga7TE2iUV57iFZvfw": {
             "text": "The placenta.",
             "color": "w",
-            "features": [
-                1.0,
-                4275990721028609850,
-                1802624051153245869
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": 2162733514060939916,
+                "POS": 8925610261423091791
+            }
         },
         "WjkRK_FkMReO_w40zRidtYw": {
             "text": "Chainsaws for hands.",
             "color": "w",
-            "features": [
-                8.5,
-                4275990721028609850,
-                -7594910591948632193
-            ]
+            "features": {
+                "ambiguity": 8.5,
+                "root_concept": 2162733514060939916,
+                "POS": 5696370046962191795
+            }
         },
         "W_sXEpCh7Rey65RNy43IX-A": {
             "text": "Arnold Schwarzenegger.",
             "color": "w",
-            "features": [
-                1.0,
-                5546627618017535169,
-                1861971913680694720
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": -6085336719168809171,
+                "POS": -5673018782340692385
+            }
         },
         "WkJPKp4bUSX2RvPTMXg9vKA": {
             "text": "An icepick lobotomy.",
             "color": "w",
-            "features": [
-                1.0,
-                587083868731744185,
-                2116936823637032733
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": -2992591719550554380,
+                "POS": -4708301742172069853
+            }
         },
         "Wep2dJP3XShiER-yDNMatTw": {
             "text": "Goblins.",
             "color": "w",
-            "features": [
-                1.0,
-                5842491231503265277,
-                490989600324490750
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": -5565001626434425427,
+                "POS": -6999315804647385967
+            }
         },
         "WykTBXZEUT5uq9AZQ5Ak-8A": {
             "text": "Object permanence.",
             "color": "w",
-            "features": [
-                4.0,
-                942240231012417562,
-                -6455975114249413460
-            ]
+            "features": {
+                "ambiguity": 4.0,
+                "root_concept": 5507063764458718820,
+                "POS": 3615042951094811603
+            }
         },
         "WUd8l_8aBS7eT1vCcMiivUA": {
             "text": "Dying.",
             "color": "w",
-            "features": [
-                14.0,
-                4275990721028609850,
-                -886571133522178426
-            ]
+            "features": {
+                "ambiguity": 14.0,
+                "root_concept": 2162733514060939916,
+                "POS": 5112902786622671948
+            }
         },
         "WmjKtnax8RferYJxHFLuWLg": {
             "text": "Foreskin.",
             "color": "w",
-            "features": [
-                2.0,
-                4275990721028609850,
-                490989600324490750
-            ]
+            "features": {
+                "ambiguity": 2.0,
+                "root_concept": 2162733514060939916,
+                "POS": -6999315804647385967
+            }
         },
         "WniyJPKTbQQiHQ_iG83EciQ": {
             "text": "A falcon with a cap on its head.",
             "color": "w",
-            "features": [
-                15.5,
-                4275990721028609850,
-                6270085977022534576
-            ]
+            "features": {
+                "ambiguity": 15.5,
+                "root_concept": 2162733514060939916,
+                "POS": -5346149843902653482
+            }
         },
         "WsYvqX6VQQdS-uGdSjBhKdg": {
             "text": "Hormone injections.",
             "color": "w",
-            "features": [
-                2.0,
-                587083868731744185,
-                -6455975114249413460
-            ]
+            "features": {
+                "ambiguity": 2.0,
+                "root_concept": -2992591719550554380,
+                "POS": 3615042951094811603
+            }
         },
         "W9I0N2wZMSX-ptqFic8iKSw": {
             "text": "Dying of dysentery.",
             "color": "w",
-            "features": [
-                7.5,
-                4275990721028609850,
-                -5794963948182259202
-            ]
+            "features": {
+                "ambiguity": 7.5,
+                "root_concept": 2162733514060939916,
+                "POS": -7055617409965338843
+            }
         },
         "W2R1BrNxkSZOEM17FlYHP5g": {
             "text": "Sexy pillow fights.",
             "color": "w",
-            "features": [
-                4.333333333333333,
-                587083868731744185,
-                5978955287524811551
-            ]
+            "features": {
+                "ambiguity": 4.333333333333333,
+                "root_concept": -2992591719550554380,
+                "POS": 8819205090713813246
+            }
         },
         "WHfOyfk2FQ62XctpzDqBJGQ": {
             "text": "The invisible hand.",
             "color": "w",
-            "features": [
-                6.0,
-                5138326486488943377,
-                5563165421515423041
-            ]
+            "features": {
+                "ambiguity": 6.0,
+                "root_concept": 7603997124900105854,
+                "POS": -4107793689991777685
+            }
         },
         "WqweqxYDGRQu05talLxTHaw": {
             "text": "A really cool hat.",
             "color": "w",
-            "features": [
-                7.333333333333333,
-                4275990721028609850,
-                5563165421515423041
-            ]
+            "features": {
+                "ambiguity": 7.333333333333333,
+                "root_concept": 2162733514060939916,
+                "POS": -4107793689991777685
+            }
         },
         "W7Ycy8GwxQF64ciTIw-atPg": {
             "text": "Sean Penn.",
             "color": "w",
-            "features": [
-                1.0,
-                -3072264698064081896,
-                1861971913680694720
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": -5944426767482669966,
+                "POS": -5673018782340692385
+            }
         },
         "W506sWoX-SvqwhjatzU7xxQ": {
             "text": "Heartwarming orphans.",
             "color": "w",
-            "features": [
-                2.5,
-                -3072264698064081896,
-                -5794963948182259202
-            ]
+            "features": {
+                "ambiguity": 2.5,
+                "root_concept": -5944426767482669966,
+                "POS": -7055617409965338843
+            }
         },
         "WgwWO0CWTQmS8mVRY3npt1A": {
             "text": "The clitoris.",
             "color": "w",
-            "features": [
-                0.5,
-                5138326486488943377,
-                1802624051153245869
-            ]
+            "features": {
+                "ambiguity": 0.5,
+                "root_concept": 7603997124900105854,
+                "POS": 8925610261423091791
+            }
         },
         "WPNKgfX0mSGiB_fTApGDS7g": {
             "text": "The Three-Fifths compromise.",
             "color": "w",
-            "features": [
-                3.0,
-                587083868731744185,
-                -1776371320706003540
-            ]
+            "features": {
+                "ambiguity": 3.0,
+                "root_concept": -2992591719550554380,
+                "POS": -5701737755645404071
+            }
         },
         "Wt82s84LfSzK9w8M1l0wyvQ": {
             "text": "A sad handjob.",
             "color": "w",
-            "features": [
-                3.3333333333333335,
-                -108785299901951779,
-                5563165421515423041
-            ]
+            "features": {
+                "ambiguity": 3.3333333333333335,
+                "root_concept": 3185534142367183084,
+                "POS": -4107793689991777685
+            }
         },
         "WNyEM2CV-SVGSWiB05gB1-A": {
             "text": "Men.",
             "color": "w",
-            "features": [
-                13.0,
-                -3072264698064081896,
-                490989600324490750
-            ]
+            "features": {
+                "ambiguity": 13.0,
+                "root_concept": -5944426767482669966,
+                "POS": -6999315804647385967
+            }
         },
         "WM9jjKC6zQb68ebXuC0HcyA": {
             "text": "Historically black colleges.",
             "color": "w",
-            "features": [
-                9.0,
-                -4662655401943367666,
-                -2327439702858737897
-            ]
+            "features": {
+                "ambiguity": 9.0,
+                "root_concept": -7151564528650388302,
+                "POS": -733070512330933956
+            }
         },
         "WpthWgkh8Qg2Yw4vbsj0luw": {
             "text": "A micropenis.",
             "color": "w",
-            "features": [
-                4.0,
-                5138326486488943377,
-                1802624051153245869
-            ]
+            "features": {
+                "ambiguity": 4.0,
+                "root_concept": 7603997124900105854,
+                "POS": 8925610261423091791
+            }
         },
         "WAgNOsx2BTYibKmw75VvNyQ": {
             "text": "Raptor attacks.",
             "color": "w",
-            "features": [
-                8.0,
-                587083868731744185,
-                -7594910591948632193
-            ]
+            "features": {
+                "ambiguity": 8.0,
+                "root_concept": -2992591719550554380,
+                "POS": 5696370046962191795
+            }
         },
         "Wr38PcEVMSQSahFWc2qW-mg": {
             "text": "Agriculture.",
             "color": "w",
-            "features": [
-                4.0,
-                587083868731744185,
-                490989600324490750
-            ]
+            "features": {
+                "ambiguity": 4.0,
+                "root_concept": -2992591719550554380,
+                "POS": -6999315804647385967
+            }
         },
         "W0obN4y9IT9a2T6DsOvNqSg": {
             "text": "Vikings.",
             "color": "w",
-            "features": [
-                1.0,
-                -3072264698064081896,
-                490989600324490750
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": -5944426767482669966,
+                "POS": -6999315804647385967
+            }
         },
         "WAY2yzDXiRPWIXgy1CbjSUw": {
             "text": "Pretending to care.",
             "color": "w",
-            "features": [
-                9.5,
-                587083868731744185,
-                -2911545103360833807
-            ]
+            "features": {
+                "ambiguity": 9.5,
+                "root_concept": -2992591719550554380,
+                "POS": 4353876371559553088
+            }
         },
         "WRBb0HCN3QBGAPrszZ9s6Pw": {
             "text": "The Underground Railroad.",
             "color": "w",
-            "features": [
-                3.6666666666666665,
-                -4662655401943367666,
-                1477314331833083283
-            ]
+            "features": {
+                "ambiguity": 3.6666666666666665,
+                "root_concept": -7151564528650388302,
+                "POS": 6724544859149647652
+            }
         },
         "W4Tn2AanWTqW-Hjb9GtYgCQ": {
             "text": "My humps.",
             "color": "w",
-            "features": [
-                1.5,
-                3705678190903654460,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 1.5,
+                "root_concept": -9020016068847737409,
+                "POS": -8089004510456603566
+            }
         },
         "W8vatCW1ySRGMeh3JgFnONw": {
             "text": "Being a dick to children.",
             "color": "w",
-            "features": [
-                6.666666666666667,
-                6703033887182308858,
-                4403066158130258492
-            ]
+            "features": {
+                "ambiguity": 6.666666666666667,
+                "root_concept": -4176142933413891537,
+                "POS": 4127058551313948108
+            }
         },
         "WjvXcEhbDRqKZd9l_zYumow": {
             "text": "Geese.",
             "color": "w",
-            "features": [
-                3.0,
-                4275990721028609850,
-                1226080699337427697
-            ]
+            "features": {
+                "ambiguity": 3.0,
+                "root_concept": 2162733514060939916,
+                "POS": -4238926864022361431
+            }
         },
         "Wd_sfCoExSgi4O4lGEW3oWg": {
             "text": "Bling.",
             "color": "w",
-            "features": [
-                0.0,
-                -1075813568610274147,
-                -886571133522178426
-            ]
+            "features": {
+                "ambiguity": 0.0,
+                "root_concept": 6271948863059679497,
+                "POS": 5112902786622671948
+            }
         },
         "WBngcT--USc-xxSEDx_5VFg": {
             "text": "Sniffing glue.",
             "color": "w",
-            "features": [
-                3.0,
-                6703033887182308858,
-                -5794963948182259202
-            ]
+            "features": {
+                "ambiguity": 3.0,
+                "root_concept": -4176142933413891537,
+                "POS": -7055617409965338843
+            }
         },
         "WHWXdODaRTdS9RJqBvlA1XQ": {
             "text": "The South.",
             "color": "w",
-            "features": [
-                3.5,
-                -5223318509540846307,
-                -8934540420884698534
-            ]
+            "features": {
+                "ambiguity": 3.5,
+                "root_concept": -2903262901052792707,
+                "POS": -3963973042129086724
+            }
         },
         "W8xm6DsZTSIOq17fM7DNPmA": {
             "text": "An Oedipus complex.",
             "color": "w",
-            "features": [
-                2.3333333333333335,
-                5842491231503265277,
-                7878765156456922574
-            ]
+            "features": {
+                "ambiguity": 2.3333333333333335,
+                "root_concept": -5565001626434425427,
+                "POS": 6282544525383762542
+            }
         },
         "WsobroI-rS42Ci8LdtFJvLg": {
             "text": "Eating all of the cookies before the AIDS bake-sale.",
             "color": "w",
-            "features": [
-                5.0,
-                2567370306540459353,
-                8678896909090151159
-            ]
+            "features": {
+                "ambiguity": 5.0,
+                "root_concept": -6389542314287383889,
+                "POS": -5849922582743314141
+            }
         },
         "WGTffEudrQ8Gm_dK9qnl6Qg": {
             "text": "Sexting.",
             "color": "w",
-            "features": [
-                1.0,
-                5842491231503265277,
-                -886571133522178426
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": -5565001626434425427,
+                "POS": 5112902786622671948
+            }
         },
         "WNFmd1QlpRqCBx0XNrroS2Q": {
             "text": "YOU MUST CONSTRUCT ADDITIONAL PYLONS.",
             "color": "w",
-            "features": [
-                2.8,
-                5842491231503265277,
-                2214706646714390371
-            ]
+            "features": {
+                "ambiguity": 2.8,
+                "root_concept": -5565001626434425427,
+                "POS": -3416564410849424248
+            }
         },
         "WRlTYz5z4QGW8t5fCn2H7oA": {
             "text": "Mutually-assured destruction.",
             "color": "w",
-            "features": [
-                3.3333333333333335,
-                587083868731744185,
-                -4319864831465438784
-            ]
+            "features": {
+                "ambiguity": 3.3333333333333335,
+                "root_concept": -2992591719550554380,
+                "POS": 7647883123780492474
+            }
         },
         "W3VOa-yQlT4m4qdo9A4UNyw": {
             "text": "Sunshine and rainbows.",
             "color": "w",
-            "features": [
-                2.5,
-                -7195119955305199737,
-                -7594910591948632193
-            ]
+            "features": {
+                "ambiguity": 2.5,
+                "root_concept": -6511307099322130560,
+                "POS": 5696370046962191795
+            }
         },
         "Wn5yPf4BNRBaQORdC_Y6QLw": {
             "text": "Count Chocula.",
             "color": "w",
-            "features": [
-                6.0,
-                -7196459840216601836,
-                1861971913680694720
-            ]
+            "features": {
+                "ambiguity": 6.0,
+                "root_concept": 3048351086479527723,
+                "POS": -5673018782340692385
+            }
         },
         "Wr8s-JfV_StWn2s6Vdyba2g": {
             "text": "Sharing needles.",
             "color": "w",
-            "features": [
-                8.0,
-                1336033586490983259,
-                -7594910591948632193
-            ]
+            "features": {
+                "ambiguity": 8.0,
+                "root_concept": 4197540368530338897,
+                "POS": 5696370046962191795
+            }
         },
         "WPJD8QPMKQo2DiGeWLaR31A": {
             "text": "Being rich.",
             "color": "w",
-            "features": [
-                13.5,
-                6703033887182308858,
-                -2538542482855054125
-            ]
+            "features": {
+                "ambiguity": 13.5,
+                "root_concept": -4176142933413891537,
+                "POS": -6745826716489814177
+            }
         },
         "Wrj55az8cQ8aMiqqUpNl0Rg": {
             "text": "Skeletor.",
             "color": "w",
-            "features": [
-                0.0,
-                -3366621584262929748,
-                490989600324490750
-            ]
+            "features": {
+                "ambiguity": 0.0,
+                "root_concept": 6695825280755469087,
+                "POS": -6999315804647385967
+            }
         },
         "WGBCfr6OSTyiGYmkagXdhkw": {
             "text": "A sausage festival.",
             "color": "w",
-            "features": [
-                3.6666666666666665,
-                1287671997308551470,
-                2116936823637032733
-            ]
+            "features": {
+                "ambiguity": 3.6666666666666665,
+                "root_concept": 5914360077169396,
+                "POS": -4708301742172069853
+            }
         },
         "WgM3_k9_zTF-Qm4PtuZbGcg": {
             "text": "Michael Jackson.",
             "color": "w",
-            "features": [
-                6.0,
-                -3072264698064081896,
-                1861971913680694720
-            ]
+            "features": {
+                "ambiguity": 6.0,
+                "root_concept": -5944426767482669966,
+                "POS": -5673018782340692385
+            }
         },
         "WqTdQJYqoRQ25c43s21i1Ew": {
             "text": "Emotions.",
             "color": "w",
-            "features": [
-                1.0,
-                1299772126298031980,
-                490989600324490750
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": -8942795169509793030,
+                "POS": -6999315804647385967
+            }
         },
         "WgjMa6yy2Sn2Vy3Ejzf0nLQ": {
             "text": "Farting and walking away.",
             "color": "w",
-            "features": [
-                11.0,
-                3764024165345331330,
-                -4897620255805463823
-            ]
+            "features": {
+                "ambiguity": 11.0,
+                "root_concept": 983265654094741092,
+                "POS": 3183863156395111915
+            }
         },
         "WTKwEzeTET9G_UMQxtF9mjQ": {
             "text": "The Chinese gymnastics team.",
             "color": "w",
-            "features": [
-                2.25,
-                -4662655401943367666,
-                -1400000223747374099
-            ]
+            "features": {
+                "ambiguity": 2.25,
+                "root_concept": -7151564528650388302,
+                "POS": 3890449049445543305
+            }
         },
         "Wmy-mer5pTRK54lo2Z9DJ3g": {
             "text": "Necrophilia.",
             "color": "w",
-            "features": [
-                1.0,
-                -4071978003940702271,
-                -366983355660244862
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": -2572536138421298422,
+                "POS": 4651444598852411295
+            }
         },
         "WSeQJoU4wRRaRrPA2QDo9Mw": {
             "text": "Spontaneous human combustion.",
             "color": "w",
-            "features": [
-                3.0,
-                -926445325174569563,
-                4013873739663168987
-            ]
+            "features": {
+                "ambiguity": 3.0,
+                "root_concept": 8153542721136513561,
+                "POS": -3716680447158831500
+            }
         },
         "Wv1naMrV8RyOVhSJfA3t5jA": {
             "text": "Yeast.",
             "color": "w",
-            "features": [
-                2.0,
-                2616755449381404500,
-                490989600324490750
-            ]
+            "features": {
+                "ambiguity": 2.0,
+                "root_concept": -8980820574110230055,
+                "POS": -6999315804647385967
+            }
         },
         "WNpzJ64fTTbG1Uk2gZ6HMaw": {
             "text": "Leaving an awkward voicemail.",
             "color": "w",
-            "features": [
-                8.0,
-                1287671997308551470,
-                -366504823982969157
-            ]
+            "features": {
+                "ambiguity": 8.0,
+                "root_concept": 5914360077169396,
+                "POS": 1269816503036746801
+            }
         },
         "W08U7fcMHRoedkvO76BovOA": {
             "text": "Dick Cheney.",
             "color": "w",
-            "features": [
-                1.0,
-                -905289293625181709,
-                1861971913680694720
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": 5200028612442766996,
+                "POS": -5673018782340692385
+            }
         },
         "W9Q3n_owkTOitSjrDojNqiw": {
             "text": "White people.",
             "color": "w",
-            "features": [
-                15.5,
-                3019054236762622761,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 15.5,
+                "root_concept": 2004547321670075133,
+                "POS": -8089004510456603566
+            }
         },
         "WYCXH46GIRjmgjvQw0Uq62g": {
             "text": "Penis envy.",
             "color": "w",
-            "features": [
-                2.0,
-                1299772126298031980,
-                -7594910591948632193
-            ]
+            "features": {
+                "ambiguity": 2.0,
+                "root_concept": -8942795169509793030,
+                "POS": 5696370046962191795
+            }
         },
         "WmOaAkwdZTECEyGjLAeozHA": {
             "text": "Teaching a robot to love.",
             "color": "w",
-            "features": [
-                4.666666666666667,
-                -3072264698064081896,
-                4403066158130258492
-            ]
+            "features": {
+                "ambiguity": 4.666666666666667,
+                "root_concept": -5944426767482669966,
+                "POS": 4127058551313948108
+            }
         },
         "W3y74vdQYRfCEISJU6DYUiQ": {
             "text": "Sperm whales.",
             "color": "w",
-            "features": [
-                2.0,
-                -3072264698064081896,
-                -6455975114249413460
-            ]
+            "features": {
+                "ambiguity": 2.0,
+                "root_concept": -5944426767482669966,
+                "POS": 3615042951094811603
+            }
         },
         "WRv3nlbvtS7KvnNuVYbO0ww": {
             "text": "Scrubbing under the folds.",
             "color": "w",
-            "features": [
-                9.0,
-                7971913334596938013,
-                -5794963948182259202
-            ]
+            "features": {
+                "ambiguity": 9.0,
+                "root_concept": 6092507990559463855,
+                "POS": -7055617409965338843
+            }
         },
         "W6c9NGuWSRCaIMIZyEHBjag": {
             "text": "Panda sex.",
             "color": "w",
-            "features": [
-                4.0,
-                3764024165345331330,
-                -7594910591948632193
-            ]
+            "features": {
+                "ambiguity": 4.0,
+                "root_concept": 983265654094741092,
+                "POS": 5696370046962191795
+            }
         },
         "W3SX4zSATRqi2l5HJCvoGjg": {
             "text": "Whipping it out.",
             "color": "w",
-            "features": [
-                11.0,
-                4275990721028609850,
-                -886571133522178426
-            ]
+            "features": {
+                "ambiguity": 11.0,
+                "root_concept": 2162733514060939916,
+                "POS": 5112902786622671948
+            }
         },
         "Wxiyjdx7EQKiORKpFU2GbrQ": {
             "text": "Catapults.",
             "color": "w",
-            "features": [
-                5.0,
-                4275990721028609850,
-                490989600324490750
-            ]
+            "features": {
+                "ambiguity": 5.0,
+                "root_concept": 2162733514060939916,
+                "POS": -6999315804647385967
+            }
         },
         "W7xwuO9K1RKWWduySng4pjQ": {
             "text": "Masturbation.",
             "color": "w",
-            "features": [
-                1.0,
-                3764024165345331330,
-                490989600324490750
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": 983265654094741092,
+                "POS": -6999315804647385967
+            }
         },
         "WUeZ6ma6BRN60eG3qjuKpkQ": {
             "text": "Natural selection.",
             "color": "w",
-            "features": [
-                9.0,
-                587083868731744185,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 9.0,
+                "root_concept": -2992591719550554380,
+                "POS": -8089004510456603566
+            }
         },
         "WDbDpxUJZSjWMGKdlb_NVCw": {
             "text": "Opposable thumbs.",
             "color": "w",
-            "features": [
-                3.5,
-                5138326486488943377,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 3.5,
+                "root_concept": 7603997124900105854,
+                "POS": -8089004510456603566
+            }
         },
         "WFm1qoa0cQeeERI7jhW2zCg": {
             "text": "A sassy black woman.",
             "color": "w",
-            "features": [
-                8.5,
-                -3072264698064081896,
-                -3373750536056322037
-            ]
+            "features": {
+                "ambiguity": 8.5,
+                "root_concept": -5944426767482669966,
+                "POS": 7781424857771804267
+            }
         },
         "Wc2oQvDTyR_aFpFsVAiCvvw": {
             "text": "AIDS.",
             "color": "w",
-            "features": [
-                7.0,
-                1299772126298031980,
-                -366983355660244862
-            ]
+            "features": {
+                "ambiguity": 7.0,
+                "root_concept": -8942795169509793030,
+                "POS": 4651444598852411295
+            }
         },
         "WRywMYlhDSuu8S6qjDTl3tw": {
             "text": "The KKK.",
             "color": "w",
-            "features": [
-                0.5,
-                -4662655401943367666,
-                -8934540420884698534
-            ]
+            "features": {
+                "ambiguity": 0.5,
+                "root_concept": -7151564528650388302,
+                "POS": -3963973042129086724
+            }
         },
         "WZV2MY6wdQs2g6z3Oj2LB2Q": {
             "text": "Figgy pudding.",
             "color": "w",
-            "features": [
-                1.5,
-                2616755449381404500,
-                -7594910591948632193
-            ]
+            "features": {
+                "ambiguity": 1.5,
+                "root_concept": -8980820574110230055,
+                "POS": 5696370046962191795
+            }
         },
         "WqiXxPeaqSUKU7OyQvzNWvQ": {
             "text": "Seppuku.",
             "color": "w",
-            "features": [
-                1.0,
-                587083868731744185,
-                -366983355660244862
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": -2992591719550554380,
+                "POS": 4651444598852411295
+            }
         },
         "Wt0AX4Q4yRyG97FP9n9RJjw": {
             "text": "Gandhi.",
             "color": "w",
-            "features": [
-                2.0,
-                -3072264698064081896,
-                -366983355660244862
-            ]
+            "features": {
+                "ambiguity": 2.0,
+                "root_concept": -5944426767482669966,
+                "POS": 4651444598852411295
+            }
         },
         "W3IkgaD2VTiuF9vZ4zqaXnw": {
             "text": "Preteens.",
             "color": "w",
-            "features": [
-                2.0,
-                -3072264698064081896,
-                490989600324490750
-            ]
+            "features": {
+                "ambiguity": 2.0,
+                "root_concept": -5944426767482669966,
+                "POS": -6999315804647385967
+            }
         },
         "WInoYmB7cQXe-dMFZ7Tci_A": {
             "text": "Toni Morrison's vagina.",
             "color": "w",
-            "features": [
-                0.75,
-                5138326486488943377,
-                2115325696875005485
-            ]
+            "features": {
+                "ambiguity": 0.75,
+                "root_concept": 7603997124900105854,
+                "POS": -5417212207524409741
+            }
         },
         "WLcLtaw6ZSKeO0yoNBe1pMA": {
             "text": "Five-Dollar Footlongs&trade;.",
             "color": "w",
-            "features": [
-                2.6666666666666665,
-                -4935614416365721300,
-                8117529100761748932
-            ]
+            "features": {
+                "ambiguity": 2.6666666666666665,
+                "root_concept": 1396079677972425593,
+                "POS": 8854807645799899722
+            }
         },
         "WDgB7cX3RQLK1c4hdKMv3JQ": {
             "text": "Land mines.",
             "color": "w",
-            "features": [
-                11.0,
-                4275990721028609850,
-                -7594910591948632193
-            ]
+            "features": {
+                "ambiguity": 11.0,
+                "root_concept": 2162733514060939916,
+                "POS": 5696370046962191795
+            }
         },
         "WalAkS9-bTt-x2d7Y6RfDVA": {
             "text": "A sea of troubles.",
             "color": "w",
-            "features": [
-                7.0,
-                -4134346359291529084,
-                2116936823637032733
-            ]
+            "features": {
+                "ambiguity": 7.0,
+                "root_concept": -5504917904596833398,
+                "POS": -4708301742172069853
+            }
         },
         "WkTQ-d3JfSdeAMp2vQMwK6g": {
             "text": "A zesty breakfast burrito.",
             "color": "w",
-            "features": [
-                3.25,
-                2616755449381404500,
-                6270085977022534576
-            ]
+            "features": {
+                "ambiguity": 3.25,
+                "root_concept": -8980820574110230055,
+                "POS": -5346149843902653482
+            }
         },
         "WTH6_2_dJTQerAPVfaQR9iQ": {
             "text": "Christopher Walken.",
             "color": "w",
-            "features": [
-                0.5,
-                -5697113333459001709,
-                1861971913680694720
-            ]
+            "features": {
+                "ambiguity": 0.5,
+                "root_concept": 5282820933864050890,
+                "POS": -5673018782340692385
+            }
         },
         "Wh0hg4KVISLatxatpxZEDCw": {
             "text": "Friction.",
             "color": "w",
-            "features": [
-                3.0,
-                1299772126298031980,
-                490989600324490750
-            ]
+            "features": {
+                "ambiguity": 3.0,
+                "root_concept": -8942795169509793030,
+                "POS": -6999315804647385967
+            }
         },
         "WJ1PDU5TfQV65BbCfZNGfTQ": {
             "text": "Balls.",
             "color": "w",
-            "features": [
-                13.0,
-                4275990721028609850,
-                490989600324490750
-            ]
+            "features": {
+                "ambiguity": 13.0,
+                "root_concept": 2162733514060939916,
+                "POS": -6999315804647385967
+            }
         },
         "WfNg8JDApQouAZB3NFWW9cw": {
             "text": "Dental dams.",
             "color": "w",
-            "features": [
-                3.5,
-                4275990721028609850,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 3.5,
+                "root_concept": 2162733514060939916,
+                "POS": -8089004510456603566
+            }
         },
         "WxyCwkq47Syae2XudIOgD9A": {
             "text": "A can of whoop-ass.",
             "color": "w",
-            "features": [
-                5.333333333333333,
-                4275990721028609850,
-                2116936823637032733
-            ]
+            "features": {
+                "ambiguity": 5.333333333333333,
+                "root_concept": 2162733514060939916,
+                "POS": -4708301742172069853
+            }
         },
         "W0VPYjuwWTa2YmJKXsGYrCw": {
             "text": "A tiny horse.",
             "color": "w",
-            "features": [
-                4.666666666666667,
-                4275990721028609850,
-                5563165421515423041
-            ]
+            "features": {
+                "ambiguity": 4.666666666666667,
+                "root_concept": 2162733514060939916,
+                "POS": -4107793689991777685
+            }
         },
         "Wl6QQ6RIwQhOKsUvhdvRqdg": {
             "text": "Waiting 'til marriage.",
             "color": "w",
-            "features": [
-                3.3333333333333335,
-                -8724480389951504673,
-                -366504823982969157
-            ]
+            "features": {
+                "ambiguity": 3.3333333333333335,
+                "root_concept": -1667823364626862085,
+                "POS": 1269816503036746801
+            }
         },
         "WzzAuMaAgTs6gPaCLJlqvhA": {
             "text": "Authentic Mexican cuisine.",
             "color": "w",
-            "features": [
-                1.6666666666666667,
-                587083868731744185,
-                4013873739663168987
-            ]
+            "features": {
+                "ambiguity": 1.6666666666666667,
+                "root_concept": -2992591719550554380,
+                "POS": -3716680447158831500
+            }
         },
         "WaZ1JJzCbSeGtEEVJ1k_wSA": {
             "text": "Genghis Khan.",
             "color": "w",
-            "features": [
-                1.0,
-                -3072264698064081896,
-                1861971913680694720
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": -5944426767482669966,
+                "POS": -5673018782340692385
+            }
         },
         "WIQNpEvX0RNyhaR7x_-TRjQ": {
             "text": "Old-people smell.",
             "color": "w",
-            "features": [
-                8.333333333333334,
-                5842491231503265277,
-                4684921829298375135
-            ]
+            "features": {
+                "ambiguity": 8.333333333333334,
+                "root_concept": -5565001626434425427,
+                "POS": 6269021793336143143
+            }
         },
         "WSIiESWOZQJSsWUazs_tPnw": {
             "text": "Feeding Rosie O'Donnell.",
             "color": "w",
-            "features": [
-                4.333333333333333,
-                9217264644508300919,
-                7099258220978869387
-            ]
+            "features": {
+                "ambiguity": 4.333333333333333,
+                "root_concept": 6231128556546116730,
+                "POS": 5961603971209105347
+            }
         },
         "WkBrWKCFIQ8eaT_VjVI-A2g": {
             "text": "Pixelated bukkake.",
             "color": "w",
-            "features": [
-                0.0,
-                -3334261618944764836,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 0.0,
+                "root_concept": -6810285791602823793,
+                "POS": -8089004510456603566
+            }
         },
         "WGQePl3qIQVeXrARs07zf3w": {
             "text": "Friends with benefits.",
             "color": "w",
-            "features": [
-                5.0,
-                -3072264698064081896,
-                -7594910591948632193
-            ]
+            "features": {
+                "ambiguity": 5.0,
+                "root_concept": -5944426767482669966,
+                "POS": 5696370046962191795
+            }
         },
         "WONBc9k5XTMG6tnKaCp-0pw": {
             "text": "The token minority.",
             "color": "w",
-            "features": [
-                2.6666666666666665,
-                -4662655401943367666,
-                5563165421515423041
-            ]
+            "features": {
+                "ambiguity": 2.6666666666666665,
+                "root_concept": -7151564528650388302,
+                "POS": -4107793689991777685
+            }
         },
         "W5E40nFRzRD6zSiHP-9T1yA": {
             "text": "The Tempur-Pedic&reg; Swedish Sleep System&trade;.",
             "color": "w",
-            "features": [
-                1.3333333333333333,
-                445477064716815656,
-                9203686499017096694
-            ]
+            "features": {
+                "ambiguity": 1.3333333333333333,
+                "root_concept": 632156352475219255,
+                "POS": 7112977385166172931
+            }
         },
         "WNFKNY39sR-qMwPJ6_bdGpA": {
             "text": "A thermonuclear detonation.",
             "color": "w",
-            "features": [
-                3.3333333333333335,
-                587083868731744185,
-                5563165421515423041
-            ]
+            "features": {
+                "ambiguity": 3.3333333333333335,
+                "root_concept": -2992591719550554380,
+                "POS": -4107793689991777685
+            }
         },
         "WylfMcj5UShqy2s6Dg4Hwfg": {
             "text": "Take-backsies.",
             "color": "w",
-            "features": [
-                22.0,
-                2654067180311507063,
-                -5794963948182259202
-            ]
+            "features": {
+                "ambiguity": 22.0,
+                "root_concept": 7598010076313945261,
+                "POS": -7055617409965338843
+            }
         },
         "WkZ7RiLTqQYamreXK5XfwhQ": {
             "text": "The Rapture.",
             "color": "w",
-            "features": [
-                1.0,
-                1299772126298031980,
-                -8934540420884698534
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": -8942795169509793030,
+                "POS": -3963973042129086724
+            }
         },
         "WIaVOmT3vS92bb1fs-wjZzw": {
             "text": "A cooler full of organs.",
             "color": "w",
-            "features": [
-                7.333333333333333,
-                4275990721028609850,
-                2116936823637032733
-            ]
+            "features": {
+                "ambiguity": 7.333333333333333,
+                "root_concept": 2162733514060939916,
+                "POS": -4708301742172069853
+            }
         },
         "WY-w1rA3RTVScZCZBuwSwSg": {
             "text": "Sweet, sweet vengeance.",
             "color": "w",
-            "features": [
-                11.0,
-                587083868731744185,
-                4013873739663168987
-            ]
+            "features": {
+                "ambiguity": 11.0,
+                "root_concept": -2992591719550554380,
+                "POS": -3716680447158831500
+            }
         },
         "WDYlLULicQ4yHehgRUaL5Vg": {
             "text": "RoboCop.",
             "color": "w",
-            "features": [
-                0.0,
-                6931280038850399182,
-                -366983355660244862
-            ]
+            "features": {
+                "ambiguity": 0.0,
+                "root_concept": -6552129457407401091,
+                "POS": 4651444598852411295
+            }
         },
         "WIbSsufrHTZmf5A9aprjGgA": {
             "text": "Keanu Reeves.",
             "color": "w",
-            "features": [
-                3.5,
-                4275990721028609850,
-                1861971913680694720
-            ]
+            "features": {
+                "ambiguity": 3.5,
+                "root_concept": 2162733514060939916,
+                "POS": -5673018782340692385
+            }
         },
         "WCIU0w5PUT7S7zK5RmoOsxw": {
             "text": "Drinking alone.",
             "color": "w",
-            "features": [
-                10.0,
-                -6299627688217890478,
-                -886571133522178426
-            ]
+            "features": {
+                "ambiguity": 10.0,
+                "root_concept": -3143586772847651014,
+                "POS": 5112902786622671948
+            }
         },
         "WmAQKkuIEQwusQQqswmrzpQ": {
             "text": "Giving 110%.",
             "color": "w",
-            "features": [
-                23.0,
-                942240231012417562,
-                6947896641031516433
-            ]
+            "features": {
+                "ambiguity": 23.0,
+                "root_concept": 5507063764458718820,
+                "POS": -7405358354624959299
+            }
         },
         "WfABti6vqSoWC-ltPoSHV0A": {
             "text": "Flesh-eating bacteria.",
             "color": "w",
-            "features": [
-                3.6666666666666665,
-                4275990721028609850,
-                -3231655526450944330
-            ]
+            "features": {
+                "ambiguity": 3.6666666666666665,
+                "root_concept": 2162733514060939916,
+                "POS": -3945602108518319331
+            }
         },
         "WeawWOjjYT0W67WEfAXau2g": {
             "text": "The American Dream.",
             "color": "w",
-            "features": [
-                4.333333333333333,
-                5842491231503265277,
-                1477314331833083283
-            ]
+            "features": {
+                "ambiguity": 4.333333333333333,
+                "root_concept": -5565001626434425427,
+                "POS": 6724544859149647652
+            }
         },
         "W0S5ILzqPQ5utZ7Jjn5HvHg": {
             "text": "Taking off your shirt.",
             "color": "w",
-            "features": [
-                23.0,
-                6709172466524485586,
-                -5794963948182259202
-            ]
+            "features": {
+                "ambiguity": 23.0,
+                "root_concept": -1909623177522000711,
+                "POS": -7055617409965338843
+            }
         },
         "Wj0kKe4-ESGmWB6xwW0Xr0Q": {
             "text": "Me time.",
             "color": "w",
-            "features": [
-                7.5,
-                587083868731744185,
-                5075403219017243990
-            ]
+            "features": {
+                "ambiguity": 7.5,
+                "root_concept": -2992591719550554380,
+                "POS": -3985774157998165184
+            }
         },
         "WPumJ1w7KSHSLI3yCtf4Gsg": {
             "text": "A murder most foul.",
             "color": "w",
-            "features": [
-                8.666666666666666,
-                587083868731744185,
-                7730744905364255683
-            ]
+            "features": {
+                "ambiguity": 8.666666666666666,
+                "root_concept": -2992591719550554380,
+                "POS": 1237218776910438158
+            }
         },
         "WbwqOS1zYQoiIAf5Mqzjdyw": {
             "text": "The inevitable heat death of the universe.",
             "color": "w",
-            "features": [
-                5.0,
-                587083868731744185,
-                -1559978488812046683
-            ]
+            "features": {
+                "ambiguity": 5.0,
+                "root_concept": -2992591719550554380,
+                "POS": 5892238986458854272
+            }
         },
         "WoswOCU01TbiRlVNlPhPAfw": {
             "text": "The folly of man.",
             "color": "w",
-            "features": [
-                5.666666666666667,
-                4188385343664425259,
-                2116936823637032733
-            ]
+            "features": {
+                "ambiguity": 5.666666666666667,
+                "root_concept": -8596062972521131176,
+                "POS": -4708301742172069853
+            }
         },
         "WCv9CB3tYS9qLNjV3132u8A": {
             "text": "That thing that electrocutes your abs.",
             "color": "w",
-            "features": [
-                4.75,
-                1299772126298031980,
-                -260968505688556821
-            ]
+            "features": {
+                "ambiguity": 4.75,
+                "root_concept": -8942795169509793030,
+                "POS": -706822974930555583
+            }
         },
         "WWxbgxA3BSMK6P_89srsVRQ": {
             "text": "Cards Against Humanity.",
             "color": "w",
-            "features": [
-                5.333333333333333,
-                6703033887182308858,
-                4418636287007039302
-            ]
+            "features": {
+                "ambiguity": 5.333333333333333,
+                "root_concept": -4176142933413891537,
+                "POS": -1969904293010963025
+            }
         },
         "WD35qjbCYQCOTam4W4OAhag": {
             "text": "Fiery poops.",
             "color": "w",
-            "features": [
-                3.5,
-                6703033887182308858,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 3.5,
+                "root_concept": -4176142933413891537,
+                "POS": -8089004510456603566
+            }
         },
         "W2yfOPzRaQ1uTk9eyw7X80Q": {
             "text": "Poor people.",
             "color": "w",
-            "features": [
-                6.5,
-                3019054236762622761,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 6.5,
+                "root_concept": 2004547321670075133,
+                "POS": -8089004510456603566
+            }
         },
         "W8ppFUz47S0uDeqzDvM0baw": {
             "text": "Edible underpants.",
             "color": "w",
-            "features": [
-                1.0,
-                -1659303317499037261,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": 4909521831128252709,
+                "POS": -8089004510456603566
+            }
         },
         "WBvquQD7RQM6GPg4ReD0AWg": {
             "text": "Britney Spears at 55.",
             "color": "w",
-            "features": [
-                1.6666666666666667,
-                4275990721028609850,
-                -7936253164134310753
-            ]
+            "features": {
+                "ambiguity": 1.6666666666666667,
+                "root_concept": 2162733514060939916,
+                "POS": 761710344150546377
+            }
         },
         "WYpdwNPDfSLyzr9k-gxCioA": {
             "text": "All-you-can-eat shrimp for $4.99.",
             "color": "w",
-            "features": [
-                2.6,
-                -3072264698064081896,
-                -1386517231265264275
-            ]
+            "features": {
+                "ambiguity": 2.6,
+                "root_concept": -5944426767482669966,
+                "POS": 5988060858521104362
+            }
         },
         "W2qRAhez7TBmc17UlVo5d1g": {
             "text": "Pooping back and forth. Forever.",
             "color": "w",
-            "features": [
-                3.6666666666666665,
-                4287733328428027522,
-                -2496347286289453850
-            ]
+            "features": {
+                "ambiguity": 3.6666666666666665,
+                "root_concept": -8898447764933062932,
+                "POS": -3530744451376324874
+            }
         },
         "WQJd1lZKxTuujB8e1o0qsmA": {
             "text": "Fancy Feast&reg;.",
             "color": "w",
-            "features": [
-                3.0,
-                5842491231503265277,
-                -1238044576033695883
-            ]
+            "features": {
+                "ambiguity": 3.0,
+                "root_concept": -5565001626434425427,
+                "POS": 5788724059026192416
+            }
         },
         "W76YdvA_LQqaesqSamkS1Eg": {
             "text": "Jewish fraternities.",
             "color": "w",
-            "features": [
-                1.5,
-                -4662655401943367666,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 1.5,
+                "root_concept": -7151564528650388302,
+                "POS": -8089004510456603566
+            }
         },
         "Woha7kIktRhGtiWUEMJMRZQ": {
             "text": "Being a motherfucking sorcerer.",
             "color": "w",
-            "features": [
-                5.0,
-                6703033887182308858,
-                5215227487559625266
-            ]
+            "features": {
+                "ambiguity": 5.0,
+                "root_concept": -4176142933413891537,
+                "POS": -6613685829685420524
+            }
         },
         "W0uvfoxMGSRqzTJ8oO9rMQg": {
             "text": "Pulling out.",
             "color": "w",
-            "features": [
-                24.0,
-                587083868731744185,
-                -886571133522178426
-            ]
+            "features": {
+                "ambiguity": 24.0,
+                "root_concept": -2992591719550554380,
+                "POS": 5112902786622671948
+            }
         },
         "WhZxZuBSQRimSqi9sAAhrSA": {
             "text": "Picking up girls at the abortion clinic.",
             "color": "w",
-            "features": [
-                7.75,
-                5842491231503265277,
-                -4634090857522420579
-            ]
+            "features": {
+                "ambiguity": 7.75,
+                "root_concept": -5565001626434425427,
+                "POS": -769787406936346933
+            }
         },
         "WcmFKjTdMS4iJ-EGkNSvjaA": {
             "text": "The homosexual agenda.",
             "color": "w",
-            "features": [
-                1.3333333333333333,
-                5842491231503265277,
-                5563165421515423041
-            ]
+            "features": {
+                "ambiguity": 1.3333333333333333,
+                "root_concept": -5565001626434425427,
+                "POS": -4107793689991777685
+            }
         },
         "WPbYmAPUWS6eYEVTgZQjNww": {
             "text": "The Holy Bible.",
             "color": "w",
-            "features": [
-                1.3333333333333333,
-                -1352101376641816403,
-                1477314331833083283
-            ]
+            "features": {
+                "ambiguity": 1.3333333333333333,
+                "root_concept": -1204668994517790356,
+                "POS": 6724544859149647652
+            }
         },
         "WTz1dthADSsCayvBKhk80Cg": {
             "text": "Passive-agression.",
             "color": "w",
-            "features": [
-                2.0,
-                8493858501763066044,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 2.0,
+                "root_concept": 8029508128245619333,
+                "POS": -8089004510456603566
+            }
         },
         "WRR2meydZQp-qLynhw0cyzQ": {
             "text": "Ronald Reagan.",
             "color": "w",
-            "features": [
-                0.5,
-                -3072264698064081896,
-                1861971913680694720
-            ]
+            "features": {
+                "ambiguity": 0.5,
+                "root_concept": -5944426767482669966,
+                "POS": -5673018782340692385
+            }
         },
         "WTjkRb-v-Q5O-SmplhIp_zw": {
             "text": "Vehicular manslaughter.",
             "color": "w",
-            "features": [
-                1.0,
-                587083868731744185,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": -2992591719550554380,
+                "POS": -8089004510456603566
+            }
         },
         "WwHP6ORl6Qc-Ahj5WBCwY3Q": {
             "text": "Nipple blades.",
             "color": "w",
-            "features": [
-                5.5,
-                4275990721028609850,
-                -7594910591948632193
-            ]
+            "features": {
+                "ambiguity": 5.5,
+                "root_concept": 2162733514060939916,
+                "POS": 5696370046962191795
+            }
         },
         "WYouea0wcQi-kyCwJJEcdtg": {
             "text": "Assless chaps.",
             "color": "w",
-            "features": [
-                2.5,
-                -3072264698064081896,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 2.5,
+                "root_concept": -5944426767482669966,
+                "POS": -8089004510456603566
+            }
         },
         "WIrYUlUTXTYqAqtVeFLHSZA": {
             "text": "Full frontal nudity.",
             "color": "w",
-            "features": [
-                7.0,
-                1299772126298031980,
-                4013873739663168987
-            ]
+            "features": {
+                "ambiguity": 7.0,
+                "root_concept": -8942795169509793030,
+                "POS": -3716680447158831500
+            }
         },
         "W0fqYpHMxQGGR7TvJfBb-hg": {
             "text": "Hulk Hogan.",
             "color": "w",
-            "features": [
-                2.5,
-                -3072264698064081896,
-                1861971913680694720
-            ]
+            "features": {
+                "ambiguity": 2.5,
+                "root_concept": -5944426767482669966,
+                "POS": -5673018782340692385
+            }
         },
         "Wy0t16oQhSIKpmOlfG3IJWg": {
             "text": "Daddy issues.",
             "color": "w",
-            "features": [
-                8.5,
-                5842491231503265277,
-                -7594910591948632193
-            ]
+            "features": {
+                "ambiguity": 8.5,
+                "root_concept": -5565001626434425427,
+                "POS": 5696370046962191795
+            }
         },
         "WwDW0YD1xSTSUtwRC0JgQuA": {
             "text": "The hardworking Mexican.",
             "color": "w",
-            "features": [
-                1.0,
-                -3072264698064081896,
-                -5747205990431791089
-            ]
+            "features": {
+                "ambiguity": 1.0,
+                "root_concept": -5944426767482669966,
+                "POS": 5841865632678509705
+            }
         },
         "WiHhIkV5wTuCHtKL5-vrQpw": {
             "text": "Natalie Portman.",
             "color": "w",
-            "features": [
-                0.0,
-                3764270522147806310,
-                1861971913680694720
-            ]
+            "features": {
+                "ambiguity": 0.0,
+                "root_concept": 3281756871031761983,
+                "POS": -5673018782340692385
+            }
         },
         "WU_3s1uxeRVmvqP4rEd1V0g": {
             "text": "Waking up half-naked in a Denny's parking lot.",
             "color": "w",
-            "features": [
-                4.714285714285714,
-                -7195119955305199737,
-                5366647265692404406
-            ]
+            "features": {
+                "ambiguity": 4.714285714285714,
+                "root_concept": -6511307099322130560,
+                "POS": -1143623941170701350
+            }
         },
         "WYYR6QehARp6nHUJh8Ro_Ow": {
             "text": "God.",
             "color": "w",
-            "features": [
-                4.0,
-                5842491231503265277,
-                -366983355660244862
-            ]
+            "features": {
+                "ambiguity": 4.0,
+                "root_concept": -5565001626434425427,
+                "POS": 4651444598852411295
+            }
         },
         "WXs3zblltQ-2SLrYgop9zZA": {
             "text": "Sean Connery.",
             "color": "w",
-            "features": [
-                0.0,
-                8844859970698018177,
-                1861971913680694720
-            ]
+            "features": {
+                "ambiguity": 0.0,
+                "root_concept": 5674954625303696344,
+                "POS": -5673018782340692385
+            }
         },
         "Wq5xiB9v_Qd2OCS5F0k_m3Q": {
             "text": "Saxophone solos.",
             "color": "w",
-            "features": [
-                4.0,
-                587083868731744185,
-                -7594910591948632193
-            ]
+            "features": {
+                "ambiguity": 4.0,
+                "root_concept": -2992591719550554380,
+                "POS": 5696370046962191795
+            }
         },
         "WQshkZOQkQw2rM82rv6PGDg": {
             "text": "Gloryholes.",
             "color": "w",
-            "features": [
-                0.0,
-                -5186128352212457470,
-                490989600324490750
-            ]
+            "features": {
+                "ambiguity": 0.0,
+                "root_concept": -4600030254809935303,
+                "POS": -6999315804647385967
+            }
         },
         "WF-g9HcSXRraDKXX3aQ-0lg": {
             "text": "The World of Warcraft.",
             "color": "w",
-            "features": [
-                3.0,
-                4275990721028609850,
-                1477314331833083283
-            ]
+            "features": {
+                "ambiguity": 3.0,
+                "root_concept": 2162733514060939916,
+                "POS": 6724544859149647652
+            }
         },
         "Wx4bRIFtCTU6e4UIDUZmZqg": {
             "text": "Homeless people.",
             "color": "w",
-            "features": [
-                5.0,
-                3019054236762622761,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 5.0,
+                "root_concept": 2004547321670075133,
+                "POS": -8089004510456603566
+            }
         },
         "WPaJhiyxrQb-QWBsu3TlwZg": {
             "text": "Scalping.",
             "color": "w",
-            "features": [
-                3.0,
-                4275990721028609850,
-                -886571133522178426
-            ]
+            "features": {
+                "ambiguity": 3.0,
+                "root_concept": 2162733514060939916,
+                "POS": 5112902786622671948
+            }
         },
         "WjS5FGer4RV2J4-67s1gGhw": {
             "text": "Darth Vader.",
             "color": "w",
-            "features": [
-                0.0,
-                -6775320402582860472,
-                1861971913680694720
-            ]
+            "features": {
+                "ambiguity": 0.0,
+                "root_concept": -7612132605822916052,
+                "POS": -5673018782340692385
+            }
         },
         "WxlpZ8NiNTDeFql86kRkaKQ": {
             "text": "Eating the last known bison.",
             "color": "w",
-            "features": [
-                6.333333333333333,
-                2567370306540459353,
-                5215227487559625266
-            ]
+            "features": {
+                "ambiguity": 6.333333333333333,
+                "root_concept": -6389542314287383889,
+                "POS": -6613685829685420524
+            }
         },
         "WwKZ7zWlWQI2NTy37JA4c_w": {
             "text": "Guys who don't call.",
             "color": "w",
-            "features": [
-                3.0,
-                -3072264698064081896,
-                4775809389267443678
-            ]
+            "features": {
+                "ambiguity": 3.0,
+                "root_concept": -5944426767482669966,
+                "POS": -445184327530983162
+            }
         },
         "WyaV-qB6oTGiX_wfEt4kN3w": {
             "text": "Hot Pockets&reg;.",
             "color": "w",
-            "features": [
-                10.5,
-                -427401172737513372,
-                4499874004777765910
-            ]
+            "features": {
+                "ambiguity": 10.5,
+                "root_concept": -3001212585148048708,
+                "POS": -7280695906372658501
+            }
         },
         "W46KxkJJcQvymYiUqhRr8Xg": {
             "text": "A time travel paradox.",
             "color": "w",
-            "features": [
-                8.0,
-                -2920005831037703359,
-                6270085977022534576
-            ]
+            "features": {
+                "ambiguity": 8.0,
+                "root_concept": 7128355003691708762,
+                "POS": -5346149843902653482
+            }
         },
         "WHOnhgVzPTIKUdHNxBJ5r6Q": {
             "text": "The milk man.",
             "color": "w",
-            "features": [
-                6.666666666666667,
-                -3072264698064081896,
-                2116936823637032733
-            ]
+            "features": {
+                "ambiguity": 6.666666666666667,
+                "root_concept": -5944426767482669966,
+                "POS": -4708301742172069853
+            }
         },
         "W687bczJfTq-aH4E9ar1Qnw": {
             "text": "Testicular torsion.",
             "color": "w",
-            "features": [
-                1.5,
-                3705678190903654460,
-                -6275447724825092195
-            ]
+            "features": {
+                "ambiguity": 1.5,
+                "root_concept": -9020016068847737409,
+                "POS": -8089004510456603566
+            }
         },
         "WbOY8hibaR8udkOHe_eHYZA": {
             "text": "Dropping a chandelier on your enemies and riding the rope up.",
             "color": "w",
-            "features": [
-                8.4,
-                3705678190903654460,
-                -3527517289625607936
-            ]
+            "features": {
+                "ambiguity": 8.4,
+                "root_concept": -9020016068847737409,
+                "POS": 4089162360470498088
+            }
         },
         "W8No46173R_a5vChY5FnHSg": {
             "text": "World peace.",
             "color": "w",
-            "features": [
-                7.0,
-                1299772126298031980,
-                -7594910591948632193
-            ]
+            "features": {
+                "ambiguity": 7.0,
+                "root_concept": -8942795169509793030,
+                "POS": 5696370046962191795
+            }
         },
         "W8Y4gohaJSkWfC05uDITIHA": {
             "text": "A salty surprise.",
             "color": "w",
-            "features": [
-                5.333333333333333,
-                1299772126298031980,
-                5563165421515423041
-            ]
+            "features": {
+                "ambiguity": 5.333333333333333,
+                "root_concept": -8942795169509793030,
+                "POS": -4107793689991777685
+            }
         },
         "WuUmc2regTQuGQBKHVHZQ4A": {
             "text": "Poorly-timed Holocaust jokes.",
             "color": "w",
-            "features": [
-                6.25,
-                -2920005831037703359,
-                4157227929626603420
-            ]
+            "features": {
+                "ambiguity": 6.25,
+                "root_concept": 7128355003691708762,
+                "POS": 7447179712675690039
+            }
         },
         "Wsac1ZnNiQiatBt1EIJuc-g": {
             "text": "Smallpox blankets.",
             "color": "w",
-            "features": [
-                3.5,
-                4275990721028609850,
-                -7594910591948632193
-            ]
+            "features": {
+                "ambiguity": 3.5,
+                "root_concept": 2162733514060939916,
+                "POS": 5696370046962191795
+            }
         },
         "WHuwnCrG-RlWrSrk7mR0F8A": {
             "text": "Licking things to claim them as your own.",
             "color": "w",
-            "features": [
-                10.0,
-                8954131273953887297,
-                5589646446333455780
-            ]
+            "features": {
+                "ambiguity": 10.0,
+                "root_concept": -2997473435674631694,
+                "POS": -7136158572725549734
+            }
         },
         "WDwKam6AtRV2VDTSV8It0AQ": {
             "text": "The heart of a child.",
             "color": "w",
-            "features": [
-                4.666666666666667,
-                5842491231503265277,
-                2116936823637032733
-            ]
+            "features": {
+                "ambiguity": 4.666666666666667,
+                "root_concept": -5565001626434425427,
+                "POS": -4708301742172069853
+            }
         },
         "WKrKrWwk9SrOr5UwoP0_WRQ": {
             "text": "Robert Downey, Jr.",
             "color": "w",
-            "features": [
-                0.6666666666666666,
-                -5383052975418803335,
-                -5096214354457907891
-            ]
+            "features": {
+                "ambiguity": 0.6666666666666666,
+                "root_concept": -3774948339945781540,
+                "POS": 8965460633528742829
+            }
         }
     }
 }

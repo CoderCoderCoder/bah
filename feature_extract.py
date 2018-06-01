@@ -162,7 +162,7 @@ def compute_feature_for(sen, noun_hypernyms):
     f3 = feature_POS(doc)
     f4 = feature_most_freq_noun_hypernym(noun_hypernyms, doc)
 
-    features = [f1, f2, f3, f4]
+    features = {"ambiguity": f1, "root_concept": f2, "POS": f3, "best_hypernym": f4}
 
     print(sen)
     print(features)
