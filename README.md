@@ -36,6 +36,16 @@ The game contains a few components that work together
 
 ## Natural Language Processing
 
+The features mainly try to explore the semantic content of a card, either black or white. For instance:
+1. Ambiguity - average number of meanings of the words in a sentence (synset in WordNet)
+2. POS
+3. ROOT concept
+4. Named-entities
+5. Most freqent noun hypernym
+6. Sexual content?
+7. Senteces similarity in the vector space
+8. Text length
+
 ## Machine Learning
 
 ### The simple Python simulation for data collection
