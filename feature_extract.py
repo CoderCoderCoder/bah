@@ -8,14 +8,14 @@ from pprint import pprint
 nlp = spacy.load('en_core_web_sm')
 
 
-def load_texts(whites=False):
+def load_texts(whites_only=False):
     with open('processed_deck.json') as f:
         deck = json.load(f)
 
     blacks = deck['blackCards']
     whites = deck['whiteCards']
 
-    if whites:
+    if whites_only:
         return [whites[key]["text"] for key in whites]
 
     all_c = blacks.copy()
@@ -124,7 +124,6 @@ def feature_most_freq_noun_hypernym(noun_hypernyms, doc):
                 max_index = 3
             chosenHypernym = str(hypernyms[max_index]).split('.')[0].split('\'')[1]
             print chosenHypernym
-            pprint(noun_hypernyms)
             if noun_hypernyms[chosenHypernym] > freqMostCommonHypernym:
                 freqMostCommonHypernym = noun_hypernyms[chosenHypernym]
                 mostCommonHypernym = chosenHypernym
@@ -187,8 +186,9 @@ def compute_feature_for(sen, noun_hypernyms):
     f2 = feature_root_concept(doc)
     f3 = feature_POS(doc)
     f4 = feature_most_freq_noun_hypernym(noun_hypernyms, doc)
+    f5 = feature_sexual_content(doc)
 
-    features = [f1, f2, f3, f4]
+    features = [f1, f2, f3, f4, f5]
 
     print(sen)
     print(features)
