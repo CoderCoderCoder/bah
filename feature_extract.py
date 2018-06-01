@@ -123,6 +123,8 @@ def feature_most_freq_noun_hypernym(noun_hypernyms, doc):
             if len(hypernyms) > 3:
                 max_index = 3
             chosenHypernym = str(hypernyms[max_index]).split('.')[0].split('\'')[1]
+            print chosenHypernym
+            pprint(noun_hypernyms)
             if noun_hypernyms[chosenHypernym] > freqMostCommonHypernym:
                 freqMostCommonHypernym = noun_hypernyms[chosenHypernym]
                 mostCommonHypernym = chosenHypernym
