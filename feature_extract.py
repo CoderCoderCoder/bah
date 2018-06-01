@@ -4,6 +4,7 @@ import string
 import nltk
 from nltk import wordnet as wn
 from pprint import pprint
+from agents import compute_sentence_embedding, cos_sim
 
 nlp = spacy.load('en_core_web_sm')
 
@@ -131,6 +132,13 @@ def feature_most_freq_noun_hypernym(noun_hypernyms, doc):
     return hash(mostCommonHypernym)
 
 
+def feature_sentence_similarity(sentence1, sentence2):
+    vec1 = compute_sentence_embedding(sentence1)
+    vec2 = compute_sentence_embedding(sentence2)
+    distance = cos_sim(vec1, vec2)
+    print distance
+
+
 def feature_sexual_content(doc):
     """ Detects if any word contains sexual meaning
         considering a predefined list
@@ -222,5 +230,6 @@ def compute_all_features():
 
 
 if __name__ == "__main__":
-    bs, ws = compute_all_features()
-    save_json(bs, ws)
+    #bs, ws = compute_all_features()
+    print feature_sentence_similarity(u'pink is beautiful.', u'pink is beautiful.')
+    #save_json(bs, ws)
