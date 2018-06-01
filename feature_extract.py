@@ -92,7 +92,7 @@ def feature_POS(doc):
 
 
 def feature_most_freq_noun_hypernym(noun_hypernyms, doc):
-    """ CHoose the most frequent noun hypernym in a setence
+    """ Choose the most frequent noun hypernym in a setence
         among all the dataset
         return: int (hash of hypernym string)
     """
@@ -106,12 +106,37 @@ def feature_most_freq_noun_hypernym(noun_hypernyms, doc):
             if len(hypernyms) > 3:
                 max_index = 3
             chosenHypernym = str(hypernyms[max_index]).split('.')[0].split('\'')[1]
-
             if noun_hypernyms[chosenHypernym] > freqMostCommonHypernym:
                 freqMostCommonHypernym = noun_hypernyms[chosenHypernym]
                 mostCommonHypernym = chosenHypernym
 
     return hash(mostCommonHypernym)
+
+
+def feature_sexual_content(doc):
+    """ Detects if any word contains sexual meaning
+        considering a predefined list
+        return: int (bool of hypernym string)
+    """
+
+    sexual_words =['sex',
+    'penis',
+    'vagina',
+    'boob',
+    'gay',
+    'intercourse',
+    'orgasm',
+    'porn',
+    'balls',
+    'necrophilia',
+    'boner']
+
+    for sw in sexual_words:
+        if str(doc).find(sw) != -1:
+            return 1
+    else:
+        return 0
+
 
 
 
@@ -142,14 +167,15 @@ def get_all_noun_hypernyms(sentences):
 def compute_all_features():
     texts = load_texts()
     noun_hypernyms = get_all_noun_hypernyms(texts)
-    for sen in texts[:15]:
+    for sen in texts[50:60]:
         doc = nlp(sen)
         f1 = feature_synset_num(doc)
         f2 = feature_root_concept(doc)
         f3 = feature_POS(doc)
         f4 = feature_most_freq_noun_hypernym(noun_hypernyms, doc)
+        f5 = feature_sexual_content(doc)
         print(sen)
-        print(f1, f2, f3, f4)
+        print(f1, f2, f3, f4, f5)
         print()
 
 
