@@ -5,9 +5,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 3.2,
-                "root_concept": 7434414695765685718,
-                "POS": -5229043674957143612,
-                "best_hypernym": -343862667965414631,
+                "root_concept": -3302306571794496006,
+                "POS": 479933294956482817,
+                "best_hypernym": -5277821980753811847,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 5
@@ -18,9 +18,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 9.333333333333334,
-                "root_concept": -8275397632331989561,
-                "POS": -1904930063974282754,
-                "best_hypernym": 4109550973242202982,
+                "root_concept": -3877041155200524042,
+                "POS": 6710440825223766314,
+                "best_hypernym": 5774941483153310944,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 6
@@ -31,9 +31,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 8.5,
-                "root_concept": -2885504365765635171,
-                "POS": -1169077314496864022,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": -6041166030781721526,
+                "POS": 4777837851881706451,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 6
@@ -44,9 +44,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 8.0,
-                "root_concept": -2885504365765635171,
-                "POS": 5441764798830934075,
-                "best_hypernym": -8392472165458583104,
+                "root_concept": -6041166030781721526,
+                "POS": -8215654871313624156,
+                "best_hypernym": 4380720844002952559,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 3
@@ -57,9 +57,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 9.3,
-                "root_concept": -2605652777293505084,
-                "POS": -7495776504851939574,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -4355576983378283716,
+                "POS": 4603426872319624845,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 10
@@ -70,9 +70,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 1.6,
-                "root_concept": -2885504365765635171,
-                "POS": 8796698157460511224,
-                "best_hypernym": 4109550973242202982,
+                "root_concept": -6041166030781721526,
+                "POS": 772660319227020603,
+                "best_hypernym": 5774941483153310944,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 5
@@ -83,9 +83,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 1.5,
-                "root_concept": 1416421467918275992,
-                "POS": -186126308659511340,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -1825744374309788318,
+                "POS": 8222986778960288835,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 4
@@ -96,9 +96,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 7.333333333333333,
-                "root_concept": 6993145954051282389,
-                "POS": 5441764798830934075,
-                "best_hypernym": 3857170300359208159,
+                "root_concept": 834230994057350674,
+                "POS": -8215654871313624156,
+                "best_hypernym": -6438089720655706597,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 3
@@ -109,9 +109,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 8.25,
-                "root_concept": 8442936666156290597,
-                "POS": 4191613125332111449,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": -4288372801828347205,
+                "POS": 8531850546017994229,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 8
@@ -122,8 +122,8 @@
             "color": "b",
             "features": {
                 "ambiguity": 4.666666666666667,
-                "root_concept": -7124680969714958669,
-                "POS": -5086696168972786794,
+                "root_concept": -599765246415065402,
+                "POS": -1939602320175609399,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 0,
@@ -135,9 +135,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 3.875,
-                "root_concept": -2885504365765635171,
-                "POS": 8619545385268469691,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -6041166030781721526,
+                "POS": 4617029679466466587,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 8
@@ -148,9 +148,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 5.4,
-                "root_concept": -8275397632331989561,
-                "POS": -3698692036165064970,
-                "best_hypernym": -8392472165458583104,
+                "root_concept": -3877041155200524042,
+                "POS": -8355639992898561175,
+                "best_hypernym": 4380720844002952559,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 5
@@ -161,9 +161,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 12.666666666666666,
-                "root_concept": -2885504365765635171,
-                "POS": 5441764798830934075,
-                "best_hypernym": 142930513649985003,
+                "root_concept": -6041166030781721526,
+                "POS": -8215654871313624156,
+                "best_hypernym": 835469761793037833,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 3
@@ -174,9 +174,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 5.2,
-                "root_concept": 175656991579080255,
-                "POS": -3174651812640448364,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -559736715599750790,
+                "POS": 5991537158889359043,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 5
@@ -187,9 +187,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 11.285714285714286,
-                "root_concept": -2885504365765635171,
-                "POS": 5677384265552136613,
-                "best_hypernym": 4109550973242202982,
+                "root_concept": -6041166030781721526,
+                "POS": 7815940924795912239,
+                "best_hypernym": 5774941483153310944,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 7
@@ -200,9 +200,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 6.1,
-                "root_concept": -8275397632331989561,
-                "POS": -6132275155462396321,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -3877041155200524042,
+                "POS": -8270902929185094543,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 10
@@ -213,8 +213,8 @@
             "color": "b",
             "features": {
                 "ambiguity": 7.4,
-                "root_concept": -2885504365765635171,
-                "POS": 1211854257609246813,
+                "root_concept": -6041166030781721526,
+                "POS": -8875689321930027504,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 0,
@@ -226,8 +226,8 @@
             "color": "b",
             "features": {
                 "ambiguity": 1.5,
-                "root_concept": 5222925947884854928,
-                "POS": -324411821515973932,
+                "root_concept": 6606651203411097988,
+                "POS": -3164533239362451448,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 1,
@@ -239,8 +239,8 @@
             "color": "b",
             "features": {
                 "ambiguity": 4.666666666666667,
-                "root_concept": -2885504365765635171,
-                "POS": 5441764798830934075,
+                "root_concept": -6041166030781721526,
+                "POS": -8215654871313624156,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 1,
@@ -252,9 +252,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 12.333333333333334,
-                "root_concept": 1567066181088311097,
-                "POS": -4480859438064823234,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": -6203002336523503520,
+                "POS": 6939916716516568971,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 6
@@ -265,8 +265,8 @@
             "color": "b",
             "features": {
                 "ambiguity": 2.6666666666666665,
-                "root_concept": 4913240106166640854,
-                "POS": 644327799632049442,
+                "root_concept": 4431697731172120914,
+                "POS": -8081056962174665357,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 0,
@@ -278,9 +278,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 3.2,
-                "root_concept": -2885504365765635171,
-                "POS": 7902744719533786114,
-                "best_hypernym": 4043476035018233761,
+                "root_concept": -6041166030781721526,
+                "POS": 2694790811237810350,
+                "best_hypernym": -6324425721921659078,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 5
@@ -291,9 +291,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 14.0,
-                "root_concept": -7810164606648535859,
-                "POS": -2610033414411738762,
-                "best_hypernym": 374425833518087971,
+                "root_concept": 7567436157949983492,
+                "POS": 5292756281935606998,
+                "best_hypernym": -8539287812333171408,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 3
@@ -304,8 +304,8 @@
             "color": "b",
             "features": {
                 "ambiguity": 0.5,
-                "root_concept": 1381078956971792028,
-                "POS": -3577760943140830348,
+                "root_concept": 827351675869452532,
+                "POS": -6776242216532571589,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 0,
@@ -317,8 +317,8 @@
             "color": "b",
             "features": {
                 "ambiguity": 6.75,
-                "root_concept": -2885504365765635171,
-                "POS": -3952107672145135517,
+                "root_concept": -6041166030781721526,
+                "POS": 9039069737353757017,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 1,
@@ -330,9 +330,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 3.0,
-                "root_concept": 1381078956971792028,
-                "POS": -1867295864048628940,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": 827351675869452532,
+                "POS": 1757859038002080546,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 4
@@ -343,8 +343,8 @@
             "color": "b",
             "features": {
                 "ambiguity": 9.0,
-                "root_concept": 715053902559955604,
-                "POS": -4093439185173039618,
+                "root_concept": -6793269739847487556,
+                "POS": -4928365313726320537,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 0,
@@ -356,9 +356,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 6.2,
-                "root_concept": 8442936666156290597,
-                "POS": 881554312271076954,
-                "best_hypernym": -1442631573324805689,
+                "root_concept": -4288372801828347205,
+                "POS": 8519980998860276869,
+                "best_hypernym": -7038805464751074166,
                 "sexual_content": 1,
                 "black_card_type": 0,
                 "text_len": 5
@@ -369,8 +369,8 @@
             "color": "b",
             "features": {
                 "ambiguity": 3.0,
-                "root_concept": 8341692653720728313,
-                "POS": 8493932766411761281,
+                "root_concept": -8042163376759518173,
+                "POS": -4092524409934798198,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 1,
@@ -382,9 +382,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 3.0,
-                "root_concept": -2885504365765635171,
-                "POS": 8724266866946666559,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": -6041166030781721526,
+                "POS": 4630633356016725335,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 3
@@ -395,8 +395,8 @@
             "color": "b",
             "features": {
                 "ambiguity": 8.0,
-                "root_concept": -8275397632331989561,
-                "POS": 7875833240276744139,
+                "root_concept": -3877041155200524042,
+                "POS": 8294709060422911161,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 1,
@@ -408,9 +408,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 5.5,
-                "root_concept": 8442936666156290597,
-                "POS": -6631204930513213832,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": -4288372801828347205,
+                "POS": -286027754483479282,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 6
@@ -421,9 +421,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 1.6,
-                "root_concept": -8275397632331989561,
-                "POS": -6448494757082072475,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": -3877041155200524042,
+                "POS": -1443622363419271500,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 5
@@ -434,8 +434,8 @@
             "color": "b",
             "features": {
                 "ambiguity": 4.0,
-                "root_concept": -8275397632331989561,
-                "POS": 833833239608442146,
+                "root_concept": -3877041155200524042,
+                "POS": -5531288707117381782,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 1,
@@ -447,9 +447,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 4.5,
-                "root_concept": -2885504365765635171,
-                "POS": -3963680734861684988,
-                "best_hypernym": -2328737337362454085,
+                "root_concept": -6041166030781721526,
+                "POS": -8537417480268320327,
+                "best_hypernym": 5496065598586947535,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 4
@@ -460,9 +460,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 10.375,
-                "root_concept": 5190345336064189022,
-                "POS": -2937488446136493393,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": 7623566648587818195,
+                "POS": -6767132494814107230,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 8
@@ -473,9 +473,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": 8496447180365737453,
-                "POS": 3312059445206237293,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -6015425486425443424,
+                "POS": 3255295074549125075,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 9
@@ -486,9 +486,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 6.6,
-                "root_concept": -2885504365765635171,
-                "POS": 1559077486373057351,
-                "best_hypernym": -8392472165458583104,
+                "root_concept": -6041166030781721526,
+                "POS": -8069355869566955728,
+                "best_hypernym": 4380720844002952559,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 5
@@ -499,8 +499,8 @@
             "color": "b",
             "features": {
                 "ambiguity": 4.25,
-                "root_concept": -5966815923177848572,
-                "POS": 4437324150410946724,
+                "root_concept": 2917326304265251136,
+                "POS": 5505241868594770705,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 0,
@@ -512,9 +512,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 8.666666666666666,
-                "root_concept": -2885504365765635171,
-                "POS": -2197470551614329953,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -6041166030781721526,
+                "POS": -3081946650459865045,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 3
@@ -525,9 +525,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 3.2,
-                "root_concept": 557713308446970310,
-                "POS": -2632073845042311614,
-                "best_hypernym": 4109550973242202982,
+                "root_concept": 1271672674006027631,
+                "POS": 1294539400588226980,
+                "best_hypernym": 5774941483153310944,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 5
@@ -538,9 +538,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 4.666666666666667,
-                "root_concept": 8341692653720728313,
-                "POS": -4750304690958183451,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": -8042163376759518173,
+                "POS": -3495425674522228134,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 9
@@ -551,9 +551,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 6.076923076923077,
-                "root_concept": -6285340465735870876,
-                "POS": 3239088128087083291,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -5843411865715631153,
+                "POS": -7676447428892320955,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 13
@@ -564,9 +564,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 6.8,
-                "root_concept": 175656991579080255,
-                "POS": -3907014773088975411,
-                "best_hypernym": -343862667965414631,
+                "root_concept": -559736715599750790,
+                "POS": -4392473657948295547,
+                "best_hypernym": -5277821980753811847,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 5
@@ -577,9 +577,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 9.5,
-                "root_concept": -2885504365765635171,
-                "POS": -3572051579624777347,
-                "best_hypernym": 8158768943532023030,
+                "root_concept": -6041166030781721526,
+                "POS": -5976891320064920923,
+                "best_hypernym": 2308180682045535869,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 4
@@ -590,9 +590,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 14.25,
-                "root_concept": 1567066181088311097,
-                "POS": -3572051579624777347,
-                "best_hypernym": -5860007402572664008,
+                "root_concept": -6203002336523503520,
+                "POS": -5976891320064920923,
+                "best_hypernym": 7278938639843211961,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 4
@@ -603,8 +603,8 @@
             "color": "b",
             "features": {
                 "ambiguity": 5.5,
-                "root_concept": -8275397632331989561,
-                "POS": 3046596832139717789,
+                "root_concept": -3877041155200524042,
+                "POS": 8131574048114759637,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 0,
@@ -616,9 +616,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 4.5,
-                "root_concept": 648748492916457731,
-                "POS": -6910626329214264756,
-                "best_hypernym": 3521014328356965142,
+                "root_concept": 4694526162416339660,
+                "POS": 1254392720656126202,
+                "best_hypernym": -4364517975333237782,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 4
@@ -629,8 +629,8 @@
             "color": "b",
             "features": {
                 "ambiguity": 12.25,
-                "root_concept": 1567066181088311097,
-                "POS": 8493932766411761281,
+                "root_concept": -6203002336523503520,
+                "POS": -4092524409934798198,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 1,
@@ -642,9 +642,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 7.2,
-                "root_concept": 8442936666156290597,
-                "POS": 3515086329839149102,
-                "best_hypernym": 374425833518087971,
+                "root_concept": -4288372801828347205,
+                "POS": 8882610466193344053,
+                "best_hypernym": -8539287812333171408,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 5
@@ -655,9 +655,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 9.333333333333334,
-                "root_concept": 7434414695765685718,
-                "POS": -4010236645417521719,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -3302306571794496006,
+                "POS": 6752445237597026585,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 6
@@ -668,9 +668,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 8.142857142857142,
-                "root_concept": 175656991579080255,
-                "POS": -8825695097956610570,
-                "best_hypernym": 4109550973242202982,
+                "root_concept": -559736715599750790,
+                "POS": -6858169613261626127,
+                "best_hypernym": 5774941483153310944,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 7
@@ -681,9 +681,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 5.909090909090909,
-                "root_concept": 8442936666156290597,
-                "POS": 3697738466390500307,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -4288372801828347205,
+                "POS": -4442821956469129449,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 11
@@ -694,9 +694,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 4.222222222222222,
-                "root_concept": -8275397632331989561,
-                "POS": 6212738720814679303,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": -3877041155200524042,
+                "POS": 8112956384155820240,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 9
@@ -707,9 +707,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 6.285714285714286,
-                "root_concept": 8442936666156290597,
-                "POS": 7915835438908493141,
-                "best_hypernym": -6418572694773939482,
+                "root_concept": -4288372801828347205,
+                "POS": 2554715172723897208,
+                "best_hypernym": 1002676493751920053,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 7
@@ -720,8 +720,8 @@
             "color": "b",
             "features": {
                 "ambiguity": 5.0,
-                "root_concept": 7434414695765685718,
-                "POS": -6143873238495692203,
+                "root_concept": -3302306571794496006,
+                "POS": -1243165429662469379,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 1,
@@ -733,9 +733,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 6.75,
-                "root_concept": -8275397632331989561,
-                "POS": 3022698033217938114,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -3877041155200524042,
+                "POS": -2385295709949354567,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 8
@@ -746,8 +746,8 @@
             "color": "b",
             "features": {
                 "ambiguity": 2.0,
-                "root_concept": -2885504365765635171,
-                "POS": -8575902667919449607,
+                "root_concept": -6041166030781721526,
+                "POS": -2652384821499201089,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 1,
@@ -759,9 +759,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 4.75,
-                "root_concept": -2885504365765635171,
-                "POS": -1883337122070087885,
-                "best_hypernym": -7155616495035133812,
+                "root_concept": -6041166030781721526,
+                "POS": -5457536465964116819,
+                "best_hypernym": 981254529798782089,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 4
@@ -772,9 +772,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 29.5,
-                "root_concept": 1883418139931547684,
-                "POS": -4093439185173039618,
-                "best_hypernym": 4785067438251935858,
+                "root_concept": -7403611658156821298,
+                "POS": -4928365313726320537,
+                "best_hypernym": -1832878830888750395,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 2
@@ -785,9 +785,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 2.0,
-                "root_concept": 1851285490802691087,
-                "POS": -2368843458522508272,
-                "best_hypernym": 4043476035018233761,
+                "root_concept": -6918727968589601753,
+                "POS": 2227001264436739267,
+                "best_hypernym": -6324425721921659078,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 5
@@ -798,9 +798,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 7.25,
-                "root_concept": 4871319956541151633,
-                "POS": 3659179330652464623,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": 3471989174188580044,
+                "POS": 5075995971620137,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 4
@@ -811,9 +811,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 18.0,
-                "root_concept": -8275397632331989561,
-                "POS": -3572051579624777347,
-                "best_hypernym": 142930513649985003,
+                "root_concept": -3877041155200524042,
+                "POS": -5976891320064920923,
+                "best_hypernym": 835469761793037833,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 4
@@ -824,9 +824,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 6.375,
-                "root_concept": 1381078956971792028,
-                "POS": -8008183151598843333,
-                "best_hypernym": -8392472165458583104,
+                "root_concept": 827351675869452532,
+                "POS": 3591258347095768669,
+                "best_hypernym": 4380720844002952559,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 8
@@ -837,9 +837,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 3.7142857142857144,
-                "root_concept": 8341692653720728313,
-                "POS": -3946356285487723489,
-                "best_hypernym": 374425833518087971,
+                "root_concept": -8042163376759518173,
+                "POS": -8975751963919338597,
+                "best_hypernym": -8539287812333171408,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 7
@@ -850,9 +850,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 4.5,
-                "root_concept": -2885504365765635171,
-                "POS": -7582422868873794175,
-                "best_hypernym": -3132771363479659038,
+                "root_concept": -6041166030781721526,
+                "POS": -7401785648540995700,
+                "best_hypernym": -3432580992171980938,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 8
@@ -863,8 +863,8 @@
             "color": "b",
             "features": {
                 "ambiguity": 9.0,
-                "root_concept": -2885504365765635171,
-                "POS": -6319193080109102571,
+                "root_concept": -6041166030781721526,
+                "POS": -2559929021466562331,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 0,
@@ -876,9 +876,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 11.625,
-                "root_concept": -8275397632331989561,
-                "POS": -9119881709584449445,
-                "best_hypernym": 4109550973242202982,
+                "root_concept": -3877041155200524042,
+                "POS": 5564329368917858029,
+                "best_hypernym": 5774941483153310944,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 8
@@ -889,8 +889,8 @@
             "color": "b",
             "features": {
                 "ambiguity": 5.0,
-                "root_concept": -4991011015472044026,
-                "POS": -1562495171831704639,
+                "root_concept": 3617333810324420856,
+                "POS": -7584613668838638606,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 0,
@@ -902,9 +902,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 4.1875,
-                "root_concept": -2885504365765635171,
-                "POS": 5889715414409088280,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -6041166030781721526,
+                "POS": -3773935188528324030,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 16
@@ -915,9 +915,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 3.0,
-                "root_concept": 9084944033910766571,
-                "POS": -4736142927669650033,
-                "best_hypernym": 4109550973242202982,
+                "root_concept": -3014774610797093971,
+                "POS": -337309616943853852,
+                "best_hypernym": 5774941483153310944,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 4
@@ -928,9 +928,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 3.0,
-                "root_concept": 3770023157620004581,
-                "POS": -7402669576455158792,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": 4475188217493993384,
+                "POS": -7869529911230971622,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 7
@@ -941,9 +941,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 9.0,
-                "root_concept": -7367980196989114844,
-                "POS": -3791630572802519877,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -2617055347300671881,
+                "POS": -6009822573024106071,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 10
@@ -954,9 +954,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 4.714285714285714,
-                "root_concept": 7434414695765685718,
-                "POS": 1067898815048376622,
-                "best_hypernym": -948262011530483072,
+                "root_concept": -3302306571794496006,
+                "POS": -3136108497381571550,
+                "best_hypernym": -6711994315095164228,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 7
@@ -967,9 +967,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 8.714285714285714,
-                "root_concept": 6993145954051282389,
-                "POS": 3751210902308033944,
-                "best_hypernym": 4121652732969319165,
+                "root_concept": 834230994057350674,
+                "POS": -6947946573615378038,
+                "best_hypernym": 5865378376888471330,
                 "sexual_content": 0,
                 "black_card_type": 0,
                 "text_len": 7
@@ -980,9 +980,9 @@
             "color": "b",
             "features": {
                 "ambiguity": 4.666666666666667,
-                "root_concept": 1381078956971792028,
-                "POS": 2436064680191772442,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": 827351675869452532,
+                "POS": 531598848477848239,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 1,
                 "text_len": 3
@@ -995,9 +995,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.3333333333333335,
-                "root_concept": -8275397632331989561,
-                "POS": -6517920748927519255,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -3877041155200524042,
+                "POS": 6206810867418376634,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -1008,9 +1008,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 8.0,
-                "root_concept": 8540103194522494177,
-                "POS": -8963819156471672220,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": 6509517613412664767,
+                "POS": 3804568874906796787,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1021,8 +1021,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 0.0,
-                "root_concept": -4580096674305660052,
-                "POS": -4417525095597611449,
+                "root_concept": 5734511240949615066,
+                "POS": -8538156081373014521,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1034,9 +1034,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 7.666666666666667,
-                "root_concept": -5827004069447279205,
-                "POS": 407528239513176844,
-                "best_hypernym": -3132771363479659038,
+                "root_concept": -5569648938653779245,
+                "POS": -5035083732034323439,
+                "best_hypernym": -3432580992171980938,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -1047,9 +1047,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.5,
-                "root_concept": 175656991579080255,
-                "POS": -4093439185173039618,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -559736715599750790,
+                "POS": -4928365313726320537,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1060,9 +1060,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 7.5,
-                "root_concept": 175656991579080255,
-                "POS": -8963819156471672220,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -559736715599750790,
+                "POS": 3804568874906796787,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 1,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1073,9 +1073,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 21.333333333333332,
-                "root_concept": -8275397632331989561,
-                "POS": 3212889899896210989,
-                "best_hypernym": 4109550973242202982,
+                "root_concept": -3877041155200524042,
+                "POS": -4019091022154961948,
+                "best_hypernym": 5774941483153310944,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -1086,9 +1086,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 10.2,
-                "root_concept": -8275397632331989561,
-                "POS": 2494624720497080252,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -3877041155200524042,
+                "POS": 3212355571852456915,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 5
@@ -1099,10 +1099,10 @@
             "color": "w",
             "features": {
                 "ambiguity": 0.0,
-                "root_concept": 5165400344531361615,
-                "POS": -4417525095597611449,
+                "root_concept": -8631619956170912631,
+                "POS": -8538156081373014521,
                 "best_hypernym": 0,
-                "sexual_content": 0,
+                "sexual_content": 1,
                 "black_card_type": 2,
                 "text_len": 1
             }
@@ -1112,9 +1112,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.5,
-                "root_concept": 7434414695765685718,
-                "POS": -8963819156471672220,
-                "best_hypernym": 4109550973242202982,
+                "root_concept": -3302306571794496006,
+                "POS": 3804568874906796787,
+                "best_hypernym": 5774941483153310944,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1125,9 +1125,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.5,
-                "root_concept": 8540103194522494177,
-                "POS": -4093439185173039618,
-                "best_hypernym": -948262011530483072,
+                "root_concept": 6509517613412664767,
+                "POS": -4928365313726320537,
+                "best_hypernym": -6711994315095164228,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1138,9 +1138,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 5.0,
-                "root_concept": -5659184754537930714,
-                "POS": 984514290109754977,
-                "best_hypernym": 4043476035018233761,
+                "root_concept": -1208276159884363182,
+                "POS": 4346910910562182469,
+                "best_hypernym": -6324425721921659078,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -1151,9 +1151,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": -1782344950474745845,
-                "POS": 7097554358178943738,
-                "best_hypernym": -7155616495035133812,
+                "root_concept": -4348364904987283454,
+                "POS": 8514661590779574746,
+                "best_hypernym": 981254529798782089,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 1
@@ -1164,9 +1164,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.5,
-                "root_concept": -1704778697889584175,
-                "POS": 7710938487276506760,
-                "best_hypernym": 10576134937222159,
+                "root_concept": 1814040298632588786,
+                "POS": -8415955871956800111,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 1,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1177,9 +1177,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": 1381078956971792028,
-                "POS": 7097554358178943738,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": 827351675869452532,
+                "POS": 8514661590779574746,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 1
@@ -1190,8 +1190,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 9.666666666666666,
-                "root_concept": -8275397632331989561,
-                "POS": -3913371120028787743,
+                "root_concept": -3877041155200524042,
+                "POS": -5076638116626818570,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1203,8 +1203,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 5.4,
-                "root_concept": 175656991579080255,
-                "POS": -628075714524749744,
+                "root_concept": -559736715599750790,
+                "POS": 8502431988260761815,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1216,8 +1216,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.7142857142857144,
-                "root_concept": 1381078956971792028,
-                "POS": 4448615428041703054,
+                "root_concept": 827351675869452532,
+                "POS": -6323964742223388329,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1229,8 +1229,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": -2885504365765635171,
-                "POS": -4417525095597611449,
+                "root_concept": -6041166030781721526,
+                "POS": -8538156081373014521,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1242,8 +1242,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 7.5,
-                "root_concept": -1319984572061627251,
-                "POS": 1072624696381873964,
+                "root_concept": -4710456908589406847,
+                "POS": 8354086659298734511,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1255,8 +1255,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.0,
-                "root_concept": -8275397632331989561,
-                "POS": 4215520256489942277,
+                "root_concept": -3877041155200524042,
+                "POS": 6797263073262392553,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1268,9 +1268,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 10.5,
-                "root_concept": -2221343902282828732,
-                "POS": 7710938487276506760,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": 2019035919674952031,
+                "POS": -8415955871956800111,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1281,8 +1281,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": 1381078956971792028,
-                "POS": -1832252258015862749,
+                "root_concept": 827351675869452532,
+                "POS": 2876720168700997974,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1294,8 +1294,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.0,
-                "root_concept": 175656991579080255,
-                "POS": 6605216654580096302,
+                "root_concept": -559736715599750790,
+                "POS": -1193886330276982032,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1307,8 +1307,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.0,
-                "root_concept": 2383999981761452039,
-                "POS": -4093439185173039618,
+                "root_concept": -6400347500367442482,
+                "POS": -4928365313726320537,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1320,9 +1320,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 6.0,
-                "root_concept": -8275397632331989561,
-                "POS": 7097554358178943738,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -3877041155200524042,
+                "POS": 8514661590779574746,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 1
@@ -1333,9 +1333,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.333333333333333,
-                "root_concept": 1381078956971792028,
-                "POS": 984514290109754977,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": 827351675869452532,
+                "POS": 4346910910562182469,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -1346,9 +1346,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.5,
-                "root_concept": 8540103194522494177,
-                "POS": -8963819156471672220,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": 6509517613412664767,
+                "POS": 3804568874906796787,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1359,8 +1359,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 8.0,
-                "root_concept": 7434414695765685718,
-                "POS": 4215520256489942277,
+                "root_concept": -3302306571794496006,
+                "POS": 6797263073262392553,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1372,9 +1372,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.0,
-                "root_concept": 8442936666156290597,
-                "POS": 7097554358178943738,
-                "best_hypernym": -8392472165458583104,
+                "root_concept": -4288372801828347205,
+                "POS": 8514661590779574746,
+                "best_hypernym": 4380720844002952559,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 1
@@ -1385,9 +1385,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 6.0,
-                "root_concept": 1381078956971792028,
-                "POS": 1212796717885165661,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": 827351675869452532,
+                "POS": -38397727239993000,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -1398,9 +1398,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.5,
-                "root_concept": 7434414695765685718,
-                "POS": -8963819156471672220,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": -3302306571794496006,
+                "POS": 3804568874906796787,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1411,9 +1411,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 0.5,
-                "root_concept": 1381078956971792028,
-                "POS": -6862065789249465423,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": 827351675869452532,
+                "POS": 8962491142562886005,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1424,9 +1424,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 7.666666666666667,
-                "root_concept": -1644869750517531608,
-                "POS": -6527376993140155588,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": -2848661290715580962,
+                "POS": -6332375313539529506,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 1,
                 "black_card_type": 2,
                 "text_len": 3
@@ -1437,9 +1437,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 6.75,
-                "root_concept": -8275397632331989561,
-                "POS": -1110882703384986058,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -3877041155200524042,
+                "POS": 9067308936433802134,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 1,
                 "black_card_type": 2,
                 "text_len": 4
@@ -1450,9 +1450,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.0,
-                "root_concept": -8275397632331989561,
-                "POS": -4093439185173039618,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -3877041155200524042,
+                "POS": -4928365313726320537,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1463,8 +1463,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 6.666666666666667,
-                "root_concept": 175656991579080255,
-                "POS": 6761085993338849494,
+                "root_concept": -559736715599750790,
+                "POS": -2477681455766678517,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1476,9 +1476,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.0,
-                "root_concept": -8275397632331989561,
-                "POS": 407528239513176844,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -3877041155200524042,
+                "POS": -5035083732034323439,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 1,
                 "black_card_type": 2,
                 "text_len": 3
@@ -1489,9 +1489,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 6.5,
-                "root_concept": -8275397632331989561,
-                "POS": 7710938487276506760,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -3877041155200524042,
+                "POS": -8415955871956800111,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1502,9 +1502,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 24.333333333333332,
-                "root_concept": 8442936666156290597,
-                "POS": 7474262335020078622,
-                "best_hypernym": -3132771363479659038,
+                "root_concept": -4288372801828347205,
+                "POS": -286788088581895336,
+                "best_hypernym": -3432580992171980938,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -1515,8 +1515,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 0.0,
-                "root_concept": 476966286977733911,
-                "POS": 6605216654580096302,
+                "root_concept": 6910035537968597298,
+                "POS": -1193886330276982032,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1528,8 +1528,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 0.0,
-                "root_concept": 4976285187357437442,
-                "POS": -4417525095597611449,
+                "root_concept": 2765661023330674643,
+                "POS": -8538156081373014521,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1541,8 +1541,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 0.0,
-                "root_concept": 5733076852544430066,
-                "POS": 7097554358178943738,
+                "root_concept": 5540206279495982077,
+                "POS": 8514661590779574746,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1554,8 +1554,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.0,
-                "root_concept": -8275397632331989561,
-                "POS": 6605216654580096302,
+                "root_concept": -3877041155200524042,
+                "POS": -1193886330276982032,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1567,8 +1567,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.0,
-                "root_concept": -7810164606648535859,
-                "POS": 7131428665358623322,
+                "root_concept": 7567436157949983492,
+                "POS": 4788378881651831197,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1580,9 +1580,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": 175656991579080255,
-                "POS": -6862065789249465423,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -559736715599750790,
+                "POS": 8962491142562886005,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1593,9 +1593,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 8.5,
-                "root_concept": 175656991579080255,
-                "POS": -8963819156471672220,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -559736715599750790,
+                "POS": 3804568874906796787,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1606,8 +1606,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": -4412272613040488301,
-                "POS": 6605216654580096302,
+                "root_concept": 6116028693664269429,
+                "POS": -1193886330276982032,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1619,9 +1619,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": -8275397632331989561,
-                "POS": -474097325319741067,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -3877041155200524042,
+                "POS": 1310529772823005654,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -1632,9 +1632,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": 8442936666156290597,
-                "POS": 7097554358178943738,
-                "best_hypernym": -8392472165458583104,
+                "root_concept": -4288372801828347205,
+                "POS": 8514661590779574746,
+                "best_hypernym": 4380720844002952559,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 1
@@ -1645,9 +1645,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.0,
-                "root_concept": 1567066181088311097,
-                "POS": 2704564610118200839,
-                "best_hypernym": 142930513649985003,
+                "root_concept": -6203002336523503520,
+                "POS": -8310090431672425399,
+                "best_hypernym": 835469761793037833,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1658,8 +1658,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 14.0,
-                "root_concept": 175656991579080255,
-                "POS": 4215520256489942277,
+                "root_concept": -559736715599750790,
+                "POS": 6797263073262392553,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1671,9 +1671,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.0,
-                "root_concept": 175656991579080255,
-                "POS": 7097554358178943738,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -559736715599750790,
+                "POS": 8514661590779574746,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 1
@@ -1684,9 +1684,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 15.5,
-                "root_concept": 175656991579080255,
-                "POS": 2291128751763439696,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -559736715599750790,
+                "POS": 2222098725051738157,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 4
@@ -1697,9 +1697,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.0,
-                "root_concept": -8275397632331989561,
-                "POS": 2704564610118200839,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -3877041155200524042,
+                "POS": -8310090431672425399,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1710,9 +1710,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 7.5,
-                "root_concept": 175656991579080255,
-                "POS": 7710938487276506760,
-                "best_hypernym": 4109550973242202982,
+                "root_concept": -559736715599750790,
+                "POS": -8415955871956800111,
+                "best_hypernym": 5774941483153310944,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1723,10 +1723,10 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.333333333333333,
-                "root_concept": -8275397632331989561,
-                "POS": 1585563790620314143,
-                "best_hypernym": 6164480141493544590,
-                "sexual_content": 0,
+                "root_concept": -3877041155200524042,
+                "POS": -2346520680839135728,
+                "best_hypernym": -426230377386833592,
+                "sexual_content": 1,
                 "black_card_type": 2,
                 "text_len": 3
             }
@@ -1736,9 +1736,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 6.0,
-                "root_concept": -5827004069447279205,
-                "POS": 984514290109754977,
-                "best_hypernym": -3132771363479659038,
+                "root_concept": -5569648938653779245,
+                "POS": 4346910910562182469,
+                "best_hypernym": -3432580992171980938,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -1749,9 +1749,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 7.333333333333333,
-                "root_concept": 175656991579080255,
-                "POS": 984514290109754977,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -559736715599750790,
+                "POS": 4346910910562182469,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -1762,8 +1762,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": 1381078956971792028,
-                "POS": 6605216654580096302,
+                "root_concept": 827351675869452532,
+                "POS": -1193886330276982032,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1775,9 +1775,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.5,
-                "root_concept": 1381078956971792028,
-                "POS": 7710938487276506760,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": 827351675869452532,
+                "POS": -8415955871956800111,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1788,10 +1788,10 @@
             "color": "w",
             "features": {
                 "ambiguity": 0.5,
-                "root_concept": -5827004069447279205,
-                "POS": -6862065789249465423,
-                "best_hypernym": -3132771363479659038,
-                "sexual_content": 0,
+                "root_concept": -5569648938653779245,
+                "POS": 8962491142562886005,
+                "best_hypernym": -3432580992171980938,
+                "sexual_content": 1,
                 "black_card_type": 2,
                 "text_len": 2
             }
@@ -1801,9 +1801,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.0,
-                "root_concept": -8275397632331989561,
-                "POS": -2959627988904494479,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -3877041155200524042,
+                "POS": 5300406383549374239,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 4
@@ -1814,8 +1814,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.3333333333333335,
-                "root_concept": -4121294775862724536,
-                "POS": 984514290109754977,
+                "root_concept": -7628077051447534635,
+                "POS": 4346910910562182469,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1827,9 +1827,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 13.0,
-                "root_concept": 1381078956971792028,
-                "POS": 7097554358178943738,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": 827351675869452532,
+                "POS": 8514661590779574746,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 1
@@ -1840,9 +1840,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 9.0,
-                "root_concept": 6959606261867868717,
-                "POS": 3720678381413297870,
-                "best_hypernym": 3521014328356965142,
+                "root_concept": 2439561840185070151,
+                "POS": -7593684689782918709,
+                "best_hypernym": -4364517975333237782,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -1853,9 +1853,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.0,
-                "root_concept": -5827004069447279205,
-                "POS": -6862065789249465423,
-                "best_hypernym": -3132771363479659038,
+                "root_concept": -5569648938653779245,
+                "POS": 8962491142562886005,
+                "best_hypernym": -3432580992171980938,
                 "sexual_content": 1,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1866,9 +1866,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 8.0,
-                "root_concept": -8275397632331989561,
-                "POS": -8963819156471672220,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -3877041155200524042,
+                "POS": 3804568874906796787,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1879,9 +1879,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.0,
-                "root_concept": -8275397632331989561,
-                "POS": 7097554358178943738,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -3877041155200524042,
+                "POS": 8514661590779574746,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 1
@@ -1892,9 +1892,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": 1381078956971792028,
-                "POS": 7097554358178943738,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": 827351675869452532,
+                "POS": 8514661590779574746,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 1
@@ -1905,8 +1905,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 9.5,
-                "root_concept": -8275397632331989561,
-                "POS": 1072624696381873964,
+                "root_concept": -3877041155200524042,
+                "POS": 8354086659298734511,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1918,8 +1918,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.6666666666666665,
-                "root_concept": 6959606261867868717,
-                "POS": -3913371120028787743,
+                "root_concept": 2439561840185070151,
+                "POS": -5076638116626818570,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1931,9 +1931,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.5,
-                "root_concept": -6285340465735870876,
-                "POS": -4093439185173039618,
-                "best_hypernym": 4785067438251935858,
+                "root_concept": -5843411865715631153,
+                "POS": -4928365313726320537,
+                "best_hypernym": -1832878830888750395,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1944,9 +1944,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 6.666666666666667,
-                "root_concept": -2885504365765635171,
-                "POS": 7474262335020078622,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": -6041166030781721526,
+                "POS": -286788088581895336,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -1957,8 +1957,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.0,
-                "root_concept": 175656991579080255,
-                "POS": -8926774021815253410,
+                "root_concept": -559736715599750790,
+                "POS": -2956208730402176949,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1970,8 +1970,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 0.0,
-                "root_concept": -8827806633215932002,
-                "POS": 4215520256489942277,
+                "root_concept": 798631775425182089,
+                "POS": 6797263073262392553,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -1983,9 +1983,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.0,
-                "root_concept": -2885504365765635171,
-                "POS": 7710938487276506760,
-                "best_hypernym": 4043476035018233761,
+                "root_concept": -6041166030781721526,
+                "POS": -8415955871956800111,
+                "best_hypernym": -6324425721921659078,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -1996,8 +1996,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.5,
-                "root_concept": 6993145954051282389,
-                "POS": -1832252258015862749,
+                "root_concept": 834230994057350674,
+                "POS": 2876720168700997974,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2009,9 +2009,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.3333333333333335,
-                "root_concept": 8442936666156290597,
-                "POS": 4040421404080589217,
-                "best_hypernym": -8392472165458583104,
+                "root_concept": -4288372801828347205,
+                "POS": 5688950512009931694,
+                "best_hypernym": 4380720844002952559,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2022,9 +2022,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 5.0,
-                "root_concept": 1851285490802691087,
-                "POS": 771246304780649297,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -6918727968589601753,
+                "POS": -7311864983440007437,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 5
@@ -2035,10 +2035,10 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": 8442936666156290597,
-                "POS": 4215520256489942277,
+                "root_concept": -4288372801828347205,
+                "POS": 6797263073262392553,
                 "best_hypernym": 0,
-                "sexual_content": 0,
+                "sexual_content": 1,
                 "black_card_type": 2,
                 "text_len": 1
             }
@@ -2048,9 +2048,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.8,
-                "root_concept": 8442936666156290597,
-                "POS": -6069237448471898960,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -4288372801828347205,
+                "POS": 8716758732372553954,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 5
@@ -2061,9 +2061,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.3333333333333335,
-                "root_concept": -8275397632331989561,
-                "POS": -8976417042904118834,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -3877041155200524042,
+                "POS": -4866467115109309270,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2074,9 +2074,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.5,
-                "root_concept": 7191314500445703614,
-                "POS": -8963819156471672220,
-                "best_hypernym": 4785067438251935858,
+                "root_concept": -3465704451121516479,
+                "POS": 3804568874906796787,
+                "best_hypernym": -1832878830888750395,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -2087,8 +2087,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 6.0,
-                "root_concept": 369410277048759735,
-                "POS": 6605216654580096302,
+                "root_concept": 335051481883708091,
+                "POS": -1193886330276982032,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2100,9 +2100,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 8.0,
-                "root_concept": 6983636914061714005,
-                "POS": -8963819156471672220,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": 7906275706856200742,
+                "POS": 3804568874906796787,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -2113,8 +2113,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 13.5,
-                "root_concept": -2885504365765635171,
-                "POS": -5301224998678511546,
+                "root_concept": -6041166030781721526,
+                "POS": 6495334584428035071,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2126,8 +2126,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 0.0,
-                "root_concept": -3366790701170997011,
-                "POS": 7097554358178943738,
+                "root_concept": 2974038166108370789,
+                "POS": 8514661590779574746,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2139,9 +2139,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.6666666666666665,
-                "root_concept": 3732646179626707468,
-                "POS": -474097325319741067,
-                "best_hypernym": -948262011530483072,
+                "root_concept": -5848366255057121004,
+                "POS": 1310529772823005654,
+                "best_hypernym": -6711994315095164228,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2152,8 +2152,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 6.0,
-                "root_concept": 1381078956971792028,
-                "POS": 6605216654580096302,
+                "root_concept": 827351675869452532,
+                "POS": -1193886330276982032,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2165,9 +2165,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": 7434414695765685718,
-                "POS": 7097554358178943738,
-                "best_hypernym": 4109550973242202982,
+                "root_concept": -3302306571794496006,
+                "POS": 8514661590779574746,
+                "best_hypernym": 5774941483153310944,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 1
@@ -2178,8 +2178,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 11.0,
-                "root_concept": -1549201357211108016,
-                "POS": 5092573808442924357,
+                "root_concept": -1535175877261943392,
+                "POS": -945646276901554715,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2191,9 +2191,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.25,
-                "root_concept": 6959606261867868717,
-                "POS": -7330383030036234931,
-                "best_hypernym": 3521014328356965142,
+                "root_concept": 2439561840185070151,
+                "POS": 1591622510606133671,
+                "best_hypernym": -4364517975333237782,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 4
@@ -2204,10 +2204,10 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": 4375527800065814192,
-                "POS": -4417525095597611449,
+                "root_concept": -1191720775191752517,
+                "POS": -8538156081373014521,
                 "best_hypernym": 0,
-                "sexual_content": 0,
+                "sexual_content": 1,
                 "black_card_type": 2,
                 "text_len": 1
             }
@@ -2217,9 +2217,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.0,
-                "root_concept": -7622596599927662936,
-                "POS": 1212796717885165661,
-                "best_hypernym": -1201394461197891167,
+                "root_concept": -6043959020849493457,
+                "POS": -38397727239993000,
+                "best_hypernym": -3899320012151026076,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2230,9 +2230,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.0,
-                "root_concept": -5659184754537930714,
-                "POS": 7097554358178943738,
-                "best_hypernym": 4043476035018233761,
+                "root_concept": -1208276159884363182,
+                "POS": 8514661590779574746,
+                "best_hypernym": -6324425721921659078,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 1
@@ -2243,9 +2243,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 8.0,
-                "root_concept": 3732646179626707468,
-                "POS": 3212889899896210989,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -5848366255057121004,
+                "POS": -4019091022154961948,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2256,8 +2256,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": 2322623828531928315,
-                "POS": 6605216654580096302,
+                "root_concept": 8741035789312261907,
+                "POS": -1193886330276982032,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2269,9 +2269,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 15.5,
-                "root_concept": -7810164606648535859,
-                "POS": -4093439185173039618,
-                "best_hypernym": 374425833518087971,
+                "root_concept": 7567436157949983492,
+                "POS": -4928365313726320537,
+                "best_hypernym": -8539287812333171408,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -2282,9 +2282,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.0,
-                "root_concept": 7434414695765685718,
-                "POS": -8963819156471672220,
-                "best_hypernym": 4109550973242202982,
+                "root_concept": -3302306571794496006,
+                "POS": 3804568874906796787,
+                "best_hypernym": 5774941483153310944,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -2295,9 +2295,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.666666666666667,
-                "root_concept": 1381078956971792028,
-                "POS": 7474262335020078622,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": 827351675869452532,
+                "POS": -286788088581895336,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2308,9 +2308,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.0,
-                "root_concept": 1381078956971792028,
-                "POS": 2704564610118200839,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": 827351675869452532,
+                "POS": -8310090431672425399,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -2321,9 +2321,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 9.0,
-                "root_concept": -255157081909621338,
-                "POS": 7710938487276506760,
-                "best_hypernym": 4785067438251935858,
+                "root_concept": 408468303323338204,
+                "POS": -8415955871956800111,
+                "best_hypernym": -1832878830888750395,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -2334,9 +2334,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.0,
-                "root_concept": -1549201357211108016,
-                "POS": -8963819156471672220,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -1535175877261943392,
+                "POS": 3804568874906796787,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 1,
                 "black_card_type": 2,
                 "text_len": 2
@@ -2347,8 +2347,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 11.0,
-                "root_concept": 175656991579080255,
-                "POS": 4215520256489942277,
+                "root_concept": -559736715599750790,
+                "POS": 6797263073262392553,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2360,9 +2360,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 5.0,
-                "root_concept": 175656991579080255,
-                "POS": 7097554358178943738,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -559736715599750790,
+                "POS": 8514661590779574746,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 1
@@ -2373,9 +2373,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": -1549201357211108016,
-                "POS": 7097554358178943738,
-                "best_hypernym": -1442631573324805689,
+                "root_concept": -1535175877261943392,
+                "POS": 8514661590779574746,
+                "best_hypernym": -7038805464751074166,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 1
@@ -2386,9 +2386,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 9.0,
-                "root_concept": -8275397632331989561,
-                "POS": -4093439185173039618,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -3877041155200524042,
+                "POS": -4928365313726320537,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -2399,9 +2399,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.5,
-                "root_concept": -5827004069447279205,
-                "POS": -4093439185173039618,
-                "best_hypernym": -3132771363479659038,
+                "root_concept": -5569648938653779245,
+                "POS": -4928365313726320537,
+                "best_hypernym": -3432580992171980938,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -2412,9 +2412,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 8.5,
-                "root_concept": 1381078956971792028,
-                "POS": -8329770429431433635,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": 827351675869452532,
+                "POS": -301864020381872634,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 4
@@ -2425,8 +2425,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 7.0,
-                "root_concept": 7434414695765685718,
-                "POS": -4417525095597611449,
+                "root_concept": -3302306571794496006,
+                "POS": -8538156081373014521,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2438,8 +2438,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 0.5,
-                "root_concept": 6959606261867868717,
-                "POS": -1832252258015862749,
+                "root_concept": 2439561840185070151,
+                "POS": 2876720168700997974,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2451,9 +2451,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.5,
-                "root_concept": -5659184754537930714,
-                "POS": -8963819156471672220,
-                "best_hypernym": 4043476035018233761,
+                "root_concept": -1208276159884363182,
+                "POS": 3804568874906796787,
+                "best_hypernym": -6324425721921659078,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -2464,8 +2464,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": -8275397632331989561,
-                "POS": -4417525095597611449,
+                "root_concept": -3877041155200524042,
+                "POS": -8538156081373014521,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2477,8 +2477,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.0,
-                "root_concept": 1381078956971792028,
-                "POS": -4417525095597611449,
+                "root_concept": 827351675869452532,
+                "POS": -8538156081373014521,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2490,9 +2490,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.0,
-                "root_concept": 1381078956971792028,
-                "POS": 7097554358178943738,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": 827351675869452532,
+                "POS": 8514661590779574746,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 1
@@ -2503,9 +2503,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 0.75,
-                "root_concept": -5827004069447279205,
-                "POS": 3120371562136041848,
-                "best_hypernym": -3132771363479659038,
+                "root_concept": -5569648938653779245,
+                "POS": -3111625463247071576,
+                "best_hypernym": -3432580992171980938,
                 "sexual_content": 1,
                 "black_card_type": 2,
                 "text_len": 4
@@ -2516,9 +2516,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.6666666666666665,
-                "root_concept": -6969467402302548347,
-                "POS": -1759270571784059032,
-                "best_hypernym": -2328737337362454085,
+                "root_concept": 3310015293846025670,
+                "POS": 8142798936292572367,
+                "best_hypernym": 5496065598586947535,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2529,9 +2529,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 11.0,
-                "root_concept": 175656991579080255,
-                "POS": -8963819156471672220,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -559736715599750790,
+                "POS": 3804568874906796787,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -2542,9 +2542,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 7.0,
-                "root_concept": -7128023221364519586,
-                "POS": -474097325319741067,
-                "best_hypernym": -8392472165458583104,
+                "root_concept": -5191659660792093771,
+                "POS": 1310529772823005654,
+                "best_hypernym": 4380720844002952559,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2555,9 +2555,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.25,
-                "root_concept": -5659184754537930714,
-                "POS": 2291128751763439696,
-                "best_hypernym": 4043476035018233761,
+                "root_concept": -1208276159884363182,
+                "POS": 2222098725051738157,
+                "best_hypernym": -6324425721921659078,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 4
@@ -2568,8 +2568,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 0.5,
-                "root_concept": -8190487036826195396,
-                "POS": 6605216654580096302,
+                "root_concept": -8767869087008049095,
+                "POS": -1193886330276982032,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2581,9 +2581,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.0,
-                "root_concept": 7434414695765685718,
-                "POS": 7097554358178943738,
-                "best_hypernym": 4109550973242202982,
+                "root_concept": -3302306571794496006,
+                "POS": 8514661590779574746,
+                "best_hypernym": 5774941483153310944,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 1
@@ -2594,9 +2594,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 13.0,
-                "root_concept": 175656991579080255,
-                "POS": 7097554358178943738,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -559736715599750790,
+                "POS": 8514661590779574746,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 1
@@ -2607,9 +2607,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.5,
-                "root_concept": 175656991579080255,
-                "POS": -4093439185173039618,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -559736715599750790,
+                "POS": -4928365313726320537,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -2620,9 +2620,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 5.333333333333333,
-                "root_concept": 175656991579080255,
-                "POS": -474097325319741067,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -559736715599750790,
+                "POS": 1310529772823005654,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2633,9 +2633,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.666666666666667,
-                "root_concept": 175656991579080255,
-                "POS": 984514290109754977,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -559736715599750790,
+                "POS": 4346910910562182469,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2646,9 +2646,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.3333333333333335,
-                "root_concept": 2264411619320753510,
-                "POS": 3212889899896210989,
-                "best_hypernym": 4109550973242202982,
+                "root_concept": -1162140896881154526,
+                "POS": -4019091022154961948,
+                "best_hypernym": 5774941483153310944,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2659,9 +2659,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.6666666666666667,
-                "root_concept": -8275397632331989561,
-                "POS": 1212796717885165661,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -3877041155200524042,
+                "POS": -38397727239993000,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2672,8 +2672,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": 1381078956971792028,
-                "POS": 6605216654580096302,
+                "root_concept": 827351675869452532,
+                "POS": -1193886330276982032,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2685,9 +2685,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 8.333333333333334,
-                "root_concept": 8442936666156290597,
-                "POS": 5572640419439868348,
-                "best_hypernym": 374425833518087971,
+                "root_concept": -4288372801828347205,
+                "POS": -7589500811295781452,
+                "best_hypernym": -8539287812333171408,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2698,8 +2698,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.333333333333333,
-                "root_concept": 5640568758875645150,
-                "POS": 6761085993338849494,
+                "root_concept": -4994200305479071740,
+                "POS": -2477681455766678517,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2711,8 +2711,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 0.0,
-                "root_concept": -7840623950936172180,
-                "POS": -4093439185173039618,
+                "root_concept": -4151671331573573822,
+                "POS": -4928365313726320537,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2724,9 +2724,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 5.0,
-                "root_concept": 1381078956971792028,
-                "POS": -8963819156471672220,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": 827351675869452532,
+                "POS": 3804568874906796787,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -2737,9 +2737,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.6666666666666665,
-                "root_concept": 6959606261867868717,
-                "POS": 984514290109754977,
-                "best_hypernym": 3521014328356965142,
+                "root_concept": 2439561840185070151,
+                "POS": 4346910910562182469,
+                "best_hypernym": -4364517975333237782,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2750,9 +2750,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.3333333333333333,
-                "root_concept": -7474434385457660102,
-                "POS": 1103344827374835110,
-                "best_hypernym": 4109550973242202982,
+                "root_concept": -1974131622229215209,
+                "POS": 7601791888329100248,
+                "best_hypernym": 5774941483153310944,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 6
@@ -2763,9 +2763,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.3333333333333335,
-                "root_concept": -8275397632331989561,
-                "POS": 984514290109754977,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -3877041155200524042,
+                "POS": 4346910910562182469,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2776,8 +2776,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 22.0,
-                "root_concept": -3874003313829348123,
-                "POS": 7710938487276506760,
+                "root_concept": 3385440547857573800,
+                "POS": -8415955871956800111,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2789,8 +2789,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": 7434414695765685718,
-                "POS": -1832252258015862749,
+                "root_concept": -3302306571794496006,
+                "POS": 2876720168700997974,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2802,9 +2802,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 7.333333333333333,
-                "root_concept": 175656991579080255,
-                "POS": -474097325319741067,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -559736715599750790,
+                "POS": 1310529772823005654,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2815,9 +2815,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 11.0,
-                "root_concept": -8275397632331989561,
-                "POS": 1212796717885165661,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -3877041155200524042,
+                "POS": -38397727239993000,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2828,8 +2828,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 0.0,
-                "root_concept": -8993531321115888079,
-                "POS": -4417525095597611449,
+                "root_concept": -8373607515216728082,
+                "POS": -8538156081373014521,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2841,8 +2841,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.5,
-                "root_concept": 175656991579080255,
-                "POS": 6605216654580096302,
+                "root_concept": -559736715599750790,
+                "POS": -1193886330276982032,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2854,8 +2854,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 10.0,
-                "root_concept": -7124680969714958669,
-                "POS": 4215520256489942277,
+                "root_concept": -599765246415065402,
+                "POS": 6797263073262392553,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2867,8 +2867,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 23.0,
-                "root_concept": 1567066181088311097,
-                "POS": -8411353982047003256,
+                "root_concept": -6203002336523503520,
+                "POS": 255503279469605874,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2880,9 +2880,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.6666666666666665,
-                "root_concept": 175656991579080255,
-                "POS": 5441764798830934075,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -559736715599750790,
+                "POS": -8215654871313624156,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2893,8 +2893,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.333333333333333,
-                "root_concept": 8442936666156290597,
-                "POS": -3913371120028787743,
+                "root_concept": -4288372801828347205,
+                "POS": -5076638116626818570,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -2906,9 +2906,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 23.0,
-                "root_concept": -7367980196989114844,
-                "POS": 7710938487276506760,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -2617055347300671881,
+                "POS": -8415955871956800111,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -2919,9 +2919,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 7.5,
-                "root_concept": -8275397632331989561,
-                "POS": -6258234598800279626,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -3877041155200524042,
+                "POS": 2297252204215565422,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -2932,9 +2932,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 8.666666666666666,
-                "root_concept": -8275397632331989561,
-                "POS": 7424723102895059576,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -3877041155200524042,
+                "POS": 581363497538568096,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2945,9 +2945,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 5.0,
-                "root_concept": -8275397632331989561,
-                "POS": -2413139341473813031,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -3877041155200524042,
+                "POS": 5949149572084528759,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 5
@@ -2958,9 +2958,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 5.666666666666667,
-                "root_concept": 7705612600257899748,
-                "POS": -474097325319741067,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": -1199910377110558778,
+                "POS": 1310529772823005654,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2971,9 +2971,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.75,
-                "root_concept": 7434414695765685718,
-                "POS": -6661390056268207622,
-                "best_hypernym": 4109550973242202982,
+                "root_concept": -3302306571794496006,
+                "POS": 1775341531685096657,
+                "best_hypernym": 5774941483153310944,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 4
@@ -2984,9 +2984,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 5.333333333333333,
-                "root_concept": -2885504365765635171,
-                "POS": -6162204917867146405,
-                "best_hypernym": 4043476035018233761,
+                "root_concept": -6041166030781721526,
+                "POS": 1628800445468548938,
+                "best_hypernym": -6324425721921659078,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -2997,9 +2997,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.5,
-                "root_concept": -2885504365765635171,
-                "POS": -4093439185173039618,
-                "best_hypernym": 4043476035018233761,
+                "root_concept": -6041166030781721526,
+                "POS": -4928365313726320537,
+                "best_hypernym": -6324425721921659078,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -3010,9 +3010,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 6.5,
-                "root_concept": -7810164606648535859,
-                "POS": -4093439185173039618,
-                "best_hypernym": 374425833518087971,
+                "root_concept": 7567436157949983492,
+                "POS": -4928365313726320537,
+                "best_hypernym": -8539287812333171408,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -3023,8 +3023,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": -7765078538276369915,
-                "POS": -4093439185173039618,
+                "root_concept": -7574346760822960131,
+                "POS": -4928365313726320537,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -3036,8 +3036,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.6666666666666667,
-                "root_concept": 175656991579080255,
-                "POS": -2531467561122041983,
+                "root_concept": -559736715599750790,
+                "POS": 4278918187370649230,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -3049,9 +3049,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.6,
-                "root_concept": 1381078956971792028,
-                "POS": 1982205792712027210,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": 827351675869452532,
+                "POS": 8617889598486847168,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 5
@@ -3062,8 +3062,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.6666666666666665,
-                "root_concept": -6749350298608906368,
-                "POS": 1547923339508932321,
+                "root_concept": 5750594254931868312,
+                "POS": -1517636488870257711,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -3075,8 +3075,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.0,
-                "root_concept": 8442936666156290597,
-                "POS": 579026987035736375,
+                "root_concept": -4288372801828347205,
+                "POS": 8611087034058671004,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -3088,9 +3088,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.5,
-                "root_concept": 6959606261867868717,
-                "POS": -4093439185173039618,
-                "best_hypernym": 3521014328356965142,
+                "root_concept": 2439561840185070151,
+                "POS": -4928365313726320537,
+                "best_hypernym": -4364517975333237782,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -3101,9 +3101,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 5.0,
-                "root_concept": -2885504365765635171,
-                "POS": -7613967866781900268,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": -6041166030781721526,
+                "POS": 4296697096427088953,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -3114,8 +3114,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 24.0,
-                "root_concept": -8275397632331989561,
-                "POS": 4215520256489942277,
+                "root_concept": -3877041155200524042,
+                "POS": 6797263073262392553,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -3127,9 +3127,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 7.75,
-                "root_concept": 8442936666156290597,
-                "POS": 2027601439557475326,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": -4288372801828347205,
+                "POS": 7157092731877118766,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 4
@@ -3140,9 +3140,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.3333333333333333,
-                "root_concept": 8442936666156290597,
-                "POS": 984514290109754977,
-                "best_hypernym": -8392472165458583104,
+                "root_concept": -4288372801828347205,
+                "POS": 4346910910562182469,
+                "best_hypernym": 4380720844002952559,
                 "sexual_content": 1,
                 "black_card_type": 2,
                 "text_len": 3
@@ -3153,8 +3153,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.3333333333333333,
-                "root_concept": 5190345336064189022,
-                "POS": -3913371120028787743,
+                "root_concept": 7623566648587818195,
+                "POS": -5076638116626818570,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -3166,8 +3166,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.0,
-                "root_concept": -1059812054785394394,
-                "POS": -4093439185173039618,
+                "root_concept": -8690850776598557077,
+                "POS": -4928365313726320537,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -3179,8 +3179,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 0.5,
-                "root_concept": 1381078956971792028,
-                "POS": 6605216654580096302,
+                "root_concept": 827351675869452532,
+                "POS": -1193886330276982032,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -3192,9 +3192,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": -8275397632331989561,
-                "POS": -4093439185173039618,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -3877041155200524042,
+                "POS": -4928365313726320537,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -3205,9 +3205,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 5.5,
-                "root_concept": 175656991579080255,
-                "POS": -8963819156471672220,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -559736715599750790,
+                "POS": 3804568874906796787,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -3218,9 +3218,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.5,
-                "root_concept": 1381078956971792028,
-                "POS": -4093439185173039618,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": 827351675869452532,
+                "POS": -4928365313726320537,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -3231,9 +3231,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 7.0,
-                "root_concept": 7434414695765685718,
-                "POS": 1212796717885165661,
-                "best_hypernym": 4109550973242202982,
+                "root_concept": -3302306571794496006,
+                "POS": -38397727239993000,
+                "best_hypernym": 5774941483153310944,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -3244,8 +3244,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 2.5,
-                "root_concept": 1381078956971792028,
-                "POS": 6605216654580096302,
+                "root_concept": 827351675869452532,
+                "POS": -1193886330276982032,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -3257,9 +3257,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 8.5,
-                "root_concept": 8442936666156290597,
-                "POS": -8963819156471672220,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": -4288372801828347205,
+                "POS": 3804568874906796787,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -3270,8 +3270,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.0,
-                "root_concept": 1381078956971792028,
-                "POS": -4231263789366714555,
+                "root_concept": 827351675869452532,
+                "POS": 8703684968766106855,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -3283,8 +3283,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 0.0,
-                "root_concept": -2085439512810068505,
-                "POS": 6605216654580096302,
+                "root_concept": 4408530531303718261,
+                "POS": -1193886330276982032,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -3296,9 +3296,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.714285714285714,
-                "root_concept": 7191314500445703614,
-                "POS": -8761113327004314579,
-                "best_hypernym": -7789668289576785959,
+                "root_concept": -3465704451121516479,
+                "POS": 5251119898782738110,
+                "best_hypernym": 896438579856645557,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 7
@@ -3309,8 +3309,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.0,
-                "root_concept": 8442936666156290597,
-                "POS": -4417525095597611449,
+                "root_concept": -4288372801828347205,
+                "POS": -8538156081373014521,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -3322,8 +3322,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 0.0,
-                "root_concept": -8116285988418807070,
-                "POS": 6605216654580096302,
+                "root_concept": 63806656922568467,
+                "POS": -1193886330276982032,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -3335,9 +3335,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.0,
-                "root_concept": -8275397632331989561,
-                "POS": -8963819156471672220,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -3877041155200524042,
+                "POS": 3804568874906796787,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -3348,8 +3348,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 0.0,
-                "root_concept": -3333607495414986916,
-                "POS": 7097554358178943738,
+                "root_concept": -1018016192058579180,
+                "POS": 8514661590779574746,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -3361,8 +3361,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.0,
-                "root_concept": 175656991579080255,
-                "POS": -3913371120028787743,
+                "root_concept": -559736715599750790,
+                "POS": -5076638116626818570,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -3374,9 +3374,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 5.0,
-                "root_concept": -7810164606648535859,
-                "POS": -4093439185173039618,
-                "best_hypernym": 374425833518087971,
+                "root_concept": 7567436157949983492,
+                "POS": -4928365313726320537,
+                "best_hypernym": -8539287812333171408,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -3387,8 +3387,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.0,
-                "root_concept": 175656991579080255,
-                "POS": 4215520256489942277,
+                "root_concept": -559736715599750790,
+                "POS": 6797263073262392553,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -3400,8 +3400,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 0.0,
-                "root_concept": -7716127012858984722,
-                "POS": 6605216654580096302,
+                "root_concept": -7270403723241825822,
+                "POS": -1193886330276982032,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -3413,9 +3413,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 6.333333333333333,
-                "root_concept": 1851285490802691087,
-                "POS": -7613967866781900268,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -6918727968589601753,
+                "POS": 4296697096427088953,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -3426,9 +3426,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.0,
-                "root_concept": 1381078956971792028,
-                "POS": -7850335000204706550,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": 827351675869452532,
+                "POS": 8790900998754680999,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -3439,8 +3439,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 10.5,
-                "root_concept": -5289971201035067439,
-                "POS": 3814091698197240197,
+                "root_concept": 2978837451905866781,
+                "POS": 5006559007838905277,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
@@ -3452,9 +3452,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 8.0,
-                "root_concept": 3427462670432750652,
-                "POS": 2291128751763439696,
-                "best_hypernym": 10576134937222159,
+                "root_concept": -3034434042836330333,
+                "POS": 2222098725051738157,
+                "best_hypernym": -1317378324795344655,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 4
@@ -3465,9 +3465,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 6.666666666666667,
-                "root_concept": 1381078956971792028,
-                "POS": -474097325319741067,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": 827351675869452532,
+                "POS": 1310529772823005654,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -3478,9 +3478,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 1.5,
-                "root_concept": -6285340465735870876,
-                "POS": -4093439185173039618,
-                "best_hypernym": 4785067438251935858,
+                "root_concept": -5843411865715631153,
+                "POS": -4928365313726320537,
+                "best_hypernym": -1832878830888750395,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -3491,9 +3491,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 8.4,
-                "root_concept": -6285340465735870876,
-                "POS": -8603371522562918281,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -5843411865715631153,
+                "POS": -8277049231581385775,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 5
@@ -3504,9 +3504,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 7.0,
-                "root_concept": 7434414695765685718,
-                "POS": -8963819156471672220,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -3302306571794496006,
+                "POS": 3804568874906796787,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -3517,9 +3517,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 5.333333333333333,
-                "root_concept": 7434414695765685718,
-                "POS": 984514290109754977,
-                "best_hypernym": 4109550973242202982,
+                "root_concept": -3302306571794496006,
+                "POS": 4346910910562182469,
+                "best_hypernym": 5774941483153310944,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -3530,9 +3530,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 6.25,
-                "root_concept": 3427462670432750652,
-                "POS": 4646841741479560226,
-                "best_hypernym": 4121652732969319165,
+                "root_concept": -3034434042836330333,
+                "POS": -415045948654864441,
+                "best_hypernym": 5865378376888471330,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 4
@@ -3543,9 +3543,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 3.5,
-                "root_concept": 175656991579080255,
-                "POS": -8963819156471672220,
-                "best_hypernym": 6164480141493544590,
+                "root_concept": -559736715599750790,
+                "POS": 3804568874906796787,
+                "best_hypernym": -426230377386833592,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 2
@@ -3556,9 +3556,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 10.0,
-                "root_concept": -6757704700386155557,
-                "POS": -3168519180239395704,
-                "best_hypernym": 4109550973242202982,
+                "root_concept": 6616830621199056925,
+                "POS": 8264216499308697093,
+                "best_hypernym": 5774941483153310944,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -3569,9 +3569,9 @@
             "color": "w",
             "features": {
                 "ambiguity": 4.666666666666667,
-                "root_concept": 8442936666156290597,
-                "POS": -474097325319741067,
-                "best_hypernym": -7833669466318791902,
+                "root_concept": -4288372801828347205,
+                "POS": 1310529772823005654,
+                "best_hypernym": 3716535376883443681,
                 "sexual_content": 0,
                 "black_card_type": 2,
                 "text_len": 3
@@ -3582,8 +3582,8 @@
             "color": "w",
             "features": {
                 "ambiguity": 0.6666666666666666,
-                "root_concept": -3504556125930737377,
-                "POS": -3028035440615904227,
+                "root_concept": -6143499302753296663,
+                "POS": 7217528041333441309,
                 "best_hypernym": 0,
                 "sexual_content": 0,
                 "black_card_type": 2,
