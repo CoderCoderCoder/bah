@@ -15,9 +15,6 @@ def load_texts(whites=False):
     blacks = deck['blackCards']
     whites = deck['whiteCards']
 
-    print("imported number of white cards: " + str(len(whites)))
-    print("imported number of black cards: " + str(len(blacks)))
-
     if whites:
         return [whites[key]["text"] for key in whites]
 
@@ -158,13 +155,14 @@ def get_all_noun_hypernyms(sentences):
     return dictionary
 
 
-def compute_feature_for(sen):
+def compute_feature_for(sen, noun_hypernyms):
     doc = nlp(sen)
     f1 = feature_synset_num(doc)
     f2 = feature_root_concept(doc)
     f3 = feature_POS(doc)
+    f4 = feature_most_freq_noun_hypernym(noun_hypernyms, doc)
 
-    features = [f1, f2, f3]
+    features = [f1, f2, f3, f4]
 
     print(sen)
     print(features)
@@ -176,16 +174,19 @@ def compute_feature_for(sen):
 def compute_all_features():
     blacks, whites = load_jsons()
 
+    texts = load_texts()
+    noun_hypernyms = get_all_noun_hypernyms(texts)
+
     # compute black features
     for key in list(blacks.keys()):
         sen = blacks[key]["text"]
-        features = compute_feature_for(sen)
+        features = compute_feature_for(sen, noun_hypernyms)
         blacks[key]["features"] = features
 
     # compute white features
     for key in list(whites.keys()):
         sen = whites[key]["text"]
-        features = compute_feature_for(sen)
+        features = compute_feature_for(sen, noun_hypernyms)
         whites[key]["features"] = features
 
     return blacks, whites
